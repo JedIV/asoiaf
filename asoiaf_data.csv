@@ -1,0 +1,2138 @@
+Character,Book,Page,Chapter No,Chapter Name,POV,Title,Forename,Surname,OldSurname,Alias,RegnalNo,Gender,AliveStatus
+Gared,A Game of Thrones,1,0,Prologue,Will,,Gared,,,,,M,D
+Ser Waymar Royce,A Game of Thrones,1,0,Prologue,Will,Ser,Waymar,Royce,,,,M,D
+Will,A Game of Thrones,1,0,Prologue,Will,,Will,,,,,M,D
+"Brandon Stark, Bran",A Game of Thrones,11,1,Bran I,Bran Stark,,Brandon,Stark,,Bran,,M,A
+"King Mance Rayder, King-Beyond-the-Wall",A Game of Thrones,11,1,Bran I,Bran Stark,King,Mance,Rayder,,King-Beyond-the-Wall,,M,A
+"Nan, Old Nan",A Game of Thrones,11,1,Bran I,Bran Stark,,Nan,,,Old Nan,,F,A
+Robb Stark,A Game of Thrones,11,1,Bran I,Bran Stark,,Robb,Stark,,,,M,D
+Jon Snow,A Game of Thrones,11,1,Bran I,Bran Stark,,Jon,Snow,,,,M,U
+Lord Eddard Stark,A Game of Thrones,12,1,Bran I,Bran Stark,Lord,Eddard,Stark,,,,M,D
+Theon Greyjoy,A Game of Thrones,12,1,Bran I,Bran Stark,,Theon,Greyjoy,,,,M,A
+King Robert Baratheon,A Game of Thrones,12,1,Bran I,Bran Stark,King,Robert,Baratheon,,,,M,D
+Jory Cassel,A Game of Thrones,14,1,Bran I,Bran Stark,,Jory,Cassel,,,,M,D
+Hullen,A Game of Thrones,16,1,Bran I,Bran Stark,,Hullen,,,,,M,D
+Harwin,A Game of Thrones,16,1,Bran I,Bran Stark,,Harwin,,,,,M,A
+Ser Rodrik Cassel,A Game of Thrones,17,1,Bran I,Bran Stark,Ser,Rodrik,Cassel,,,,M,D
+Rickon Stark,A Game of Thrones,17,1,Bran I,Bran Stark,,Rickon,Stark,,,,M,A
+Desmond,A Game of Thrones,18,1,Bran I,Bran Stark,,Desmond,,,,,M,D
+Lady Catelyn Stark,A Game of Thrones,19,2,Catelyn I,Catelyn Tully,Lady,Catelyn,Stark,Tully,,,F,D
+"Brandon Stark, The Builder",A Game of Thrones,20,2,Catelyn I,Catelyn Tully,,Brandon,Stark,,The Builder,,M,D
+Arya Stark,A Game of Thrones,20,2,Catelyn I,Catelyn Tully,,Arya,Stark,,,,F,A
+Sansa Stark,A Game of Thrones,21,2,Catelyn I,Catelyn Tully,,Sansa,Stark,,,,F,A
+Maester Luwin,A Game of Thrones,22,2,Catelyn I,Catelyn Tully,Maester,Luwin,,,,,M,D
+Lord Jon Arryn,A Game of Thrones,22,2,Catelyn I,Catelyn Tully,Lord,Jon,Arryn,,,,M,D
+"King Aerys II Targaryen, The Mad King",A Game of Thrones,22,2,Catelyn I,Catelyn Tully,King,Aerys,Targaryen,,The Mad King,II,M,D
+Lord Hoster Tully,A Game of Thrones,22,2,Catelyn I,Catelyn Tully,Lord,Hoster,Tully,,,,M,D
+Grand Maester Pycelle,A Game of Thrones,22,2,Catelyn I,Catelyn Tully,Grand Maester,Pycelle,,,,,M,D
+"Ser Brynden Tully, Blackfish",A Game of Thrones,23,2,Catelyn I,Catelyn Tully,Ser,Brynden,Tully,,Blackfish,,M,A
+Benjen Stark,A Game of Thrones,23,2,Catelyn I,Catelyn Tully,,Benjen,Stark,,,,M,U
+Lady Lysa Arryn,A Game of Thrones,23,2,Catelyn I,Catelyn Tully,Lady,Lysa,Arryn,Tully,,,F,D
+Queen Cersei Lannister,A Game of Thrones,23,2,Catelyn I,Catelyn Tully,Queen,Cersei,Lannister,,,,F,A
+Prince Tommen Baratheon,A Game of Thrones,24,2,Catelyn I,Catelyn Tully,Prince,Tommen,Baratheon,,,,M,A
+"Princess Daenerys Targaryen, Stormborn",A Game of Thrones,25,3,Daenerys I,Daenerys Targaryen,Princess,Daenerys,Targaryen,,Stormborn,,F,A
+Magister Illyrio Mopatis,A Game of Thrones,25,3,Daenerys I,Daenerys Targaryen,Magister,Illyrio,Mopatis,,,,M,A
+"Prince Viserys Targaryen, The Beggar King",A Game of Thrones,25,3,Daenerys I,Daenerys Targaryen,Prince,Viserys,Targaryen,,The Beggar King,,M,D
+Khal Drogo,A Game of Thrones,26,3,Daenerys I,Daenerys Targaryen,Khal,Drogo,,,,,M,D
+Prince Rhaegar Targaryen,A Game of Thrones,27,3,Daenerys I,Daenerys Targaryen,Prince,Rhaegar,Targaryen,,,,M,D
+Princess Elia Martell,A Game of Thrones,27,3,Daenerys I,Daenerys Targaryen,Princess,Elia,Martell,,,,F,D
+Ser Willem Darry,A Game of Thrones,27,3,Daenerys I,Daenerys Targaryen,Ser,Willem,Darry,,,,M,D
+"King Aegon I Targaryen, The Conqueror/The Dragon”",A Game of Thrones,29,3,Daenerys I,Daenerys Targaryen,King,Aegon,Targaryen,,The Conqueror/The Dragon”,I,M,D
+Khal Moro,A Game of Thrones,33,3,Daenerys I,Daenerys Targaryen,Khal,Moro,,,,,M,A
+Rhogoro,A Game of Thrones,33,3,Daenerys I,Daenerys Targaryen,,Rhogoro,,,,,M,A
+Ser Jorah Mormont,A Game of Thrones,33,3,Daenerys I,Daenerys Targaryen,Ser,Jorah,Mormont,,,,M,A
+"Ser Jaime Lannister, Kingslayer",A Game of Thrones,36,4,Eddard I,Eddard Stark,Ser,Jaime,Lannister,,Kingslayer,,M,A
+"Sandor Clegane, The Hound",A Game of Thrones,36,4,Eddard I,Eddard Stark,,Sandor,Clegane,,The Hound,,M,U
+"Tyrion Lannister, The Imp",A Game of Thrones,36,4,Eddard I,Eddard Stark,,Tyrion,Lannister,,The Imp,,M,A
+Lord Balon Greyjoy,A Game of Thrones,37,4,Eddard I,Eddard Stark,Lord,Balon,Greyjoy,,,,M,D
+Lord Rickard Stark,A Game of Thrones,40,4,Eddard I,Eddard Stark,Lord,Rickard,Stark,,,,M,D
+Lyanna Stark,A Game of Thrones,40,4,Eddard I,Eddard Stark,,Lyanna,Stark,,,,F,D
+Lord Howland Reed,A Game of Thrones,40,4,Eddard I,Eddard Stark,Lord,Howland,Reed,,,,M,A
+Lord Tywin Lannister,A Game of Thrones,41,4,Eddard I,Eddard Stark,Lord,Tywin,Lannister,,,,M,D
+Prince Joffrey Baratheon,A Game of Thrones,45,4,Eddard I,Eddard Stark,Prince,Joffrey,Baratheon,,,,M,D
+Princess Myrcella Baratheon,A Game of Thrones,47,5,Jon I,Jon Snow,Princess,Myrcella,Baratheon,,,,F,A
+"Prince Daeron Targaryen, The Drunken",A Game of Thrones,51,5,Jon I,Jon Snow,Prince,Daeron,Targaryen,,The Drunken,,M,D
+Ser Edmure Tully,A Game of Thrones,55,6,Catelyn II,Catelyn Tully,Ser,Edmure,Tully,,,,M,A
+"Brandon Stark, Brother of Eddard",A Game of Thrones,56,6,Catelyn II,Catelyn Tully,,Brandon,Stark,,Brother of Eddard,,M,D
+"Ser Arthur Dayne, Sword of the Morning",A Game of Thrones,62,6,Catelyn II,Catelyn Tully,Ser,Arthur,Dayne,,Sword of the Morning,,M,D
+Lady Ashara Dayne,A Game of Thrones,62,6,Catelyn II,Catelyn Tully,Lady,Ashara,Dayne,,,,F,D
+Septa Mordane,A Game of Thrones,64,7,Arya I,Arya Stark,Septa,Mordane,,,,,F,D
+Beth Cassel,A Game of Thrones,64,7,Arya I,Arya Stark,,Beth,Cassel,,,,F,A
+Lew,A Game of Thrones,69,7,Arya I,Arya Stark,,Lew,,,,,M,U
+Donnis,A Game of Thrones,69,7,Arya I,Arya Stark,,Donnis,,,,,M,U
+"Ser Serwyn, Of the Mirror Shield",A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Serwyn,,,Of the Mirror Shield,,M,D
+Ser Ryam Redwyne,A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Ryam,Redwyne,,,,M,D
+"Prince Aemon Targaryen, The Dragonknight",A Game of Thrones,73,8,Bran II,Bran Stark,Prince,Aemon,Targaryen,,The Dragonknight,,M,D
+Ser Erryk Cargyll,A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Erryk,Cargyll,,,,M,D
+Ser Arryk Cargyll,A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Arryk,Cargyll,,,,M,D
+"Ser Gerold Hightower, The White Bull",A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Gerold,Hightower,,The White Bull,,M,D
+Ser Barristan Selmy,A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Barristan,Selmy,,,,M,A
+Ser Boros Blount,A Game of Thrones,73,8,Bran II,Bran Stark,Ser,Boros,Blount,,,,M,A
+Gage,A Game of Thrones,73,8,Bran II,Bran Stark,,Gage,,,,,M,U
+Mikken,A Game of Thrones,73,8,Bran II,Bran Stark,,Mikken,,,,,M,D
+"Walder, Hodor",A Game of Thrones,73,8,Bran II,Bran Stark,,Walder,,,Hodor,,M,A
+Stannis Baratheon,A Game of Thrones,78,8,Bran II,Bran Stark,,Stannis,Baratheon,,,,M,U
+Renly Baratheon,A Game of Thrones,78,8,Bran II,Bran Stark,,Renly,Baratheon,,,,M,D
+"Lord Petyr Baelish, Littlefinger",A Game of Thrones,78,8,Bran II,Bran Stark,Lord,Petyr,Baelish,,Littlefinger,,M,A
+Grand Maester Aethelmure,A Game of Thrones,82,9,Tyrion I,Tyrion Lannister,Grand Maester,Aethelmure,,,,,M,D
+Septon Chayle,A Game of Thrones,82,9,Tyrion I,Tyrion Lannister,Septon,Chayle,,,,,M,D
+Ayrmidon,A Game of Thrones,82,9,Tyrion I,Tyrion Lannister,,Ayrmidon,,,,,M,D
+Irri,A Game of Thrones,98,11,Daenerys II,Daenerys Targaryen,,Irri,,,,,F,A
+Jhiqui,A Game of Thrones,98,11,Daenerys II,Daenerys Targaryen,,Jhiqui,,,,,F,A
+Doreah,A Game of Thrones,98,11,Daenerys II,Daenerys Targaryen,,Doreah,,,,,F,D
+Haggo,A Game of Thrones,99,11,Daenerys II,Daenerys Targaryen,,Haggo,,,,,M,D
+Ko Cohollo,A Game of Thrones,99,11,Daenerys II,Daenerys Targaryen,Ko,Cohollo,,,,,M,D
+Qotho,A Game of Thrones,99,11,Daenerys II,Daenerys Targaryen,,Qotho,,,,,M,D
+"Alyn, Guard at Winterfell",A Game of Thrones,104,12,Eddard II,Eddard Stark,,Alyn,,,Guard at Winterfell,,M,D
+Wylla,A Game of Thrones,105,12,Eddard II,Eddard Stark,,Wylla,,,,,F,U
+"King Baelor I Targaryen, The Blessed",A Game of Thrones,106,12,Eddard II,Eddard Stark,King,Baelor,Targaryen,,The Blessed,I,M,D
+"Varys, The Spider",A Game of Thrones,106,12,Eddard II,Eddard Stark,,Varys,,,The Spider,,M,A
+Yoren,A Game of Thrones,114,13,Tyrion II,Tyrion Lannister,,Yoren,,,,,M,D
+"King Loren, Of the Rock",A Game of Thrones,117,13,Tyrion II,Tyrion Lannister,King,Loren,Lannister,,Of the Rock,I,M,D
+"King Mern, Of the Reach",A Game of Thrones,117,13,Tyrion II,Tyrion Lannister,King,Mern,Gardener,,Of the Reach,IX,M,D
+Morrec,A Game of Thrones,121,13,Tyrion II,Tyrion Lannister,,Morrec,,,,,M,D
+Vayon Poole,A Game of Thrones,123,14,Catelyn III,Catelyn Tully,,Vayon,Poole,,,,M,D
+Hallis Mollen,A Game of Thrones,128,14,Catelyn III,Catelyn Tully,,Hallis,Mollen,,,,M,U
+Mycah,A Game of Thrones,134,15,Sansa I,Sansa Stark,,Mycah,,,,,M,D
+Ser Ilyn Payne,A Game of Thrones,140,15,Sansa I,Sansa Stark,Ser,Ilyn,Payne,,,,M,A
+Princess Daeryssa,A Game of Thrones,141,15,Sansa I,Sansa Stark,Princess,Daeryssa,,,,,F,F
+Queen Naerys Targaryen,A Game of Thrones,142,15,Sansa I,Sansa Stark,Queen,Naerys,Targaryen,,,,F,D
+Ser Morgil,A Game of Thrones,142,15,Sansa I,Sansa Stark,Ser,Morgil,,,,,M,D
+Ser Raymun Darry,A Game of Thrones,148,16,Eddard III,Eddard Stark,Ser,Raymun,Darry,,,,M,D
+Captain Moreo Tumitis,A Game of Thrones,159,18,Catelyn IV,Catelyn Tully,Captain,Moreo,Tumitis,,,,M,A
+Ser Aron Santagar,A Game of Thrones,160,18,Catelyn IV,Catelyn Tully,Ser,Aron,Santagar,,,,M,D
+"King Maegor I Targaryen, The Cruel",A Game of Thrones,162,18,Catelyn IV,Catelyn Tully,King,Maegor,Targaryen,,The Cruel,I,M,D
+"Ser Loras Tyrell, Knight of Flowers",A Game of Thrones,169,18,Catelyn IV,Catelyn Tully,Ser,Loras,Tyrell,,Knight of Flowers,,M,U
+"Grenn, Aurochs",A Game of Thrones,170,19,Jon III,Jon Snow,,Grenn,,,Aurochs,,M,A
+Ser Alliser Thorne,A Game of Thrones,170,19,Jon III,Jon Snow,Ser,Alliser,Thorne,,,,M,U
+Jeren,A Game of Thrones,170,19,Jon III,Jon Snow,,Jeren,,,,,M,U
+"Todder, Toad",A Game of Thrones,170,19,Jon III,Jon Snow,,Todder,,,Toad,,M,A
+Dareon,A Game of Thrones,171,19,Jon III,Jon Snow,,Dareon,,,,,M,D
+"Pypar, Pyp",A Game of Thrones,171,19,Jon III,Jon Snow,,Pypar,,,Pyp,,M,A
+"Halder, Stone Head",A Game of Thrones,171,19,Jon III,Jon Snow,,Halder,,,Stone Head,,M,A
+"Lord Commander Jeor Mormont, The Old Bear",A Game of Thrones,172,19,Jon III,Jon Snow,Lord Commander,Jeor,Mormont,,The Old Bear,,M,D
+Maester Aemon,A Game of Thrones,172,19,Jon III,Jon Snow,Maester,Aemon,,Targaryen,,,M,D
+Donal Noye,A Game of Thrones,174,19,Jon III,Jon Snow,,Donal,Noye,,,,M,D
+Cotter Pyke,A Game of Thrones,175,19,Jon III,Jon Snow,,Cotter,Pyke,,,,M,A
+Bowen Marsh,A Game of Thrones,178,19,Jon III,Jon Snow,,Bowen,Marsh,,,,M,A
+Lord Mace Tyrell,A Game of Thrones,188,20,Eddard IV,Eddard Stark,Lord,Mace,Tyrell,,,,M,A
+"High Septon , The Fat One",A Game of Thrones,188,20,Eddard IV,Eddard Stark,High Septon,?,,,The Fat One,,M,D
+Ser Helman Tallhart,A Game of Thrones,195,20,Eddard IV,Eddard Stark,Ser,Helman,Tallhart,,,,M,D
+Lord Galbart Glover,A Game of Thrones,195,20,Eddard IV,Eddard Stark,Lord,Galbart,Glover,,,,M,U
+Lord Wyman Manderly,A Game of Thrones,195,20,Eddard IV,Eddard Stark,Lord,Wyman,Manderly,,,,M,A
+Ser Jaremy Rykker,A Game of Thrones,198,21,Tyrion III,Tyrion Lannister,Ser,Jaremy,Rykker,,,,M,D
+Jyck,A Game of Thrones,200,21,Tyrion III,Tyrion Lannister,,Jyck,,,,,M,D
+Lady Maege Mormont,A Game of Thrones,200,21,Tyrion III,Tyrion Lannister,Lady,Maege,Mormont,,,,F,A
+"Lord Yohn Royce, Bronze Yohn",A Game of Thrones,200,21,Tyrion III,Tyrion Lannister,Lord,Yohn,Royce,,Bronze Yohn,,M,A
+Ser Denys Mallister,A Game of Thrones,202,21,Tyrion III,Tyrion Lannister,Ser,Denys,Mallister,,,,M,A
+Jeyne Poole,A Game of Thrones,210,22,Arya II,Arya Stark,,Jeyne,Poole,,,,F,A
+Jacks,A Game of Thrones,210,22,Arya II,Arya Stark,,Jacks,,,,,M,U
+Porther,A Game of Thrones,210,22,Arya II,Arya Stark,,Porther,,,,,M,D
+"Tomard, Fat Tom",A Game of Thrones,211,22,Arya II,Arya Stark,,Tomard,,,Fat Tom,,M,D
+Syrio Forel,A Game of Thrones,218,22,Arya II,Arya Stark,,Syrio,Forel,,,,M,U
+"King Aegon III Targaryen, Dragonbane",A Game of Thrones,227,23,Daenerys III,Daenerys Targaryen,King,Aegon,Targaryen,,Dragonbane,III,M,D
+King Maekar I Targaryen,A Game of Thrones,243,25,Eddard V,Eddard Stark,King,Maekar,Targaryen,,,I,M,D
+Maester Colemon,A Game of Thrones,244,25,Eddard V,Eddard Stark,Maester,Colemon,,,,,M,A
+King Jaehaerys II Targaryen,A Game of Thrones,245,25,Eddard V,Eddard Stark,King,Jaehaerys,Targaryen,,,II,M,D
+"King Aegon V Targaryen, The Fortunate/The Unlikely",A Game of Thrones,245,25,Eddard V,Eddard Stark,King,Aegon,Targaryen,,The Fortunate/The Unlikely,V,M,D
+Grand Maester Malleon,A Game of Thrones,246,25,Eddard V,Eddard Stark,Grand Maester,Malleon,,,,,M,D
+"Ser Hugh, Of the Vale",A Game of Thrones,249,25,Eddard V,Eddard Stark,Ser,Hugh,,,Of the Vale,,M,D
+Rast,A Game of Thrones,252,26,Jon IV,Jon Snow,,Rast,,,,,M,D
+Albett,A Game of Thrones,253,26,Jon IV,Jon Snow,,Albett,,,,,M,A
+Samwell Tarly,A Game of Thrones,254,26,Jon IV,Jon Snow,,Samwell,Tarly,,,,M,A
+Lord Randyll Tarly,A Game of Thrones,254,26,Jon IV,Jon Snow,Lord,Randyll,Tarly,,,,M,A
+"Qhorin, Halfhand",A Game of Thrones,259,26,Jon IV,Jon Snow,,Qhorin,,,Halfhand,,M,D
+Lord Mathis Rowan,A Game of Thrones,261,26,Jon IV,Jon Snow,Lord,Mathis,Rowan,,,,M,A
+Janos Slynt,A Game of Thrones,264,27,Eddard VI,Eddard Stark,,Janos,Slynt,,,,M,D
+"Lann, The Clever",A Game of Thrones,266,27,Eddard VI,Eddard Stark,,Lann,,,The Clever,,M,F
+Margaery Tyrell,A Game of Thrones,268,27,Eddard VI,Eddard Stark,,Margaery,Tyrell,,,,F,A
+Varly,A Game of Thrones,269,27,Eddard VI,Eddard Stark,,Varly,,,,,M,D
+"Lord Beric Dondarrion, The Lightning Lord",A Game of Thrones,270,27,Eddard VI,Eddard Stark,Lord,Beric,Dondarrion,,The Lightning Lord,,M,D
+Tobho Mott,A Game of Thrones,271,27,Eddard VI,Eddard Stark,,Tobho,Mott,,,,M,A
+Gendry,A Game of Thrones,272,27,Eddard VI,Eddard Stark,,Gendry,,,,,M,A
+Masha Heddle,A Game of Thrones,276,28,Catelyn V,Catelyn Tully,,Masha,Heddle,,,,F,D
+Lord Jason Mallister,A Game of Thrones,276,28,Catelyn V,Catelyn Tully,Lord,Jason,Mallister,,,,M,A
+Patrek Mallister,A Game of Thrones,276,28,Catelyn V,Catelyn Tully,,Patrek,Mallister,,,,M,A
+Lady Shella Whent,A Game of Thrones,278,28,Catelyn V,Catelyn Tully,Lady,Shella,Whent,,,,F,D
+"Lord Walder Frey, The Late Lord Frey",A Game of Thrones,278,28,Catelyn V,Catelyn Tully,Lord,Walder,Frey,,The Late Lord Frey,,M,A
+Marillion,A Game of Thrones,280,28,Catelyn V,Catelyn Tully,,Marillion,,,,,M,D
+"Alia, Of Braavos",A Game of Thrones,280,28,Catelyn V,Catelyn Tully,,Alia,,,Of Braavos,,F,A
+Lord Jonos Bracken,A Game of Thrones,283,28,Catelyn V,Catelyn Tully,Lord,Jonos,Bracken,,,,M,A
+"Thoros, Of Myr",A Game of Thrones,285,29,Sansa II,Sansa Stark,,Thoros,,,Of Myr,,M,A
+Ser Balon Swann,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Balon,Swann,,,,M,A
+Lord Bryce Caron,A Game of Thrones,285,29,Sansa II,Sansa Stark,Lord,Bryce,Caron,,,,M,D
+Ser Andar Royce,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Andar,Royce,,,,M,A
+Ser Robar Royce,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Robar,Royce,,,,M,D
+"Ser Horas Redwyne, Horror",A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Horas,Redwyne,,Horror,,M,A
+"Ser Hobber Redwyne, Slobber",A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Hobber,Redwyne,,Slobber,,M,A
+Ser Jared Frey,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Jared,Frey,,,,M,D
+Ser Hosteen Frey,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Hosteen,Frey,,,,M,A
+Ser Danwell Frey,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Danwell,Frey,,,,M,A
+Ser Emmon Frey,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Emmon,Frey,,,,M,A
+Ser Theo Frey,A Game of Thrones,285,29,Sansa II,Sansa Stark,Ser,Theo,Frey,,,,M,U
+Martyn Rivers,A Game of Thrones,285,29,Sansa II,Sansa Stark,,Martyn,Rivers,,,,M,U
+Jalabhar Xho,A Game of Thrones,285,29,Sansa II,Sansa Stark,,Jalabhar,Xho,,,,M,A
+Lothor Brune,A Game of Thrones,285,29,Sansa II,Sansa Stark,,Lothor,Brune,,,,M,A
+Moon Boy,A Game of Thrones,290,29,Sansa II,Sansa Stark,,Moon Boy,,,,,M,A
+Lancel Lannister,A Game of Thrones,297,30,Eddard VII,Eddard Stark,,Lancel,Lannister,,,,M,A
+Dacks,A Game of Thrones,301,30,Eddard VII,Eddard Stark,,Dacks,,,,,M,U
+Anguy,A Game of Thrones,306,30,Eddard VII,Eddard Stark,,Anguy,,,,,M,U
+Cayn,A Game of Thrones,310,30,Eddard VII,Eddard Stark,,Cayn,,,,,M,D
+Chiggen,A Game of Thrones,314,31,Tyrion IV,Tyrion Lannister,,Chiggen,,,,,M,D
+Bronn,A Game of Thrones,314,31,Tyrion IV,Tyrion Lannister,,Bronn,,,,,M,A
+Mohor,A Game of Thrones,319,31,Tyrion IV,Tyrion Lannister,,Mohor,,,,,M,D
+Ser Willis Wode,A Game of Thrones,319,31,Tyrion IV,Tyrion Lannister,Ser,Willis,Wode,,,,M,A
+Kurleket,A Game of Thrones,319,31,Tyrion IV,Tyrion Lannister,,Kurleket,,,,,M,D
+Lharys,A Game of Thrones,319,31,Tyrion IV,Tyrion Lannister,,Lharys,,,,,M,D
+Godwyn,A Game of Thrones,350,34,Catelyn VI,Catelyn Tully,,Godwyn,,,,,M,U
+Lord Roose Bolton,A Game of Thrones,341,33,Eddard VIII,Eddard Stark,Lord,Roose,Bolton,,,,M,A
+Lady Tanda Stokeworth,A Game of Thrones,346,33,Eddard VIII,Eddard Stark,Lady,Tanda,Stokeworth,,,,F,D
+Ser Donnel Waynwood,A Game of Thrones,349,34,Catelyn VI,Catelyn Tully,Ser,Donnel,Waynwood,,,,M,A
+Lord Nestor Royce,A Game of Thrones,354,34,Catelyn VI,Catelyn Tully,Lord,Nestor,Royce,,,,M,A
+Mya Stone,A Game of Thrones,358,34,Catelyn VI,Catelyn Tully,,Mya,Stone,,,,F,A
+Mychel Redfort,A Game of Thrones,359,34,Catelyn VI,Catelyn Tully,,Mychel,Redfort,,,,M,A
+Ser Lyn Corbray,A Game of Thrones,359,34,Catelyn VI,Catelyn Tully,Ser,Lyn,Corbray,,,,M,A
+Ser Vardis Egen,A Game of Thrones,362,34,Catelyn VI,Catelyn Tully,Ser,Vardis,Egen,,,,M,D
+Heward,A Game of Thrones,366,35,Eddard IX,Eddard Stark,,Heward,,,,,M,D
+Wyl,A Game of Thrones,366,35,Eddard IX,Eddard Stark,,Wyl,,,,,M,D
+Chataya,A Game of Thrones,367,35,Eddard IX,Eddard Stark,,Chataya,,,,,F,A
+Barra,A Game of Thrones,368,35,Eddard IX,Eddard Stark,,Barra,,,,,F,D
+Lady Selyse Baratheon,A Game of Thrones,368,35,Eddard IX,Eddard Stark,Lady,Selyse,Baratheon,Florent,,,F,A
+Tregar,A Game of Thrones,371,35,Eddard IX,Eddard Stark,,Tregar,,,,,M,D
+Joseth,A Game of Thrones,383,37,Bran V,Bran Stark,,Joseth,,,,,M,U
+Kyra,A Game of Thrones,384,37,Bran V,Bran Stark,,Kyra,,,,,F,D
+Bessa,A Game of Thrones,385,37,Bran V,Bran Stark,,Bessa,,,,,F,D
+Stiv,A Game of Thrones,390,37,Bran V,Bran Stark,,Stiv,,,,,M,D
+Hali,A Game of Thrones,390,37,Bran V,Bran Stark,,Hali,,,,,F,D
+Osha,A Game of Thrones,390,37,Bran V,Bran Stark,,Osha,,,,,F,A
+Farlen,A Game of Thrones,391,37,Bran V,Bran Stark,,Farlen,,,,,M,D
+Quent,A Game of Thrones,394,37,Bran V,Bran Stark,,Quent,,,,,M,U
+Wallen,A Game of Thrones,395,37,Bran V,Bran Stark,,Wallen,,,,,M,D
+Wayn,A Game of Thrones,395,37,Bran V,Bran Stark,,Wayn,,,,,M,U
+Mord,A Game of Thrones,396,38,Tyrion V,Tyrion Lannister,,Mord,,,,,M,A
+Ser Albar Royce,A Game of Thrones,405,38,Tyrion V,Tyrion Lannister,Ser,Albar,Royce,,,,M,A
+Lord Eon Hunter,A Game of Thrones,405,38,Tyrion V,Tyrion Lannister,Lord,Eon,Hunter,,,,M,D
+Lady Anya Waynwood,A Game of Thrones,405,38,Tyrion V,Tyrion Lannister,Lady,Anya,Waynwood,,,,F,A
+Martyn Cassel,A Game of Thrones,409,39,Eddard X,Eddard Stark,,Martyn,Cassel,,,,M,D
+Theo Wull,A Game of Thrones,409,39,Eddard X,Eddard Stark,,Theo,Wull,,,,M,D
+Ethan Glover,A Game of Thrones,409,39,Eddard X,Eddard Stark,,Ethan,Glover,,,,M,D
+Ser Mark Ryswell,A Game of Thrones,409,39,Eddard X,Eddard Stark,Ser,Mark,Ryswell,,,,M,D
+Lord Willam Dustin,A Game of Thrones,409,39,Eddard X,Eddard Stark,Lord,Willam,Dustin,,,,M,D
+Ser Oswell Whent,A Game of Thrones,409,39,Eddard X,Eddard Stark,Ser,Oswell,Whent,,,,M,D
+Alyssa Arryn,A Game of Thrones,416,40,Catelyn VII,Catelyn Tully,,Alyssa,Arryn,,,,F,D
+Lord Vance,A Game of Thrones,416,40,Catelyn VII,Catelyn Tully,Lord,?,Vance,,,,M,D
+Lord Clement Piper,A Game of Thrones,416,40,Catelyn VII,Catelyn Tully,Lord,Clement,Piper,,,,M,A
+Ser Morton Waynwood,A Game of Thrones,420,40,Catelyn VII,Catelyn Tully,Ser,Morton,Waynwood,,,,M,A
+Gueren,A Game of Thrones,429,41,Jon V,Jon Snow,,Gueren,,,,,M,A
+"Matthar, Ser Loon",A Game of Thrones,430,41,Jon V,Jon Snow,,Matthar,,,Ser Loon,,M,A
+"Hobb, Three-finger",A Game of Thrones,430,41,Jon V,Jon Snow,,Hobb,,,Three-finger,,M,A
+Cuger,A Game of Thrones,432,41,Jon V,Jon Snow,,Cuger,,,,,M,A
+Clydas,A Game of Thrones,433,41,Jon V,Jon Snow,,Clydas,,,,,M,A
+Chett,A Game of Thrones,433,41,Jon V,Jon Snow,,Chett,,,,,M,D
+"Gunthor, Son of Gurn",A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Gunthor,,,Son of Gurn,,M,A
+Gurn,A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Gurn,,,,,M,U
+"Shagga, Son of Dolf",A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Shagga,,,Son of Dolf,,M,A
+Dolf,A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Dolf,,,,,M,U
+"Conn, Son of Coratt",A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Conn,,,Son of Coratt,,M,D
+Coratt,A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Coratt,,,,,M,U
+Torrek,A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Torrek,,,,,M,A
+Jaggot,A Game of Thrones,444,42,Tyrion VI,Tyrion Lannister,,Jaggot,,,,,M,A
+Ser Karyl Vance,A Game of Thrones,447,43,Eddard XI,Eddard Stark,Ser,Karyl,Vance,,,,M,A
+Ser Arys Oakheart,A Game of Thrones,447,43,Eddard XI,Eddard Stark,Ser,Arys,Oakheart,,,,M,D
+Joss,A Game of Thrones,447,43,Eddard XI,Eddard Stark,,Joss,,,,,M,A
+Ser Marq Piper,A Game of Thrones,449,43,Eddard XI,Eddard Stark,Ser,Marq,Piper,,,,M,A
+Ser Gladden Wylde,A Game of Thrones,453,43,Eddard XI,Eddard Stark,Ser,Gladden,Wylde,,,,M,D
+Lord Lothar Mallery,A Game of Thrones,453,43,Eddard XI,Eddard Stark,Lord,Lothar,Mallery,,,,M,D
+Jonquil,A Game of Thrones,461,44,Sansa III,Sansa Stark,,Jonquil,,,,,F,F
+"Ser Florian, The Fool",A Game of Thrones,461,44,Sansa III,Sansa Stark,Ser,Florian,,,The Fool,,M,F
+Tya Lannister,A Game of Thrones,469,45,Eddard XII,Eddard Stark,,Tya,Lannister,,,,F,D
+Gowen Baratheon,A Game of Thrones,469,45,Eddard XII,Eddard Stark,,Gowen,Baratheon,,,,M,D
+Khal Ogo,A Game of Thrones,475,46,Daenerys V,Daenerys Targaryen,Khal,Ogo,,,,,M,D
+Khalakka Fogo,A Game of Thrones,475,46,Daenerys V,Daenerys Targaryen,Khalakka,Fogo,,,,,M,D
+Khal Jommo,A Game of Thrones,475,46,Daenerys V,Daenerys Targaryen,Khal,Jommo,,,,,M,A
+Ser Preston Greenfield,A Game of Thrones,485,47,Eddard XIII,Eddard Stark,Ser,Preston,Greenfield,,,,M,D
+Ser Kevan Lannister,A Game of Thrones,490,47,Eddard XIII,Eddard Stark,Ser,Kevan,Lannister,,,,M,D
+Captain Qos,A Game of Thrones,492,47,Eddard XIII,Eddard Stark,Captain,Qos,,,,,M,A
+Septon Cellador,A Game of Thrones,497,48,Jon VI,Jon Snow,Septon,Cellador,,,,,M,A
+Othell Yarwyck,A Game of Thrones,497,48,Jon VI,Jon Snow,,Othell,Yarwyck,,,,M,A
+Borcas,A Game of Thrones,500,48,Jon VI,Jon Snow,,Borcas,,,,,M,A
+Dickon Tarly,A Game of Thrones,502,48,Jon VI,Jon Snow,,Dickon,Tarly,,,,M,A
+Dywen,A Game of Thrones,504,48,Jon VI,Jon Snow,,Dywen,,,,,M,U
+Ser Mandon Moore,A Game of Thrones,532,51,Sansa IV,Sansa Stark,Ser,Mandon,Moore,,,,M,D
+Othor,A Game of Thrones,532,51,Sansa IV,Sansa Stark,,Othor,,,,,M,D
+Lady Shella,A Game of Thrones,532,51,Sansa IV,Sansa Stark,Lady,Shella,,,,,F,F
+The Rainbow Knight,A Game of Thrones,532,51,Sansa IV,Sansa Stark,,?,,,The Rainbow Knight,,M,F
+Jafer Flowers,A Game of Thrones,533,52,Jon VII,Jon Snow,,Jafer,Flowers,,,,M,D
+Bass,A Game of Thrones,533,52,Jon VII,Jon Snow,,Bass,,,,,M,U
+Hake,A Game of Thrones,538,52,Jon VII,Jon Snow,,Hake,,,,,M,D
+Ketter,A Game of Thrones,538,52,Jon VII,Jon Snow,,Ketter,,,,,M,U
+Lord Rickard Karstark,A Game of Thrones,549,53,Bran VI,Bran Stark,Lord,Rickard,Karstark,,,,M,D
+Harrion Karstark,A Game of Thrones,549,53,Bran VI,Bran Stark,,Harrion,Karstark,,,,M,A
+Eddard Karstark,A Game of Thrones,549,53,Bran VI,Bran Stark,,Eddard,Karstark,,,,M,D
+Torrhen Karstark,A Game of Thrones,549,53,Bran VI,Bran Stark,,Torrhen,Karstark,,,,M,D
+Lord Medger Cerwyn,A Game of Thrones,550,53,Bran VI,Bran Stark,Lord,Medger,Cerwyn,,,,M,D
+Lord Robin Flint,A Game of Thrones,551,53,Bran VI,Bran Stark,Lord,Robin,Flint,,,,M,D
+Robett Glover,A Game of Thrones,554,53,Bran VI,Bran Stark,,Robett,Glover,,,,M,A
+Lord Halys Hornwood,A Game of Thrones,555,53,Bran VI,Bran Stark,Lord,Halys,Hornwood,,,,M,D
+"Lord Jon Umber, Greatjon",A Game of Thrones,555,53,Bran VI,Bran Stark,Lord,Jon,Umber,,Greatjon,,M,A
+Captain Byan Votyris,A Game of Thrones,565,54,Daenerys VI,Daenerys Targaryen,Captain,Byan,Votyris,,,,M,A
+Quaro,A Game of Thrones,568,54,Daenerys VI,Daenerys Targaryen,,Quaro,,,,,M,D
+Rakharo,A Game of Thrones,568,54,Daenerys VI,Daenerys Targaryen,,Rakharo,,,,,M,A
+Khal Bharbo,A Game of Thrones,574,54,Daenerys VI,Daenerys Targaryen,Khal,Bharbo,,,,,M,D
+Ser Wylis Manderly,A Game of Thrones,575,55,Catelyn VIII,Catelyn Tully,Ser,Wylis,Manderly,,,,M,A
+Ser Wendel Manderly,A Game of Thrones,575,55,Catelyn VIII,Catelyn Tully,Ser,Wendel,Manderly,,,,M,D
+"Chella, Daughter of Cheyk",A Game of Thrones,586,56,Tyrion VII,Tyrion Lannister,,Chella,,,Daughter of Cheyk,,F,A
+"Ulf, Son of Umar",A Game of Thrones,586,56,Tyrion VII,Tyrion Lannister,,Ulf,,,Son of Umar,,M,D
+Umar,A Game of Thrones,586,56,Tyrion VII,Tyrion Lannister,,Umar,,,,,M,U
+"Timett, Son of Timett",A Game of Thrones,587,56,Tyrion VII,Tyrion Lannister,,Timett,,,Son of Timett,,M,A
+Timett,A Game of Thrones,587,56,Tyrion VII,Tyrion Lannister,,Timett,,,,,M,U
+Ser Flement Brax,A Game of Thrones,588,56,Tyrion VII,Tyrion Lannister,Ser,Flement,Brax,,,,M,A
+Lord Roland Crakehall,A Game of Thrones,589,56,Tyrion VII,Tyrion Lannister,Lord,Roland,Crakehall,,,,M,A
+Lord Tytos Lannister,A Game of Thrones,594,56,Tyrion VII,Tyrion Lannister,Lord,Tytos,Lannister,,,,M,D
+Ser Addam Marbrand,A Game of Thrones,594,56,Tyrion VII,Tyrion Lannister,Ser,Addam,Marbrand,,,,M,A
+Lord Gyles Rosby,A Game of Thrones,597,57,Sansa V,Sansa Stark,Lord,Gyles,Rosby,,,,M,D
+Ser Dontos Hollard,A Game of Thrones,597,57,Sansa V,Sansa Stark,Ser,Dontos,Hollard,,,,M,D
+Ser Stevron Frey,A Game of Thrones,598,57,Sansa V,Sansa Stark,Ser,Stevron,Frey,,,,M,D
+Lord Tytos Blackwood,A Game of Thrones,598,57,Sansa V,Sansa Stark,Lord,Tytos,Blackwood,,,,M,A
+Prince Doran Martell,A Game of Thrones,598,57,Sansa V,Sansa Stark,Prince,Doran,Martell,,,,M,A
+Prince Lewyn Martell,A Game of Thrones,600,57,Sansa V,Sansa Stark,Prince,Lewyn,Martell,,,,M,D
+"Princess Rhaenys Targaryen, Rhaegar's daughter",A Game of Thrones,613,58,Eddard XV,Eddard Stark,Princess,Rhaenys,Targaryen,,Rhaegar's daughter,,F,D
+Ser Perwyn Frey,A Game of Thrones,620,59,Catelyn IX,Catelyn Tully,Ser,Perwyn,Frey,,,,M,A
+Ryger Rivers,A Game of Thrones,625,59,Catelyn IX,Catelyn Tully,,Ryger,Rivers,,,,M,U
+Olyvar Frey,A Game of Thrones,626,59,Catelyn IX,Catelyn Tully,,Olyvar,Frey,,,,M,U
+Elmar Frey,A Game of Thrones,626,59,Catelyn IX,Catelyn Tully,,Elmar,Frey,,,,M,U
+Ser Endrew Tarth,A Game of Thrones,633,60,Jon VIII,Jon Snow,Ser,Endrew,Tarth,,,,M,D
+"Pate, Of the Night's Watch",A Game of Thrones,634,60,Jon VIII,Jon Snow,,Pate,,,Of the Night's Watch,,M,A
+Rudge,A Game of Thrones,635,60,Jon VIII,Jon Snow,,Rudge,,,,,M,U
+"King Harren Hoare, The Black",A Game of Thrones,638,60,Jon VIII,Jon Snow,King,Harren,Hoare,,The Black,,M,D
+Jhogo,A Game of Thrones,643,61,Daenerys VII,Daenerys Targaryen,,Jhogo,,,,,M,A
+Mago,A Game of Thrones,646,61,Daenerys VII,Daenerys Targaryen,,Mago,,,,,M,U
+Ko Jhaqo,A Game of Thrones,646,61,Daenerys VII,Daenerys Targaryen,Ko,Jhaqo,,,,,M,A
+Mirri Maz Duur,A Game of Thrones,647,61,Daenerys VII,Daenerys Targaryen,,Mirri,Maz Duur,,,,F,D
+Archmaester Marwyn,A Game of Thrones,648,61,Daenerys VII,Daenerys Targaryen,Archmaester,Marwyn,,,,,M,A
+Lord Leo Lefford,A Game of Thrones,652,62,Tyrion VIII,Tyrion Lannister,Lord,Leo,Lefford,,,,M,D
+Podrick Payne,A Game of Thrones,654,62,Tyrion VIII,Tyrion Lannister,,Podrick,Payne,,,,M,U
+Shae,A Game of Thrones,655,62,Tyrion VIII,Tyrion Lannister,,Shae,,,,,F,D
+Lord Lewys Lydden,A Game of Thrones,660,62,Tyrion VIII,Tyrion Lannister,Lord,Lewys,Lydden,,,,M,U
+Lord Serrett,A Game of Thrones,660,62,Tyrion VIII,Tyrion Lannister,Lord,?,Serrett,,,,M,U
+"Jon Umber, Smalljon",A Game of Thrones,673,63,Catelyn X,Catelyn Tully,,Jon,Umber,,Smalljon,,M,D
+Daryn Hornwood,A Game of Thrones,673,63,Catelyn X,Catelyn Tully,,Daryn,Hornwood,,,,M,D
+Dacey Mormont,A Game of Thrones,673,63,Catelyn X,Catelyn Tully,,Dacey,Mormont,,,,F,D
+Lord Gawen Westerling,A Game of Thrones,677,63,Catelyn X,Catelyn Tully,Lord,Gawen,Westerling,,,,M,A
+Lord Quenten Banefort,A Game of Thrones,677,63,Catelyn X,Catelyn Tully,Lord,Quenten,Banefort,,,,M,A
+Ser Garth Greenfield,A Game of Thrones,677,63,Catelyn X,Catelyn Tully,Ser,Garth,Greenfield,,,,M,A
+Lord Regenard Estren,A Game of Thrones,677,63,Catelyn X,Catelyn Tully,Lord,Regenard,Estren,,,,M,A
+Ser Tytos Brax,A Game of Thrones,677,63,Catelyn X,Catelyn Tully,Ser,Tytos,Brax,,,,M,A
+"Mallor, The Dornishman",A Game of Thrones,677,63,Catelyn X,Catelyn Tully,,Mallor,,,The Dornishman,,M,U
+Eroeh,A Game of Thrones,680,64,Daenerys VIII,Daenerys Targaryen,,Eroeh,,,,,F,D
+Ko Pono,A Game of Thrones,683,64,Daenerys VIII,Daenerys Targaryen,Ko,Pono,,,,,M,A
+Buu,A Game of Thrones,698,65,Arya V,Arya Stark,,Buu,,,,,?,U
+"Symeon, Star-Eyes",A Game of Thrones,706,66,Bran VII,Bran Stark,,Symeon,,,Star-Eyes,,M,F
+King Jon Stark,A Game of Thrones,708,66,Bran VII,Bran Stark,King,Jon,Stark,,,,M,D
+King Rickard Stark,A Game of Thrones,708,66,Bran VII,Bran Stark,King,Rickard,Stark,,,,M,D
+King Theon Stark,A Game of Thrones,708,66,Bran VII,Bran Stark,King,Theon,Stark,,,,M,D
+"King Brandon Stark, The Shipwright",A Game of Thrones,709,66,Bran VII,Bran Stark,King,Brandon,Stark,,The Shipwright,,M,D
+"King Brandon Stark, The Burner",A Game of Thrones,709,66,Bran VII,Bran Stark,King,Brandon,Stark,,The Burner,,M,D
+King Rodrik Stark,A Game of Thrones,709,66,Bran VII,Bran Stark,King,Rodrik,Stark,,,,M,D
+"King Torrhen Stark, The King who Knelt",A Game of Thrones,709,66,Bran VII,Bran Stark,King,Torrhen,Stark,,The King who Knelt,,M,D
+Lord Cregan Stark,A Game of Thrones,709,66,Bran VII,Bran Stark,Lord,Cregan,Stark,,,,M,D
+Ser Harys Swyft,A Game of Thrones,738,69,Tyrion IX,Tyrion Lannister,Ser,Harys,Swyft,,,,M,A
+Lord Andros Brax,A Game of Thrones,739,69,Tyrion IX,Tyrion Lannister,Lord,Andros,Brax,,,,M,D
+Ser Forley Prester,A Game of Thrones,740,69,Tyrion IX,Tyrion Lannister,Ser,Forley,Prester,,,,M,A
+Vargo Hoat,A Game of Thrones,744,69,Tyrion IX,Tyrion Lannister,,Vargo,Hoat,,,,M,D
+Ser Amory Lorch,A Game of Thrones,744,69,Tyrion IX,Tyrion Lannister,Ser,Amory,Lorch,,,,M,D
+Maester Vyman,A Game of Thrones,763,71,Catelyn XI,Catelyn Tully,Maester,Vyman,,,,,M,A
+Bethany Rowan,A Game of Thrones,764,71,Catelyn XI,Catelyn Tully,,Bethany,Rowan,Redwyne,,,F,A
+Lord Orys Baratheon,A Game of Thrones,783,73,Appendix,N/A,Lord,Orys,Baratheon,,,,M,D
+"King Argilac Durrandon, The Arrogant",A Game of Thrones,783,73,Appendix,N/A,King,Argilac,Durrandon,,The Arrogant,,M,D
+Lady Shireen Baratheon,A Game of Thrones,783,73,Appendix,N/A,Lady,Shireen,Baratheon,,,,F,A
+Tyrek Lannister,A Game of Thrones,784,73,Appendix,N/A,,Tyrek,Lannister,,,,M,U
+Lady Joanna Lannister,A Game of Thrones,787,73,Appendix,N/A,Lady,Joanna,Lannister,,,,F,D
+Dorna Lannister,A Game of Thrones,787,73,Appendix,N/A,,Dorna,Lannister,Swyft,,,F,A
+Willem Lannister,A Game of Thrones,787,73,Appendix,N/A,,Willem,Lannister,,,,M,D
+Martyn Lannister,A Game of Thrones,787,73,Appendix,N/A,,Martyn,Lannister,,,,M,A
+Janei Lannister,A Game of Thrones,787,73,Appendix,N/A,,Janei,Lannister,,,,F,A
+Genna Frey,A Game of Thrones,787,73,Appendix,N/A,,Genna,Frey,Lannister,,,F,A
+Ser Cleos Frey,A Game of Thrones,787,73,Appendix,N/A,Ser,Cleos,Frey,,,,M,D
+Tion Frey,A Game of Thrones,787,73,Appendix,N/A,,Tion,Frey,,,,M,D
+"Ser Tygett Lannister, Tyg",A Game of Thrones,788,73,Appendix,N/A,Ser,Tygett,Lannister,,Tyg,,M,D
+Darlessa Marbrand,A Game of Thrones,788,73,Appendix,N/A,,Darlessa,Marbrand,,,,F,A
+"Gerion Lannister, Gery",A Game of Thrones,788,73,Appendix,N/A,,Gerion,Lannister,,Gery,,M,U
+Joy Hill,A Game of Thrones,788,73,Appendix,N/A,,Joy,Hill,,,,F,A
+Ser Stafford Lannister,A Game of Thrones,788,73,Appendix,N/A,Ser,Stafford,Lannister,,,,M,D
+Cerenna Lannister,A Game of Thrones,788,73,Appendix,N/A,,Cerenna,Lannister,,,,F,A
+Myrielle Lannister,A Game of Thrones,788,73,Appendix,N/A,,Myrielle,Lannister,,,,F,A
+Ser Daven Lannister,A Game of Thrones,788,73,Appendix,N/A,Ser,Daven,Lannister,,,,M,A
+Maester Creylen,A Game of Thrones,788,73,Appendix,N/A,Maester,Creylen,,,,,M,A
+Lady Jeyne Arryn,A Game of Thrones,789,73,Appendix,N/A,Lady,Jeyne,Arryn,,,,F,D
+Lady Rowena Arryn,A Game of Thrones,789,73,Appendix,N/A,Lady,Rowena,Arryn,,,,F,D
+"King Harwyn Hoare, Hardhand",A Game of Thrones,791,73,Appendix,N/A,King,Harwyn,Hoare,,Hardhand,,M,D
+"King Arrec Durrandon, The Storm King",A Game of Thrones,791,73,Appendix,N/A,King,Arrec,Durrandon,,The Storm King,,M,D
+Edmyn Tully,A Game of Thrones,791,73,Appendix,N/A,,Edmyn,Tully,,,,M,D
+Lady Minisa Tully,A Game of Thrones,791,73,Appendix,N/A,Lady,Minisa,Tully,Whent,,,F,D
+Ser Desmond Grell,A Game of Thrones,791,73,Appendix,N/A,Ser,Desmond,Grell,,,,M,A
+Robin Ryger,A Game of Thrones,791,73,Appendix,N/A,,Robin,Ryger,,,,M,A
+Utherydes Wayn,A Game of Thrones,792,73,Appendix,N/A,,Utherydes,Wayn,,,,M,A
+"King Garth Gardener, Greenhand",A Game of Thrones,793,73,Appendix,N/A,King,Garth,Gardener,,Greenhand,,M,D
+Lord Harlen Tyrell,A Game of Thrones,793,73,Appendix,N/A,Lord,Harlen,Tyrell,,,,M,D
+Lady Alerie Tyrell,A Game of Thrones,793,73,Appendix,N/A,Lady,Alerie,Tyrell,Hightower,,,F,A
+Willas Tyrell,A Game of Thrones,793,73,Appendix,N/A,,Willas,Tyrell,,,,M,A
+"Ser Garlan Tyrell, The Gallant",A Game of Thrones,793,73,Appendix,N/A,Ser,Garlan,Tyrell,,The Gallant,,M,A
+"Lady Olenna Tyrell, Queen of Thorns",A Game of Thrones,793,73,Appendix,N/A,Lady,Olenna,Tyrell,Redwyne,Queen of Thorns,,F,A
+Lady Mina Redwyne,A Game of Thrones,793,73,Appendix,N/A,Lady,Mina,Redwyne,Tyrell,,,F,A
+Lord Paxter Redwyne,A Game of Thrones,793,73,Appendix,N/A,Lord,Paxter,Redwyne,,,,M,A
+Lady Janna Fossoway,A Game of Thrones,793,73,Appendix,N/A,Lady,Janna,Fossoway,Tyrell,,,F,A
+"Garth Tyrell, The Gross",A Game of Thrones,793,73,Appendix,N/A,,Garth,Tyrell,,The Gross,,M,D
+Garse Flowers,A Game of Thrones,794,73,Appendix,N/A,,Garse,Flowers,,,,M,A
+Garrett Flowers,A Game of Thrones,794,73,Appendix,N/A,,Garrett,Flowers,,,,M,A
+Ser Moryn Tyrell,A Game of Thrones,794,73,Appendix,N/A,Ser,Moryn,Tyrell,,,,M,A
+Maester Gormon,A Game of Thrones,794,73,Appendix,N/A,Maester,Gormon,,Tyrell,,,M,A
+Maester Lomys,A Game of Thrones,794,73,Appendix,N/A,Maester,Lomys,,,,,M,A
+Ser Vortimer Crane,A Game of Thrones,794,73,Appendix,N/A,Ser,Vortimer,Crane,,,,M,A
+Desmera Redwyne,A Game of Thrones,794,73,Appendix,N/A,,Desmera,Redwyne,,,,F,A
+Lady Arwyn Oakheart,A Game of Thrones,794,73,Appendix,N/A,Lady,Arwyn,Oakheart,,,,F,A
+Lord Leyton Hightower,A Game of Thrones,794,73,Appendix,N/A,Lord,Leyton,Hightower,,,,M,A
+Ser Jon Fossoway,A Game of Thrones,794,73,Appendix,N/A,Ser,Jon,Fossoway,,,,M,A
+The Grey King,A Game of Thrones,795,73,Appendix,N/A,,?,,,The Grey King,,M,U
+"King Urron Greyiron, Redhand",A Game of Thrones,795,73,Appendix,N/A,King,Urron,Greyiron,,Redhand,,M,D
+King Qhored Hoare,A Game of Thrones,795,73,Appendix,N/A,King,Qhored,Hoare,,,,M,D
+Lord Vickon Greyjoy,A Game of Thrones,796,73,Appendix,N/A,Lord,Vickon,Greyjoy,,,,M,D
+Lady Alannys Greyjoy,A Game of Thrones,796,73,Appendix,N/A,Lady,Alannys,Greyjoy,Harlaw,,,F,A
+Rodrik Greyjoy,A Game of Thrones,796,73,Appendix,N/A,,Rodrik,Greyjoy,,,,M,D
+Maron Greyjoy,A Game of Thrones,796,73,Appendix,N/A,,Maron,Greyjoy,,,,M,D
+Asha Greyjoy,A Game of Thrones,796,73,Appendix,N/A,,Asha,Greyjoy,,,,F,A
+"Euron Greyjoy, Crow's Eye",A Game of Thrones,796,73,Appendix,N/A,,Euron,Greyjoy,,Crow's Eye,,M,A
+Victarion Greyjoy,A Game of Thrones,796,73,Appendix,N/A,,Victarion,Greyjoy,,,,M,A
+"Aeron Greyjoy, Damphair",A Game of Thrones,796,73,Appendix,N/A,,Aeron,Greyjoy,,Damphair,,M,U
+Queen Nymeria,A Game of Thrones,797,73,Appendix,N/A,Queen,Nymeria,,,,,F,D
+Lord Mors Martell,A Game of Thrones,797,73,Appendix,N/A,Lord,Mors,Martell,,,,M,D
+"King Daeron II Targaryen, The Good",A Game of Thrones,797,73,Appendix,N/A,King,Daeron,Targaryen,,The Good,II,M,D
+Princess Myriah Martell,A Game of Thrones,797,73,Appendix,N/A,Princess,Myriah,Martell,,,,F,A
+"Lady Mellario Martell, of Norvos",A Game of Thrones,797,73,Appendix,N/A,Lady,Mellario,Martell,,of Norvos,,F,A
+Princess Arianne Martell,A Game of Thrones,797,73,Appendix,N/A,Princess,Arianne,Martell,,,,F,A
+Prince Quentyn Martell,A Game of Thrones,797,73,Appendix,N/A,Prince,Quentyn,Martell,,,,M,D
+Prince Trystane Martell,A Game of Thrones,797,73,Appendix,N/A,Prince,Trystane,Martell,,,,M,A
+"Prince Aegon Targaryen, Son of Rhaegar Targaryen",A Game of Thrones,798,73,Appendix,N/A,Prince,Aegon,Targaryen,,Son of Rhaegar Targaryen,,M,U
+Prince Oberyn Martell,A Game of Thrones,798,73,Appendix,N/A,Prince,Oberyn,Martell,,,,M,D
+Captain Areo Hotah,A Game of Thrones,798,73,Appendix,N/A,Captain,Areo,Hotah,,,,M,A
+Maester Caleotte,A Game of Thrones,798,73,Appendix,N/A,Maester,Caleotte,,,,,M,A
+"Lord Edric Dayne, Ned",A Game of Thrones,798,73,Appendix,N/A,Lord,Edric,Dayne,,Ned,,M,A
+"Visenya Targaryen, Wife of Aegon I",A Game of Thrones,799,73,Appendix,N/A,,Visenya,Targaryen,,Wife of Aegon I,,F,D
+"Rhaenys Targaryen, Wife of Aegon I",A Game of Thrones,799,73,Appendix,N/A,,Rhaenys,Targaryen,,Wife of Aegon I,,F,D
+Aenys Targaryen,A Game of Thrones,799,73,Appendix,N/A,,Aenys,Targaryen,,,,M,D
+"King Jaehaerys I Targaryen, The Old King/The Conciliator",A Game of Thrones,799,73,Appendix,N/A,King,Jaehaerys,Targaryen,,The Old King/The Conciliator,I,M,D
+King Viserys I Targaryen,A Game of Thrones,800,73,Appendix,N/A,King,Viserys,Targaryen,,,I,M,D
+"King Aegon II Targaryen, The Usurper",A Game of Thrones,800,73,Appendix,N/A,King,Aegon,Targaryen,,The Usurper,II,M,D
+Rhaenyra Targaryen,A Game of Thrones,800,73,Appendix,N/A,,Rhaenyra,Targaryen,,,,F,D
+"King Daeron I Targaryen, The Young Dragon/The Boy King",A Game of Thrones,800,73,Appendix,N/A,King,Daeron,Targaryen,,The Young Dragon/The Boy King,I,M,D
+King Viserys II Targaryen,A Game of Thrones,800,73,Appendix,N/A,King,Viserys,Targaryen,,,II,M,D
+King Aerys I Targaryen,A Game of Thrones,800,73,Appendix,N/A,King,Aerys,Targaryen,,,I,M,D
+"Queen Rhaella Targaryen, Wife of Aerys II",A Game of Thrones,800,73,Appendix,N/A,Queen,Rhaella,Targaryen,,Wife of Aerys II,,F,D
+Maester Cressen,A Clash of Kings,1,0,Prologue,Maester Cressen,Maester,Cressen,,,,,M,D
+Maester Pylos,A Clash of Kings,1,0,Prologue,Maester Cressen,Maester,Pylos,,,,,M,A
+Patchface,A Clash of Kings,2,0,Prologue,Maester Cressen,,Patchface,,,,,M,A
+Dalla,A Clash of Kings,4,0,Prologue,Maester Cressen,,Dalla,,,,,F,A
+Matrice,A Clash of Kings,4,0,Prologue,Maester Cressen,,Matrice,,,,,F,A
+Lord Steffon Baratheon,A Clash of Kings,6,0,Prologue,Maester Cressen,Lord,Steffon,Baratheon,,,,M,D
+Jommy,A Clash of Kings,6,0,Prologue,Maester Cressen,,Jommy,,,,,M,U
+Ser Harbert,A Clash of Kings,7,0,Prologue,Maester Cressen,Ser,Harbert,,,,,M,D
+"Ser Davos Seaworth, The Onion Knight",A Clash of Kings,7,0,Prologue,Maester Cressen,Ser,Davos,Seaworth,,The Onion Knight,,M,A
+Lord Gulian Swann,A Clash of Kings,9,0,Prologue,Maester Cressen,Lord,Gulian,Swann,,,,M,A
+Salladhor Saan,A Clash of Kings,14,0,Prologue,Maester Cressen,,Salladhor,Saan,,,,M,A
+"Morosh, The Myrman",A Clash of Kings,14,0,Prologue,Maester Cressen,,Morosh,,,The Myrman,,M,A
+"Melisandre, Of Asshai/Melony",A Clash of Kings,17,0,Prologue,Maester Cressen,,Melisandre,,,Of Asshai/Melony,,F,A
+Lord Ardrian Celtigar,A Clash of Kings,22,0,Prologue,Maester Cressen,Lord,Ardrian,Celtigar,,,,M,A
+Lord Monford Velaryon,A Clash of Kings,22,0,Prologue,Maester Cressen,Lord,Monford,Velaryon,,,,M,D
+Lord Duram Bar Emmon,A Clash of Kings,22,0,Prologue,Maester Cressen,Lord,Duram,Bar Emmon,,,,M,A
+Ser Axell Florent,A Clash of Kings,22,0,Prologue,Maester Cressen,Ser,Axell,Florent,,,,M,A
+Lord Guncer Sunglass,A Clash of Kings,22,0,Prologue,Maester Cressen,Lord,Guncer,Sunglass,,,,M,D
+"Lommy, Greenhands",A Clash of Kings,27,1,Arya I,Arya Stark,,Lommy,,,Greenhands,,M,D
+Hot Pie,A Clash of Kings,28,1,Arya I,Arya Stark,,Hot Pie,,,,,M,A
+Lollys Stokeworth,A Clash of Kings,36,2,Sansa I,Sansa Stark,,Lollys,Stokeworth,,,,F,A
+Falyse Stokeworth,A Clash of Kings,36,2,Sansa I,Sansa Stark,,Falyse,Stokeworth,,,,F,D
+Lady Ermesande Hayford,A Clash of Kings,36,2,Sansa I,Sansa Stark,Lady,Ermesande,Hayford,,,,F,A
+Morros Slynt,A Clash of Kings,39,2,Sansa I,Sansa Stark,,Morros,Slynt,,,,M,A
+Captain Vylarr,A Clash of Kings,55,3,Tyrion I,Tyrion Lannister,Captain,Vylarr,,,,,M,A
+"Walder Frey, Big Walder/Son of Jammos",A Clash of Kings,63,4,Bran I,Bran Stark,,Walder,Frey,,Big Walder/Son of Jammos,,M,A
+"Walder Frey, Little Walder/Son of Merrett",A Clash of Kings,63,4,Bran I,Bran Stark,,Walder,Frey,,Little Walder/Son of Merrett,,M,D
+Hayhead,A Clash of Kings,66,4,Bran I,Bran Stark,,Hayhead,,,,,M,U
+Alebelly,A Clash of Kings,67,4,Bran I,Bran Stark,,Alebelly,,,,,M,D
+Ser Jammos Frey,A Clash of Kings,68,4,Bran I,Bran Stark,Ser,Jammos,Frey,,,,M,A
+Merrett Frey,A Clash of Kings,68,4,Bran I,Bran Stark,,Merrett,Frey,,,,M,D
+"Walder Frey, Black Walder/Son of Ryman",A Clash of Kings,69,4,Bran I,Bran Stark,,Walder,Frey,,Black Walder/Son of Ryman,,M,A
+"Walder Frey, Red Walder/Son of Emmon",A Clash of Kings,69,4,Bran I,Bran Stark,,Walder,Frey,,Red Walder/Son of Emmon,,M,A
+"Walder Rivers, Bastard Walder",A Clash of Kings,69,4,Bran I,Bran Stark,,Walder,Rivers,,Bastard Walder,,M,A
+"Waltyr Frey, Tyr",A Clash of Kings,69,4,Bran I,Bran Stark,,Waltyr,Frey,,Tyr,,M,A
+Turnip,A Clash of Kings,69,4,Bran I,Bran Stark,,Turnip,,,,,M,A
+Bandy,A Clash of Kings,69,4,Bran I,Bran Stark,,Bandy,,,,,F,A
+Shyra,A Clash of Kings,69,4,Bran I,Bran Stark,,Shyra,,,,,F,A
+"Palla, The kennel girl",A Clash of Kings,69,4,Bran I,Bran Stark,,Palla,,,The kennel girl,,F,A
+Calon,A Clash of Kings,69,4,Bran I,Bran Stark,,Calon,,,,,M,U
+"TomToo, Son of Tomard",A Clash of Kings,69,4,Bran I,Bran Stark,,TomToo,,,Son of Tomard,,M,U
+Praed,A Clash of Kings,74,5,Arya II,Arya Stark,,Praed,,,,,M,D
+Tarber,A Clash of Kings,74,5,Arya II,Arya Stark,,Tarber,,,,,M,U
+Ser Malcolm,A Clash of Kings,75,5,Arya II,Arya Stark,Ser,Malcolm,,,,,M,U
+Lync,A Clash of Kings,75,5,Arya II,Arya Stark,,Lync,,,,,M,U
+Hod,A Clash of Kings,76,5,Arya II,Arya Stark,,Hod,,,,,M,A
+Lord William Mooton,A Clash of Kings,76,5,Arya II,Arya Stark,Lord,William,Mooton,,,,M,A
+Jaqen H'ghar,A Clash of Kings,78,5,Arya II,Arya Stark,,Jaqen,H'ghar,,,,M,A
+Rorge,A Clash of Kings,78,5,Arya II,Arya Stark,,Rorge,,,,,M,D
+Biter,A Clash of Kings,78,5,Arya II,Arya Stark,,Biter,,,,,M,D
+Reysen,A Clash of Kings,80,5,Arya II,Arya Stark,,Reysen,,,,,M,D
+Cutjack,A Clash of Kings,81,5,Arya II,Arya Stark,,Cutjack,,,,,M,U
+Kurz,A Clash of Kings,81,5,Arya II,Arya Stark,,Kurz,,,,,M,D
+Koss,A Clash of Kings,81,5,Arya II,Arya Stark,,Koss,,,,,M,D
+Dobber,A Clash of Kings,81,5,Arya II,Arya Stark,,Dobber,,,,,M,D
+Redwyn,A Clash of Kings,85,6,Jon I,Jon Snow,,Redwyn,,,,,M,D
+King Dorren Stark,A Clash of Kings,85,6,Jon I,Jon Snow,King,Dorren,Stark,,,,M,D
+Conwy,A Clash of Kings,88,6,Jon I,Jon Snow,,Conwy,,,,,M,A
+Thoren Smallwood,A Clash of Kings,90,6,Jon I,Jon Snow,,Thoren,Smallwood,,,,M,D
+Ser Arnell,A Clash of Kings,92,6,Jon I,Jon Snow,Ser,Arnell,,,,,M,U
+"Prince Aerion Targaryen, Brightflame/Aerion the Monstrous",A Clash of Kings,94,6,Jon I,Jon Snow,Prince,Aerion,Targaryen,,Brightflame/Aerion the Monstrous,,M,D
+Ser Burton Crakehall,A Clash of Kings,106,7,Catelyn I,Catelyn Tully,Ser,Burton,Crakehall,,,,M,D
+Hendry Bracken,A Clash of Kings,107,7,Catelyn I,Catelyn Tully,,Hendry,Bracken,,,,M,D
+Allar Deem,A Clash of Kings,112,8,Tyrion II,Tyrion Lannister,,Allar,Deem,,,,M,D
+Ser Jacelyn Bywater,A Clash of Kings,112,8,Tyrion II,Tyrion Lannister,Ser,Jacelyn,Bywater,,,,M,D
+Murch,A Clash of Kings,128,9,Arya III,Arya Stark,,Murch,,,,,M,D
+Allard Seaworth,A Clash of Kings,132,10,Davos I,Davos Seaworth,,Allard,Seaworth,,,,M,D
+Dale Seaworth,A Clash of Kings,132,10,Davos I,Davos Seaworth,,Dale,Seaworth,,,,M,D
+Septon Barre,A Clash of Kings,133,10,Davos I,Davos Seaworth,Septon,Barre,,,,,M,U
+Ser Hubard Rambton,A Clash of Kings,133,10,Davos I,Davos Seaworth,Ser,Hubard,Rambton,,,,M,D
+Maric Seaworth,A Clash of Kings,133,10,Davos I,Davos Seaworth,,Maric,Seaworth,,,,M,D
+Matthos Seaworth,A Clash of Kings,134,10,Davos I,Davos Seaworth,,Matthos,Seaworth,,,,M,D
+Devan Seaworth,A Clash of Kings,134,10,Davos I,Davos Seaworth,,Devan,Seaworth,,,,M,A
+Marya Seaworth,A Clash of Kings,134,10,Davos I,Davos Seaworth,,Marya,Seaworth,,,,F,A
+Bryen Farring,A Clash of Kings,135,10,Davos I,Davos Seaworth,,Bryen,Farring,,,,M,D
+Azor Ahai,A Clash of Kings,135,10,Davos I,Davos Seaworth,,Azor Ahai,,,,,M,F
+Nissa Nissa,A Clash of Kings,141,10,Davos I,Davos Seaworth,,Nissa Nissa,,,,,F,F
+Lady Cassana Baratheon,A Clash of Kings,144,10,Davos I,Davos Seaworth,Lady,Cassana,Baratheon,Estermont,,,F,D
+Delena Norcross,A Clash of Kings,146,10,Davos I,Davos Seaworth,,Delena,Norcross,Florent,,,F,A
+Edric Storm,A Clash of Kings,146,10,Davos I,Davos Seaworth,,Edric,Storm,,,,M,A
+Lord Sawane Botley,A Clash of Kings,155,11,Theon I,Theon Greyjoy,Lord,Sawane,Botley,,,,M,D
+Lord Gorold Goodbrother,A Clash of Kings,156,11,Theon I,Theon Greyjoy,Lord,Gorold,Goodbrother,,,,M,A
+"Sylas, Sourmouth",A Clash of Kings,156,11,Theon I,Theon Greyjoy,,Sylas,,,Sourmouth,,M,D
+"Dagmer, Cleftjaw",A Clash of Kings,156,11,Theon I,Theon Greyjoy,,Dagmer,,,Cleftjaw,,M,A
+Helya,A Clash of Kings,163,11,Theon I,Theon Greyjoy,,Helya,,,,,F,A
+Maester Qalen,A Clash of Kings,164,11,Theon I,Theon Greyjoy,Maester,Qalen,,,,,M,D
+Maester Wendamyr,A Clash of Kings,164,11,Theon I,Theon Greyjoy,Maester,Wendamyr,,,,,M,A
+Lynesse Hightower,A Clash of Kings,178,12,Daenerys I,Daenerys Targaryen,,Lynesse,Hightower,,,,F,A
+Tregar Ormollen,A Clash of Kings,181,12,Daenerys I,Daenerys Targaryen,,Tregar,Ormollen,,,,M,A
+Pyat Pree,A Clash of Kings,183,12,Daenerys I,Daenerys Targaryen,,Pyat,Pree,,,,M,U
+Xaro Xhoan Daxos,A Clash of Kings,183,12,Daenerys I,Daenerys Targaryen,,Xaro,Xhoan Daxos,,,,M,A
+"Quaithe, Of the Shadow",A Clash of Kings,183,12,Daenerys I,Daenerys Targaryen,,Quaithe,,,Of the Shadow,,F,A
+"Eddison Tollett, Dolorous Edd",A Clash of Kings,186,13,Jon II,Jon Snow,,Eddison,Tollett,,Dolorous Edd,,M,A
+Jarman Buckwell,A Clash of Kings,187,13,Jon II,Jon Snow,,Jarman,Buckwell,,,,M,D
+Ser Mallador Locke,A Clash of Kings,188,13,Jon II,Jon Snow,Ser,Mallador,Locke,,,,M,D
+"Bedwyck, Giant",A Clash of Kings,188,13,Jon II,Jon Snow,,Bedwyck,,,Giant,,M,A
+Ser Ottyn Wythers,A Clash of Kings,188,13,Jon II,Jon Snow,Ser,Ottyn,Wythers,,,,M,D
+Woth,A Clash of Kings,192,14,Arya IV,Arya Stark,,Woth,,,,,M,D
+Gerren,A Clash of Kings,192,14,Arya IV,Arya Stark,,Gerren,,,,,M,D
+Rey,A Clash of Kings,194,14,Arya IV,Arya Stark,,Rey,,,,,M,U
+Urreg,A Clash of Kings,201,14,Arya IV,Arya Stark,,Urreg,,,,,M,D
+Qyle,A Clash of Kings,203,14,Arya IV,Arya Stark,,Qyle,,,,,M,D
+Maester Frenken,A Clash of Kings,207,15,Tyrion III,Tyrion Lannister,Maester,Frenken,,,,,M,A
+Ironbelly,A Clash of Kings,212,15,Tyrion III,Tyrion Lannister,,Ironbelly,,,,,M,A
+"Salloreon, Master Armorer",A Clash of Kings,213,15,Tyrion III,Tyrion Lannister,,Salloreon,,,Master Armorer,,M,U
+Alayaya,A Clash of Kings,216,15,Tyrion III,Tyrion Lannister,,Alayaya,,,,,F,A
+Poxy Tym,A Clash of Kings,226,16,Bran II,Bran Stark,,Poxy Tym,,,,,M,D
+Lady Donella Hornwood,A Clash of Kings,227,16,Bran II,Bran Stark,Lady,Donella,Hornwood,,,,F,D
+Domeric Bolton,A Clash of Kings,228,16,Bran II,Bran Stark,,Domeric,Bolton,,,,M,D
+"Heke, Reek",A Clash of Kings,228,16,Bran II,Bran Stark,,Heke,,,Reek,,M,D
+"Mors Umber, Crowfood",A Clash of Kings,228,16,Bran II,Bran Stark,,Mors,Umber,,Crowfood,,M,A
+"Hother Umber, Whoresbane",A Clash of Kings,232,16,Bran II,Bran Stark,,Hother,Umber,,Whoresbane,,M,A
+Larence Snow,A Clash of Kings,233,16,Bran II,Bran Stark,,Larence,Snow,,,,M,A
+Leobald Tallhart,A Clash of Kings,233,16,Bran II,Bran Stark,,Leobald,Tallhart,,,,M,D
+Benfred Tallhart,A Clash of Kings,234,16,Bran II,Bran Stark,,Benfred,Tallhart,,,,M,D
+Beren Tallhart,A Clash of Kings,234,16,Bran II,Bran Stark,,Beren,Tallhart,,,,M,A
+Lord Ondrew Locke,A Clash of Kings,235,16,Bran II,Bran Stark,Lord,Ondrew,Locke,,,,M,A
+Lady Lyessa Flint,A Clash of Kings,235,16,Bran II,Bran Stark,Lady,Lyessa,Flint,,,,F,A
+Cley Cerwyn,A Clash of Kings,235,16,Bran II,Bran Stark,,Cley,Cerwyn,,,,M,D
+"Ser Tallad, The Tall",A Clash of Kings,241,17,Tyrion IV,Tyrion Lannister,Ser,Tallad,,,The Tall,,M,A
+"Wisdom Hallyne, The Pyromancer",A Clash of Kings,243,17,Tyrion IV,Tyrion Lannister,Wisdom,Hallyne,,,The Pyromancer,,M,A
+Weasel,A Clash of Kings,265,19,Arya V,Arya Stark,,Weasel,,,,,F,U
+Munciter,A Clash of Kings,281,20,Tyrion V,Tyrion Lannister,,Munciter,,,,,M,A
+Malliard,A Clash of Kings,281,20,Tyrion V,Tyrion Lannister,,Malliard,,,,,M,A
+Lord Rossart,A Clash of Kings,282,20,Tyrion V,Tyrion Lannister,Lord,Rossart,,,,,M,A
+"Crawn, Son of Calor",A Clash of Kings,288,20,Tyrion V,Tyrion Lannister,,Crawn,,,Son of Calor,,M,A
+Calor,A Clash of Kings,288,20,Tyrion V,Tyrion Lannister,,Calor,,,,,M,U
+Skittrick,A Clash of Kings,297,21,Bran III,Bran Stark,,Skittrick,,,,,M,U
+Meera Reed,A Clash of Kings,297,21,Bran III,Bran Stark,,Meera,Reed,,,,F,A
+Jojen Reed,A Clash of Kings,297,21,Bran III,Bran Stark,,Jojen,Reed,,,,M,A
+Shadd,A Clash of Kings,302,21,Bran III,Bran Stark,,Shadd,,,,,M,U
+"Ser Colen, Of Greenpools",A Clash of Kings,306,22,Catelyn II,Catelyn Tully,Ser,Colen,,,Of Greenpools,,M,A
+"Ser Ronnet Connington, Red Ronnet",A Clash of Kings,308,22,Catelyn II,Catelyn Tully,Ser,Ronnet,Connington,,Red Ronnet,,M,A
+"Brienne Tarth, The Beauty/The Blue/Of Tarth",A Clash of Kings,311,22,Catelyn II,Catelyn Tully,,Brienne,Tarth,,The Beauty/The Blue/Of Tarth,,F,A
+"Lord Selwyn Tarth, The Evenstar",A Clash of Kings,311,22,Catelyn II,Catelyn Tully,Lord,Selwyn,Tarth,,The Evenstar,,M,A
+Lord Lorent Caswell,A Clash of Kings,313,22,Catelyn II,Catelyn Tully,Lord,Lorent,Caswell,,,,M,A
+Lucas Blackwood,A Clash of Kings,314,22,Catelyn II,Catelyn Tully,,Lucas,Blackwood,,,,M,D
+Lord Willum,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,Lord,?,Willum,,,,M,A
+Josua Willum,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,,Josua,Willum,,,,M,A
+Elyas Willum,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,,Elyas,Willum,,,,M,A
+Lord Steffon Varner,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,Lord,Steffon,Varner,,,,M,A
+"Ser Guyard Morrigen, The Green",A Clash of Kings,316,22,Catelyn II,Catelyn Tully,Ser,Guyard,Morrigen,,The Green,,M,D
+Ser Mark Mullendore,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,Ser,Mark,Mullendore,,,,M,A
+Ser Tanton Fossoway,A Clash of Kings,316,22,Catelyn II,Catelyn Tully,Ser,Tanton,Fossoway,,,,M,A
+Ser Cortnay Penrose,A Clash of Kings,320,22,Catelyn II,Catelyn Tully,Ser,Cortnay,Penrose,,,,M,D
+Craster,A Clash of Kings,321,23,Jon III,Jon Snow,,Craster,,,,,M,D
+"Lark, The Sisterman",A Clash of Kings,331,23,Jon III,Jon Snow,,Lark,,,The Sisterman,,M,D
+Gilly,A Clash of Kings,335,23,Jon III,Jon Snow,,Gilly,,,,,F,A
+Nella,A Clash of Kings,335,23,Jon III,Jon Snow,,Nella,,,,,F,U
+"Bernarr, Brown Bernarr",A Clash of Kings,336,23,Jon III,Jon Snow,,Bernarr,,,Brown Bernarr,,M,D
+King Raymun Redbeard,A Clash of Kings,340,23,Jon III,Jon Snow,King,Raymun,Redbeard,,,,M,D
+"King Bael, The Bard",A Clash of Kings,340,23,Jon III,Jon Snow,King,Bael,,,The Bard,,M,F
+King Gendel,A Clash of Kings,340,23,Jon III,Jon Snow,King,Gendel,,,,,M,F
+King Gorne,A Clash of Kings,340,23,Jon III,Jon Snow,King,Gorne,,,,,M,F
+Joramun,A Clash of Kings,340,23,Jon III,Jon Snow,,Joramun,,,,,M,F
+Esgred,A Clash of Kings,343,24,Theon II,Theon Greyjoy,,Esgred,,,,,F,A
+"Sigrin, The Shipwright",A Clash of Kings,343,24,Theon II,Theon Greyjoy,,Sigrin,,,The Shipwright,,M,A
+Otter Gimpknee,A Clash of Kings,346,24,Theon II,Theon Greyjoy,,Otter,Gimpknee,,,,M,A
+Bluetooth,A Clash of Kings,346,24,Theon II,Theon Greyjoy,,Bluetooth,,,,,M,A
+Rymolf Stormdrunk,A Clash of Kings,347,24,Theon II,Theon Greyjoy,,Rymolf,Stormdrunk,,,,M,A
+Uller,A Clash of Kings,347,24,Theon II,Theon Greyjoy,,Uller,,,,,M,A
+"Qarl, The Maid",A Clash of Kings,347,24,Theon II,Theon Greyjoy,,Qarl,,,The Maid,,M,A
+Skyte,A Clash of Kings,347,24,Theon II,Theon Greyjoy,,Skyte,,,,,M,A
+Eldiss,A Clash of Kings,347,24,Theon II,Theon Greyjoy,,Eldiss,,,,,M,D
+Wex Pyke,A Clash of Kings,348,24,Theon II,Theon Greyjoy,,Wex,Pyke,,,,M,A
+Rolfe,A Clash of Kings,355,24,Theon II,Theon Greyjoy,,Rolfe,,,,,M,A
+Ser Donnel Locke,A Clash of Kings,364,25,Tyrion VI,Tyrion Lannister,Ser,Donnel,Locke,,,,M,D
+The Tickler,A Clash of Kings,375,26,Arya VI,Arya Stark,,?,,,The Tickler,,M,D
+Chiswyck,A Clash of Kings,376,26,Arya VI,Arya Stark,,Chiswyck,,,,,M,D
+"Rafford, Raff the Sweetling",A Clash of Kings,377,26,Arya VI,Arya Stark,,Rafford,,,Raff the Sweetling,,M,D
+Shitmouth,A Clash of Kings,378,26,Arya VI,Arya Stark,,?,,,Shitmouth,,M,A
+Dunsen,A Clash of Kings,378,26,Arya VI,Arya Stark,,Dunsen,,,,,M,A
+Goodwife Amabel,A Clash of Kings,380,26,Arya VI,Arya Stark,Goodwife,Amabel,,,,,F,U
+Goodwife Harra,A Clash of Kings,380,26,Arya VI,Arya Stark,Goodwife,Harra,,,,,F,A
+Weese,A Clash of Kings,381,26,Arya VI,Arya Stark,,Weese,,,,,M,D
+"Saathos, The Wise",A Clash of Kings,383,27,Daenerys II,Daenerys Targaryen,,Saathos,,,The Wise,,M,F
+Captain Quhuru Mo,A Clash of Kings,389,27,Daenerys II,Daenerys Targaryen,Captain,Quhuru,Mo,,,,M,A
+Dancy,A Clash of Kings,408,29,Tyrion VII,Tyrion Lannister,,Dancy,,,,,F,A
+Marei,A Clash of Kings,409,29,Tyrion VII,Tyrion Lannister,,Marei,,,,,F,A
+"Pia, Pretty Pia",A Clash of Kings,415,30,Arya VII,Arya Stark,,Pia,,,Pretty Pia,,F,A
+Ser Alyn Stackspear,A Clash of Kings,415,30,Arya VII,Arya Stark,Ser,Alyn,Stackspear,,,,M,A
+"Wat, Whitesmile Wat",A Clash of Kings,415,30,Arya VII,Arya Stark,,Wat,,,Whitesmile Wat,,M,A
+Ser Dunaver,A Clash of Kings,415,30,Arya VII,Arya Stark,Ser,Dunaver,,,,,M,A
+Jodge,A Clash of Kings,415,30,Arya VII,Arya Stark,,Jodge,,,,,M,A
+Maester Tothmure,A Clash of Kings,416,30,Arya VII,Arya Stark,Maester,Tothmure,,,,,M,D
+Joss Stilwood,A Clash of Kings,423,30,Arya VII,Arya Stark,,Joss,Stilwood,,,,M,
+Eggon,A Clash of Kings,423,30,Arya VII,Arya Stark,,Eggon,,,,,M,
+Layna,A Clash of Kings,423,30,Arya VII,Arya Stark,,Layna,,,,,F,
+Tobbot,A Clash of Kings,424,30,Arya VII,Arya Stark,,Tobbot,,,,,M,
+King Durran Godsgrief,A Clash of Kings,426,31,Catelyn III,Catelyn Tully,King,Durran,Godsgrief,,,,M,
+Elenei,A Clash of Kings,426,31,Catelyn III,Catelyn Tully,,Elenei,,,,,F,
+Ser Rubert Brax,A Clash of Kings,445,32,Sansa III,Sansa Stark,Ser,Rubert,Brax,,,,M,
+Ser Lymond Vikary,A Clash of Kings,446,32,Sansa III,Sansa Stark,Ser,Lymond,Vikary,,,,M,
+Lord Antario Jast,A Clash of Kings,446,32,Sansa III,Sansa Stark,Lord,Antario,Jast,,,,M,
+Septon Osmynd,A Clash of Kings,446,32,Sansa III,Sansa Stark,Septon,Osmynd,,,,,M,
+"Ser Parmen Crane, The Purple",A Clash of Kings,452,33,Catelyn IV,Catelyn Tully,Ser,Parmen,Crane,,The Purple,,M,
+"Ser Emmon Cuy, The Yellow",A Clash of Kings,452,33,Catelyn IV,Catelyn Tully,Ser,Emmon,Cuy,,The Yellow,,M,
+Ser Gawen Wylde,A Clash of Kings,453,33,Catelyn IV,Catelyn Tully,Ser,Gawen,Wylde,,,,M,
+Lord Alester Florent,A Clash of Kings,478,36,Tyrion VIII,Tyrion Lannister,Lord,Alester,Florent,,,,M,D
+Stygg,A Clash of Kings,485,37,Theon III,Theon Greyjoy,,Stygg,,,,,M,
+Werlag,A Clash of Kings,485,37,Theon III,Theon Greyjoy,,Werlag,,,,,M,
+Tymor,A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Tymor,,,,,M,
+Urzen,A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Urzen,,,,,M,
+"Lorren, Black Lorren",A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Lorren,,,Black Lorren,,M,D
+Gevin Harlaw,A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Gevin,Harlaw,,,,M,
+"Maron Botley, Old Botley/Fishwhiskers",A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Maron,Botley,,Old Botley/Fishwhiskers,,M,
+Todric,A Clash of Kings,486,37,Theon III,Theon Greyjoy,,Todric,,,,,M,
+"Andrik, The Unsmiling",A Clash of Kings,490,37,Theon III,Theon Greyjoy,,Andrik,,,The Unsmiling,,M,
+Lord Dunstan Drumm,A Clash of Kings,490,37,Theon III,Theon Greyjoy,Lord,Dunstan,Drumm,,,,M,
+Lucan,A Clash of Kings,496,38,Arya VIII,Arya Stark,,Lucan,,,,,M,
+Ser Lyonel,A Clash of Kings,496,38,Arya VIII,Arya Stark,Ser,Lyonel,,,,,M,
+Tuffleberry,A Clash of Kings,496,38,Arya VIII,Arya Stark,,Tuffleberry,,,,,M,
+"Rymund, The Rhymer",A Clash of Kings,504,39,Catelyn V,Catelyn Tully,,Rymund,,,The Rhymer,,M,
+Enger,A Clash of Kings,511,39,Catelyn V,Catelyn Tully,,Enger,,,,,M,
+Delp,A Clash of Kings,511,39,Catelyn V,Catelyn Tully,,Delp,,,,,M,D
+"Lew, Long Lew",A Clash of Kings,511,39,Catelyn V,Catelyn Tully,,Lew,,,Long Lew,,M,
+Poul Pemford,A Clash of Kings,511,39,Catelyn V,Catelyn Tully,,Poul,Pemford,,,,M,
+Myles,A Clash of Kings,511,39,Catelyn V,Catelyn Tully,,Myles,,,,,M,
+Mathos Mallarawan,A Clash of Kings,520,40,Daenerys III,Daenerys Targaryen,,Mathos,Mallarawan,,,,M,
+Wendello Qar Deeth,A Clash of Kings,520,40,Daenerys III,Daenerys Targaryen,,Wendello,Qar Deeth,,,,M,
+"Egon Emeros, The Exquisite",A Clash of Kings,520,40,Daenerys III,Daenerys Targaryen,,Egon,Emeros,,The Exquisite,,M,
+Ser Osmund Kettleblack,A Clash of Kings,533,41,Tyrion IX,Tyrion Lannister,Ser,Osmund,Kettleblack,,,,M,
+Osney Kettleblack,A Clash of Kings,533,41,Tyrion IX,Tyrion Lannister,,Osney,Kettleblack,,,,M,
+Osfryd Kettleblack,A Clash of Kings,533,41,Tyrion IX,Tyrion Lannister,,Osfryd,Kettleblack,,,,M,
+Ser Bryan Fossoway,A Clash of Kings,547,42,Davos II,Davos Seaworth,Ser,Bryan,Fossoway,,,,M,
+Lord Eldon Estermont,A Clash of Kings,550,42,Davos II,Davos Seaworth,Lord,Eldon,Estermont,,,,M,
+Ser Erren Florent,A Clash of Kings,556,42,Davos II,Davos Seaworth,Ser,Erren,Florent,,,,M,
+Lord Elwood Meadows,A Clash of Kings,557,42,Davos II,Davos Seaworth,Lord,Elwood,Meadows,,,,M,
+Rattleshirt,A Clash of Kings,565,43,Jon V,Jon Snow,,Rattleshirt,,,,,M,D
+"Harma, The Dogshead",A Clash of Kings,565,43,Jon V,Jon Snow,,Harma,,,The Dogshead,,F,D
+"Alfyn, Crowkiller",A Clash of Kings,565,43,Jon V,Jon Snow,,Alfyn,,,Crowkiller,,M,
+The Weeping Man,A Clash of Kings,569,43,Jon V,Jon Snow,,?,,,The Weeping Man,,M,
+Ebben,A Clash of Kings,569,43,Jon V,Jon Snow,,Ebben,,,,,M,D
+"Symon, Silver Tongue",A Clash of Kings,575,44,Tyrion X,Tyrion Lannister,,Symon,,,Silver Tongue,,M,
+Maester Kym,A Clash of Kings,588,45,Catelyn VI,Catelyn Tully,Maester,Kym,,,,,M,
+Lord Deremond,A Clash of Kings,588,45,Catelyn VI,Catelyn Tully,Lord,?,Deremond,,,,M,
+"Mebble, Pinkeye",A Clash of Kings,609,47,Arya IX,Arya Stark,,Mebble,,,Pinkeye,,M,
+Ser Aenys Frey,A Clash of Kings,611,47,Arya IX,Arya Stark,Ser,Aenys,Frey,,,,M,
+Ser Cadwyn,A Clash of Kings,611,47,Arya IX,Arya Stark,Ser,Cadwyn,,,,,M,
+"Ben, Blackthumb",A Clash of Kings,614,47,Arya IX,Arya Stark,,Ben,,,Blackthumb,,M,
+"Shagwell, The Fool",A Clash of Kings,625,47,Arya IX,Arya Stark,,Shagwell,,,The Fool,,M,
+Holger,A Clash of Kings,640,49,Tyrion XI,Tyrion Lannister,,Holger,,,,,M,
+Wisdom Pollitor,A Clash of Kings,646,49,Tyrion XI,Tyrion Lannister,Wisdom,Pollitor,,,,,M,
+Drennen,A Clash of Kings,652,50,Theon IV,Theon Greyjoy,,Drennen,,,,,M,
+Squint,A Clash of Kings,652,50,Theon IV,Theon Greyjoy,,Squint,,,,,M,D
+Aggar,A Clash of Kings,654,50,Theon IV,Theon Greyjoy,,Aggar,,,,,M,D
+"Gynir, Rednose",A Clash of Kings,656,50,Theon IV,Theon Greyjoy,,Gynir,,,Rednose,,M,D
+"Dalbridge, Squire Dalbridge",A Clash of Kings,665,51,Jon VI,Jon Snow,,Dalbridge,,,Squire Dalbridge,,M,D
+Stonesnake,A Clash of Kings,665,51,Jon VI,Jon Snow,,Stonesnake,,,,,M,
+Ygritte,A Clash of Kings,671,51,Jon VI,Jon Snow,,Ygritte,,,,,F,D
+"Lord Brandon Stark, The Daughterless",A Clash of Kings,674,51,Jon VI,Jon Snow,Lord,Brandon,Stark,,The Daughterless,,M,
+Jeffory Mallister,A Clash of Kings,721,55,Catelyn VII,Catelyn Tully,,Jeffory,Mallister,,,,M,
+Kyle Royce,A Clash of Kings,721,55,Catelyn VII,Catelyn Tully,,Kyle,Royce,,,,M,
+Elbert Arryn,A Clash of Kings,721,55,Catelyn VII,Catelyn Tully,,Elbert,Arryn,,,,M,
+Kromm,A Clash of Kings,725,56,Theon V,Theon Greyjoy,,Kromm,,,,,M,
+Cadwyl,A Clash of Kings,726,56,Theon V,Theon Greyjoy,,Cadwyl,,,,,M,
+Ser Imry Florent,A Clash of Kings,740,58,Davos III,Davos Seaworth,Ser,Imry,Florent,,,,M,D
+Ser Arneld,A Clash of Kings,758,59,Tyrion XIII,Tyrion Lannister,Ser,Arneld,,,,,M,
+"Urrathon, Night-walker",A Clash of Kings,787,63,Daenerys V,Daenerys Targaryen,,Urrathon,,,Night-walker,,M,
+"Sybassion, Eater of Eyes",A Clash of Kings,787,63,Daenerys V,Daenerys Targaryen,,Sybassion,,,Eater of Eyes,,M,
+"Belwas, Strong Belwas",A Clash of Kings,796,63,Daenerys V,Daenerys Targaryen,,Belwas,,,Strong Belwas,,M,
+"Walton, Steelshanks",A Clash of Kings,802,64,Arya X,Arya Stark,,Walton,,,Steelshanks,,M,
+Septon Utt,A Clash of Kings,802,64,Arya X,Arya Stark,Septon,Utt,,,,,M,D
+Qyburn,A Clash of Kings,802,64,Arya X,Arya Stark,,Qyburn,,,,,M,
+"Urswyck, Faithful Urswyck",A Clash of Kings,802,64,Arya X,Arya Stark,,Urswyck,,,Faithful Urswyck,,M,
+Ser Harys Haigh,A Clash of Kings,802,64,Arya X,Arya Stark,Ser,Harys,Haigh,,,,M,
+Ser Philip Foote,A Clash of Kings,820,65,Sansa VIII,Sansa Stark,Ser,Philip,Foote,,,,M,
+Ser Edwyd Fossoway,A Clash of Kings,820,65,Sansa VIII,Sansa Stark,Ser,Edwyd,Fossoway,,,,M,
+Willit,A Clash of Kings,821,65,Sansa VIII,Sansa Stark,,Willit,,,,,M,
+"Josmyn Peckledon, Peck",A Clash of Kings,821,65,Sansa VIII,Sansa Stark,,Josmyn,Peckledon,,Peck,,M,
+"Ser Bonifer Hasty, The Good",A Clash of Kings,823,65,Sansa VIII,Sansa Stark,Ser,Bonifer,Hasty,,The Good,,M,
+"Ser Dermot, Of the Rainwood",A Clash of Kings,823,65,Sansa VIII,Sansa Stark,Ser,Dermot,,,Of the Rainwood,,M,
+"Ser Timon, The Scrapesword",A Clash of Kings,823,65,Sansa VIII,Sansa Stark,Ser,Timon,,,The Scrapesword,,M,
+"Aurane Waters, Bastard of Driftmark",A Clash of Kings,823,65,Sansa VIII,Sansa Stark,,Aurane,Waters,,Bastard of Driftmark,,M,
+Dykk Harlaw,A Clash of Kings,828,66,Theon VI,Theon Greyjoy,,Dykk,Harlaw,,,,M,
+Endehar,A Clash of Kings,828,66,Theon VI,Theon Greyjoy,,Endehar,,,,,M,
+"Rolfe, Red Rolfe",A Clash of Kings,829,66,Theon VI,Theon Greyjoy,,Rolfe,,,Red Rolfe,,M,D
+"Harrag Sharp, Sheepstealer",A Clash of Kings,829,66,Theon VI,Theon Greyjoy,,Harrag,Sharp,,Sheepstealer,,M,
+"Kenned, The Whale",A Clash of Kings,829,66,Theon VI,Theon Greyjoy,,Kenned,,,The Whale,,M,
+"Ramsay Snow, The Bastard of Bolton",A Clash of Kings,838,66,Theon VI,Theon Greyjoy,,Ramsay,Snow,,The Bastard of Bolton,,M,
+Maester Ballabar,A Clash of Kings,846,67,Tyrion XV,Tyrion Lannister,Maester,Ballabar,,,,,M,
+Ragwyle,A Clash of Kings,859,68,Jon VIII,Jon Snow,,Ragwyle,,,,,M,
+Lord Edwyle Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Edwyle,Stark,,,,M,
+Lord Willam Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Willam,Stark,,,,M,
+"Artos Stark, The Implacable",A Clash of Kings,865,69,Bran VII,Bran Stark,,Artos,Stark,,The Implacable,,M,
+Lord Donnor Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Donnor,Stark,,,,M,
+Lord Beron Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Beron,Stark,,,,M,
+Lord Rodwell Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Rodwell,Stark,,,,M,
+Lord Jonnel Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Jonnel,Stark,,,,M,
+Lord Barth Stark,A Clash of Kings,865,69,Bran VII,Bran Stark,Lord,Barth,Stark,,,,M,
+"King Edwyn Stark, The Spring King",A Clash of Kings,865,69,Bran VII,Bran Stark,King,Edwyn,Stark,,The Spring King,,M,
+King Jorah Stark,A Clash of Kings,866,69,Bran VII,Bran Stark,King,Jorah,Stark,,,,M,
+King Jonos Stark,A Clash of Kings,866,69,Bran VII,Bran Stark,King,Jonos,Stark,,,,M,
+"King Brandon Stark, The Bad",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Brandon,Stark,,The Bad,,M,
+"King Walton Stark, The Moon King",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Walton,Stark,,The Moon King,,M,
+"King Edderion Stark, The Bridegroom",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Edderion,Stark,,The Bridegroom,,M,
+King Eyron Stark,A Clash of Kings,866,69,Bran VII,Bran Stark,King,Eyron,Stark,,,,M,
+"King Benjen Stark, The Sweet",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Benjen,Stark,,The Sweet,,M,
+"King Benjen Stark, The Bitter",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Benjen,Stark,,The Bitter,,M,
+"King Edrick Stark, Snowbeard",A Clash of Kings,866,69,Bran VII,Bran Stark,King,Edrick,Stark,,Snowbeard,,M,
+Ser Aemon Estermont,A Clash of Kings,880,70,Appendix,N/A,Ser,Aemon,Estermont,,,,M,
+Ser Alyn Estermont,A Clash of Kings,880,70,Appendix,N/A,Ser,Alyn,Estermont,,,,M,
+Lady Shyra Errol,A Clash of Kings,880,70,Appendix,N/A,Lady,Shyra,Errol,,,,F,
+Ser Donnel Swann,A Clash of Kings,881,70,Appendix,N/A,Ser,Donnel,Swann,,,,M,
+Maester Jurne,A Clash of Kings,881,70,Appendix,N/A,Maester,Jurne,,,,,M,
+Ser Lomas Estermont,A Clash of Kings,882,70,Appendix,N/A,Ser,Lomas,Estermont,,,,M,
+Ser Andrew Estermont,A Clash of Kings,882,70,Appendix,N/A,Ser,Andrew,Estermont,,,,M,
+Stannis Seaworth,A Clash of Kings,883,70,Appendix,N/A,,Stannis,Seaworth,,,,M,
+Steffon Seaworth,A Clash of Kings,883,70,Appendix,N/A,,Steffon,Seaworth,,,,M,
+Lyman Darry,A Clash of Kings,887,70,Appendix,N/A,,Lyman,Darry,,,,M,
+Ser Halmon Paege,A Clash of Kings,887,70,Appendix,N/A,Ser,Halmon,Paege,,,,M,
+Berena Tallhart,A Clash of Kings,887,70,Appendix,N/A,,Berena,Tallhart,Hornwood,,,F,
+Brandon Tallhart,A Clash of Kings,887,70,Appendix,N/A,,Brandon,Tallhart,,,,M,
+Eddara Tallhart,A Clash of Kings,887,70,Appendix,N/A,,Eddara,Tallhart,,,,F,
+Lady Sybelle Glover,A Clash of Kings,887,70,Appendix,N/A,Lady,Sybelle,Glover,,,,F,
+Gawen Glover,A Clash of Kings,887,70,Appendix,N/A,,Gawen,Glover,,,,M,
+Erena Glover,A Clash of Kings,887,70,Appendix,N/A,,Erena,Glover,,,,F,
+"Ser Robert Brax, Brother of Flement",A Clash of Kings,894,70,Appendix,N/A,Ser,Robert,Brax,,Brother of Flement,,M,
+Captain Igon Vyrwel,A Clash of Kings,896,70,Appendix,N/A,Captain,Igon,Vyrwel,,,,M,
+Butterbumps,A Clash of Kings,896,70,Appendix,N/A,,Butterbumps,,,,,M,
+Lady Melara Florent,A Clash of Kings,899,70,Appendix,N/A,Lady,Melara,Florent,Crane,,,F,
+Alekyne Florent,A Clash of Kings,899,70,Appendix,N/A,,Alekyne,Florent,,,,M,
+Lady Melessa Tarly,A Clash of Kings,899,70,Appendix,N/A,Lady,Melessa,Tarly,Florent,,,F,
+Lady Rhea Hightower,A Clash of Kings,899,70,Appendix,N/A,Lady,Rhea,Hightower,Florent,,,F,
+Ser Ryam Florent,A Clash of Kings,899,70,Appendix,N/A,Ser,Ryam,Florent,,,,M,
+Ser Colin Florent,A Clash of Kings,899,70,Appendix,N/A,Ser,Colin,Florent,,,,M,
+Ser Hosman Norcross,A Clash of Kings,899,70,Appendix,N/A,Ser,Hosman,Norcross,,,,M,
+Alester Norcross,A Clash of Kings,899,70,Appendix,N/A,,Alester,Norcross,,,,M,
+Renly Norcross,A Clash of Kings,899,70,Appendix,N/A,,Renly,Norcross,,,,M,
+Maester Omer,A Clash of Kings,900,70,Appendix,N/A,Maester,Omer,,,,,M,
+Merrell Florent,A Clash of Kings,900,70,Appendix,N/A,,Merrell,Florent,,,,M,
+Rylene Crane,A Clash of Kings,900,70,Appendix,N/A,,Rylene,Crane,Florent,,,F,
+Ser Rycherd Crane,A Clash of Kings,900,70,Appendix,N/A,Ser,Rycherd,Crane,,,,M,
+Lord Waldon Wynch,A Clash of Kings,902,70,Appendix,N/A,Lord,Waldon,Wynch,,,,M,
+"Lord Rodrik Harlaw, The Reader",A Clash of Kings,902,70,Appendix,N/A,Lord,Rodrik,Harlaw,,The Reader,,M,
+"Lord Stonehouse, The Stonehouse",A Clash of Kings,902,70,Appendix,N/A,Lord,?,Stonehouse,,The Stonehouse,,M,
+Lord Norne Goodbrother,A Clash of Kings,902,70,Appendix,N/A,Lord,Norne,Goodbrother,,,,M,
+"Lord Meldred Merlyn, The Merlyn",A Clash of Kings,902,70,Appendix,N/A,Lord,Meldred,Merlyn,,The Merlyn,,M,
+"Lord Sparr, The Sparr",A Clash of Kings,902,70,Appendix,N/A,Lord,?,Sparr,,The Sparr,,M,
+Lord Baelor Blacktyde,A Clash of Kings,902,70,Appendix,N/A,Lord,Baelor,Blacktyde,,,,M,D
+Lord Donnor Saltcliffe,A Clash of Kings,902,70,Appendix,N/A,Lord,Donnor,Saltcliffe,,,,M,
+Lord Sunderly,A Clash of Kings,902,70,Appendix,N/A,Lord,?,Sunderly,,,,M,
+Ser Marwyn Belmore,A Clash of Kings,903,70,Appendix,N/A,Ser,Marwyn,Belmore,,,,M,
+"Myranda Royce, Randa",A Clash of Kings,904,70,Appendix,N/A,,Myranda,Royce,,Randa,,F,
+Lady Perra Frey,A Clash of Kings,905,70,Appendix,N/A,Lady,Perra,Frey,Royce,,,F,
+Lady Corenna Frey,A Clash of Kings,905,70,Appendix,N/A,Lady,Corenna,Frey,Swann,,,F,
+Ser Ryman Frey,A Clash of Kings,905,70,Appendix,N/A,Ser,Ryman,Frey,,,,M,D
+Edwyn Frey,A Clash of Kings,905,70,Appendix,N/A,,Edwyn,Frey,,,,M,
+Janyce Frey,A Clash of Kings,905,70,Appendix,N/A,,Janyce,Frey,Hunter,,,F,
+"Walda Frey, Daughter of Edwyn",A Clash of Kings,905,70,Appendix,N/A,,Walda,Frey,,Daughter of Edwyn,,F,
+"Petyr Frey, Petyr Pimple",A Clash of Kings,905,70,Appendix,N/A,,Petyr,Frey,,Petyr Pimple,,M,
+Mylenda Frey,A Clash of Kings,905,70,Appendix,N/A,,Mylenda,Frey,Caron,,,F,
+"Perra Frey, Daughter of Petyr",A Clash of Kings,905,70,Appendix,N/A,,Perra,Frey,,Daughter of Petyr,,F,
+Lady Jeyne Frey,A Clash of Kings,905,70,Appendix,N/A,Lady,Jeyne,Frey,Lydden,,,F,
+"Aegon Frey, Jinglebell",A Clash of Kings,905,70,Appendix,N/A,,Aegon,Frey,,Jinglebell,,M,D
+Maegelle Vance,A Clash of Kings,906,70,Appendix,N/A,,Maegelle,Vance,Frey,,,F,
+Ser Dafyn Vance,A Clash of Kings,906,70,Appendix,N/A,Ser,Dafyn,Vance,,,,M,
+Marianne Vance,A Clash of Kings,906,70,Appendix,N/A,,Marianne,Vance,,,,F,
+Walder Vance,A Clash of Kings,906,70,Appendix,N/A,,Walder,Vance,,,,M,
+Patrek Vance,A Clash of Kings,906,70,Appendix,N/A,,Patrek,Vance,,,,M,
+Marsella Frey,A Clash of Kings,906,70,Appendix,N/A,,Marsella,Frey,Waynwood,,,F,
+"Walton Frey, Son of Stevron",A Clash of Kings,906,70,Appendix,N/A,,Walton,Frey,,Son of Stevron,,M,
+Deana Frey,A Clash of Kings,906,70,Appendix,N/A,,Deana,Frey,Hardyng,,,F,
+"Steffon Frey, Son of Walton, The Sweet",A Clash of Kings,906,70,Appendix,N/A,,Steffon,Frey,,"Son of Walton, The Sweet",,M,
+"Walda Frey, Daughter of Walton, Fair Walda",A Clash of Kings,906,70,Appendix,N/A,,Walda,Frey,,"Daughter of Walton, Fair Walda",,F,
+Bryan Frey,A Clash of Kings,906,70,Appendix,N/A,,Bryan,Frey,,,,M,
+"Tywin Frey, Son of Ser Cleos",A Clash of Kings,906,70,Appendix,N/A,,Tywin,Frey,,Son of Ser Cleos,,M,
+Willem Frey,A Clash of Kings,906,70,Appendix,N/A,,Willem,Frey,,,,M,
+Melesa Frey,A Clash of Kings,906,70,Appendix,N/A,,Melesa,Frey,Crakehall,,,F,
+Tyana Frey,A Clash of Kings,906,70,Appendix,N/A,,Tyana,Frey,Wylde,,,F,
+"Aegon Frey, Son of Aenys, Bloodborn",A Clash of Kings,906,70,Appendix,N/A,,Aegon,Frey,,"Son of Aenys, Bloodborn",,M,
+"Rhaegar Frey, Son of Aenys",A Clash of Kings,906,70,Appendix,N/A,,Rhaegar,Frey,,Son of Aenys,,M,
+"Jeyne Frey, Wife of Stevron",A Clash of Kings,906,70,Appendix,N/A,,Jeyne,Frey,Beesbury,Wife of Stevron,,F,
+"Robert Frey, Son of Rhaegar Frey",A Clash of Kings,906,70,Appendix,N/A,,Robert,Frey,,Son of Rhaegar Frey,,M,
+"Walda Frey, Daughter of Rhaegar Frey, White Walda",A Clash of Kings,906,70,Appendix,N/A,,Walda,Frey,,"Daughter of Rhaegar Frey, White Walda",,F,
+Jonos Frey,A Clash of Kings,906,70,Appendix,N/A,,Jonos,Frey,,,,M,
+Perriane Haigh,A Clash of Kings,906,70,Appendix,N/A,,Perriane,Haigh,Frey,,,F,
+Ser Leslyn Haigh,A Clash of Kings,906,70,Appendix,N/A,Ser,Leslyn,Haigh,,,,M,
+Walder Haigh,A Clash of Kings,906,70,Appendix,N/A,,Walder,Haigh,,,,M,
+Ser Donnel Haigh,A Clash of Kings,906,70,Appendix,N/A,Ser,Donnel,Haigh,,,,M,
+Alyn Haigh,A Clash of Kings,906,70,Appendix,N/A,,Alyn,Haigh,,,,M,
+Lady Cyrenna Frey,A Clash of Kings,906,70,Appendix,N/A,Lady,Cyrenna,Frey,Swann,,,F,
+Alys Frey,A Clash of Kings,906,70,Appendix,N/A,,Alys,Frey,,,,F,
+Ser Tytos Frey,A Clash of Kings,906,70,Appendix,N/A,Ser,Tytos,Frey,,,,M,D
+Zhoe Frey,A Clash of Kings,906,70,Appendix,N/A,,Zhoe,Frey,Blanetree,,,F,
+Zia Frey,A Clash of Kings,906,70,Appendix,N/A,,Zia,Frey,,,,F,
+Zachery Frey,A Clash of Kings,906,70,Appendix,N/A,,Zachery,Frey,,,,M,
+Kyra Goodbrook,A Clash of Kings,907,70,Appendix,N/A,,Kyra,Goodbrook,Frey,,,F,
+Walder Goodbrook,A Clash of Kings,907,70,Appendix,N/A,,Walder,Goodbrook,,,,M,
+Jeyne Goodbrook,A Clash of Kings,907,70,Appendix,N/A,,Jeyne,Goodbrook,,,,F,
+Septon Luceon,A Clash of Kings,907,70,Appendix,N/A,Septon,Luceon,,Frey,,,M,
+Lady Amarei Frey,A Clash of Kings,907,70,Appendix,N/A,Lady,Amarei,Frey,Crakehall,,,F,
+Bellena Frey,A Clash of Kings,907,70,Appendix,N/A,,Bellena,Frey,Hawick,,,F,
+Ser Arwood Frey,A Clash of Kings,907,70,Appendix,N/A,Ser,Arwood,Frey,,,,M,
+Ryella Frey,A Clash of Kings,907,70,Appendix,N/A,,Ryella,Frey,Royce,,,F,
+"Ryella Frey, Daughter of Arwood",A Clash of Kings,907,70,Appendix,N/A,,Ryella,Frey,,Daughter of Arwood,,F,
+Androw Frey,A Clash of Kings,907,70,Appendix,N/A,,Androw,Frey,,,,M,
+Alyn Frey,A Clash of Kings,907,70,Appendix,N/A,,Alyn,Frey,,,,M,
+Lady Lythene Vypren,A Clash of Kings,907,70,Appendix,N/A,Lady,Lythene,Vypren,Frey,,,F,
+Lucias Vypren,A Clash of Kings,907,70,Appendix,N/A,,Lucias,Vypren,,,,M,
+Elyana Wylde,A Clash of Kings,907,70,Appendix,N/A,,Elyana,Wylde,Vypren,,,F,
+Jon Wylde,A Clash of Kings,907,70,Appendix,N/A,,Jon,Wylde,,,,M,
+Rickard Wylde,A Clash of Kings,907,70,Appendix,N/A,,Rickard,Wylde,,,,M,
+Ser Damon Vypren,A Clash of Kings,907,70,Appendix,N/A,Ser,Damon,Vypren,,,,M,
+Symond Frey,A Clash of Kings,907,70,Appendix,N/A,,Symond,Frey,,,,M,D
+"Betharios Frey, Of Braavos",A Clash of Kings,907,70,Appendix,N/A,,Betharios,Frey,,Of Braavos,,F,
+Alesander Frey,A Clash of Kings,907,70,Appendix,N/A,,Alesander,Frey,,,,M,
+Alyx Frey,A Clash of Kings,907,70,Appendix,N/A,,Alyx,Frey,,,,F,
+Bradamar Frey,A Clash of Kings,907,70,Appendix,N/A,,Bradamar,Frey,,,,M,
+Oro Tendyris,A Clash of Kings,907,70,Appendix,N/A,,Oro,Tendyris,,,,M,
+Wynafrei Frey,A Clash of Kings,907,70,Appendix,N/A,,Wynafrei,Frey,Whent,,,F,
+Lady Mariya Frey,A Clash of Kings,907,70,Appendix,N/A,Lady,Mariya,Frey,Darry,,,F,
+"Amerei Frey, Gatehouse Ami",A Clash of Kings,907,70,Appendix,N/A,,Amerei,Frey,,Gatehouse Ami,,F,
+"Ser Pate, Of the Blue Fork, Of Sevenstreams",A Clash of Kings,907,70,Appendix,N/A,Ser,Pate,,,"Of the Blue Fork, Of Sevenstreams",,M,
+"Walda Frey, Fat Walda, Daughter of Merrett",A Clash of Kings,907,70,Appendix,N/A,,Walda,Frey,,"Fat Walda, Daughter of Merrett",,F,
+Marissa Frey,A Clash of Kings,907,70,Appendix,N/A,,Marissa,Frey,,,,F,
+Ser Geremy Frey,A Clash of Kings,907,70,Appendix,N/A,Ser,Geremy,Frey,,,,M,
+Carolei Frey,A Clash of Kings,907,70,Appendix,N/A,,Carolei,Frey,Waynwood,,,F,
+Sandor Frey,A Clash of Kings,907,70,Appendix,N/A,,Sandor,Frey,,,,M,
+Cynthea Frey,A Clash of Kings,907,70,Appendix,N/A,,Cynthea,Frey,,,,F,
+Ser Raymund Frey,A Clash of Kings,908,70,Appendix,N/A,Ser,Raymund,Frey,,,,M,
+Beony Frey,A Clash of Kings,908,70,Appendix,N/A,,Beony,Frey,Beesbury,,,F,
+Robert Frey,A Clash of Kings,908,70,Appendix,N/A,,Robert,Frey,,,,M,
+Malwyn Frey,A Clash of Kings,908,70,Appendix,N/A,,Malwyn,Frey,,,,M,
+Serra Frey,A Clash of Kings,908,70,Appendix,N/A,,Serra,Frey,,,,F,
+Sarra Frey,A Clash of Kings,908,70,Appendix,N/A,,Sarra,Frey,,,,F,
+"Cersei Frey, Little Bee",A Clash of Kings,908,70,Appendix,N/A,,Cersei,Frey,,Little Bee,,F,
+Lady Alyssa Frey,A Clash of Kings,908,70,Appendix,N/A,Lady,Alyssa,Frey,Blackwood,,,F,
+"Lothar Frey, Lame Lothar",A Clash of Kings,908,70,Appendix,N/A,,Lothar,Frey,,Lame Lothar,,M,
+Leonella Frey,A Clash of Kings,908,70,Appendix,N/A,,Leonella,Frey,Lefford,,,F,
+Tysane Frey,A Clash of Kings,908,70,Appendix,N/A,,Tysane,Frey,,,,F,
+"Walda Frey, Daughter of Lothar",A Clash of Kings,908,70,Appendix,N/A,,Walda,Frey,,Daughter of Lothar,,F,
+Emberlei Frey,A Clash of Kings,908,70,Appendix,N/A,,Emberlei,Frey,,,,F,
+Sallei Frey,A Clash of Kings,908,70,Appendix,N/A,,Sallei,Frey,Paege,,,F,
+Dickon Frey,A Clash of Kings,908,70,Appendix,N/A,,Dickon,Frey,,,,M,
+Mathis Frey,A Clash of Kings,908,70,Appendix,N/A,,Mathis,Frey,,,,M,
+Ser Whalen Frey,A Clash of Kings,908,70,Appendix,N/A,Ser,Whalen,Frey,,,,M,
+Sylwa Frey,A Clash of Kings,908,70,Appendix,N/A,,Sylwa,Frey,Paege,,,F,
+Hoster Frey,A Clash of Kings,908,70,Appendix,N/A,,Hoster,Frey,,,,M,
+Ser Damon Paege,A Clash of Kings,908,70,Appendix,N/A,Ser,Damon,Paege,,,,M,
+"Merianne Frey, Merry",A Clash of Kings,908,70,Appendix,N/A,,Merianne,Frey,,Merry,,F,
+Lady Morya Brax,A Clash of Kings,908,70,Appendix,N/A,Lady,Morya,Brax,Frey,,,F,
+"Robert Brax, Son of Flement",A Clash of Kings,908,70,Appendix,N/A,,Robert,Brax,,Son of Flement,,M,
+Walder Brax,A Clash of Kings,908,70,Appendix,N/A,,Walder,Brax,,,,M,
+Jon Brax,A Clash of Kings,908,70,Appendix,N/A,,Jon,Brax,,,,M,
+"Tyta Frey, The Maid",A Clash of Kings,908,70,Appendix,N/A,,Tyta,Frey,,The Maid,,F,
+Lady Sarya Frey,A Clash of Kings,908,70,Appendix,N/A,Lady,Sarya,Frey,Whent,,,F,
+Lady Bethany Frey,A Clash of Kings,908,70,Appendix,N/A,Lady,Bethany,Frey,Rosby,,,F,
+Ser Benfrey Frey,A Clash of Kings,908,70,Appendix,N/A,Ser,Benfrey,Frey,,,,M,
+Jyanna Frey,A Clash of Kings,908,70,Appendix,N/A,,Jyanna,Frey,,,,F,
+"Della Frey, Deaf Della",A Clash of Kings,909,70,Appendix,N/A,,Della,Frey,,Deaf Della,,F,
+Osmund Frey,A Clash of Kings,909,70,Appendix,N/A,,Osmund,Frey,,,,M,
+Maester Willamen,A Clash of Kings,909,70,Appendix,N/A,Maester,Willamen,,Frey,,,M,
+Roslin Frey,A Clash of Kings,909,70,Appendix,N/A,,Roslin,Frey,,,,F,
+Lady Annara Frey,A Clash of Kings,909,70,Appendix,N/A,Lady,Annara,Frey,Farring,,,F,
+Arwyn Frey,A Clash of Kings,909,70,Appendix,N/A,,Arwyn,Frey,,,,F,
+Wendel Frey,A Clash of Kings,909,70,Appendix,N/A,,Wendel,Frey,,,,M,
+Colmar Frey,A Clash of Kings,909,70,Appendix,N/A,,Colmar,Frey,,,,M,
+Shirei Frey,A Clash of Kings,909,70,Appendix,N/A,,Shirei,Frey,,,,F,
+Lady Joyeuse Frey,A Clash of Kings,909,70,Appendix,N/A,Lady,Joyeuse,Frey,Erenford,,,F,
+Ser Aemon Rivers,A Clash of Kings,909,70,Appendix,N/A,Ser,Aemon,Rivers,,,,M,
+Walda Rivers,A Clash of Kings,909,70,Appendix,N/A,,Walda,Rivers,,,,F,
+Maester Melwys,A Clash of Kings,909,70,Appendix,N/A,Maester,Melwys,,Rivers,,,M,
+Jeyne Rivers,A Clash of Kings,909,70,Appendix,N/A,,Jeyne,Rivers,,,,F,
+Ronel Rivers,A Clash of Kings,909,70,Appendix,N/A,,Ronel,Rivers,,,,M,
+Mellara Rivers,A Clash of Kings,909,70,Appendix,N/A,,Mellara,Rivers,,,,F,
+Ser Aladale Wynch,A Clash of Kings,910,70,Appendix,N/A,Ser,Aladale,Wynch,,,,M,D
+Elron,A Clash of Kings,910,70,Appendix,N/A,,Elron,,,,,M,
+Cugen,A Clash of Kings,911,70,Appendix,N/A,,Cugen,,,,,M,
+"Paul, Small Paul",A Storm of Swords,2,0,Prologue,Chett,,Paul,,,Small Paul,,M,D
+Blane,A Storm of Swords,2,0,Prologue,Chett,,Blane,,,,,M,
+Grubbs,A Storm of Swords,2,0,Prologue,Chett,,Grubbs,,,,,M,
+Aethan,A Storm of Swords,2,0,Prologue,Chett,,Aethan,,,,,M,
+Bannen,A Storm of Swords,2,0,Prologue,Chett,,Bannen,,,,,M,D
+Softfoot,A Storm of Swords,2,0,Prologue,Chett,,Softfoot,,,,,M,D
+"Kedge, Whiteye",A Storm of Swords,3,0,Prologue,Chett,,Kedge,,,Whiteye,,M,
+Goady,A Storm of Swords,3,0,Prologue,Chett,,Goady,,,,,M,
+"Donnel Hill, Sweet Donnel",A Storm of Swords,4,0,Prologue,Chett,,Donnel,Hill,,Sweet Donnel,,M,
+Dirk,A Storm of Swords,5,0,Prologue,Chett,,Dirk,,,,,M,D
+"Karl, Clubfoot Karl",A Storm of Swords,5,0,Prologue,Chett,,Karl,,,Clubfoot Karl,,M,D
+"Ollo, Lophand",A Storm of Swords,6,0,Prologue,Chett,,Ollo,,,Lophand,,M,
+"Bessa, Of Hag's Mire",A Storm of Swords,7,0,Prologue,Chett,,Bessa,,,Of Hag's Mire,,F,
+Sawwood,A Storm of Swords,12,0,Prologue,Chett,,Sawwood,,,,,M,
+Maslyn,A Storm of Swords,12,0,Prologue,Chett,,Maslyn,,,,,M,D
+Tansy,A Storm of Swords,35,2,Catelyn I,Catelyn Tully,,Tansy,,,,,F,
+Iggo,A Storm of Swords,51,3,Arya I,Arya Stark,,Iggo,,,,,M,D
+"Ser Kennos, Of Kayce",A Storm of Swords,78,6,Sansa I,Sansa Stark,Ser,Kennos,,,Of Kayce,,M,
+"Arryk, Left/Right",A Storm of Swords,80,6,Sansa I,Sansa Stark,,Arryk,,,Left/Right,,M,
+"Erryk, Left/Right",A Storm of Swords,80,6,Sansa I,Sansa Stark,,Erryk,,,Left/Right,,M,
+Megga Tyrell,A Storm of Swords,80,6,Sansa I,Sansa Stark,,Megga,Tyrell,,,,F,
+Alla Tyrell,A Storm of Swords,80,6,Sansa I,Sansa Stark,,Alla,Tyrell,,,,F,
+Elinor Tyrell,A Storm of Swords,80,6,Sansa I,Sansa Stark,,Elinor,Tyrell,,,,F,
+Lady Leonette Tyrell,A Storm of Swords,80,6,Sansa I,Sansa Stark,Lady,Leonette,Tyrell,Fossoway,,,F,
+Septa Nysterica,A Storm of Swords,80,6,Sansa I,Sansa Stark,Septa,Nysterica,,,,,F,
+Lady Alyce Graceford,A Storm of Swords,80,6,Sansa I,Sansa Stark,Lady,Alyce,Graceford,,,,F,
+Lady Alysanne Bulwer,A Storm of Swords,80,6,Sansa I,Sansa Stark,Lady,Alysanne,Bulwer,,,,F,
+"Meredyth Crane, Merry",A Storm of Swords,80,6,Sansa I,Sansa Stark,,Meredyth,Crane,,Merry,,F,
+"Lady Taena Merryweather, Of Myr",A Storm of Swords,80,6,Sansa I,Sansa Stark,Lady,Taena,Merryweather,,Of Myr,,F,
+"Lord Luthor Tyrell, Father of Mace",A Storm of Swords,80,6,Sansa I,Sansa Stark,Lord,Luthor,Tyrell,,Father of Mace,,M,
+Lenyl,A Storm of Swords,92,7,Jon I,Jon Snow,,Lenyl,,,,,M,
+"Ryk, Longspear Ryk",A Storm of Swords,92,7,Jon I,Jon Snow,,Ryk,,,Longspear Ryk,,M,
+Orell,A Storm of Swords,93,7,Jon I,Jon Snow,,Orell,,,,,M,D
+"Styr, Magnar of Thenn",A Storm of Swords,98,7,Jon I,Jon Snow,,Styr,,,Magnar of Thenn,,M,
+"Tormund, Giantsbane",A Storm of Swords,99,7,Jon I,Jon Snow,,Tormund,,,Giantsbane,,M,
+"Dalla, Wife of Mance Rayder",A Storm of Swords,99,7,Jon I,Jon Snow,,Dalla,,,Wife of Mance Rayder,,F,
+Val,A Storm of Swords,99,7,Jon I,Jon Snow,,Val,,,,,F,
+Jarl,A Storm of Swords,99,7,Jon I,Jon Snow,,Jarl,,,,,M,D
+Lord Commander Qorgyle,A Storm of Swords,101,7,Jon I,Jon Snow,Lord Commander,?,Qorgyle,,,,M,
+"Orland, Of Oldtown",A Storm of Swords,102,7,Jon I,Jon Snow,,Orland,,,Of Oldtown,,M,
+Maester Mullin,A Storm of Swords,103,7,Jon I,Jon Snow,Maester,Mullin,,,,,M,
+Captain Groleo,A Storm of Swords,106,8,Daenerys I,Daenerys Targaryen,Captain,Groleo,,,,,M,
+Myles Mooton,A Storm of Swords,110,8,Daenerys I,Daenerys Targaryen,,Myles,Mooton,,,,M,
+Richard Lonmouth,A Storm of Swords,110,8,Daenerys I,Daenerys Targaryen,,Richard,Lonmouth,,,,M,
+"Lord Jon Connington, Griff",A Storm of Swords,110,8,Daenerys I,Daenerys Targaryen,Lord,Jon,Connington,,Griff,,M,
+Temmo,A Storm of Swords,118,8,Daenerys I,Daenerys Targaryen,,Temmo,,,,,M,
+Khorane Sathmantes,A Storm of Swords,133,10,Davos II,Davos Seaworth,,Khorane,Sathmantes,,,,M,
+Ser Tristimun,A Storm of Swords,134,10,Davos II,Davos Seaworth,Ser,Tristimun,,,,,M,
+Meizo Mahr,A Storm of Swords,136,10,Davos II,Davos Seaworth,,Meizo,Mahr,,,,M,
+Jate Blackberry,A Storm of Swords,142,10,Davos II,Davos Seaworth,,Jate,Blackberry,,,,M,D
+"Lord Lucos Chyttering, Little Lucos",A Storm of Swords,142,10,Davos II,Davos Seaworth,Lord,Lucos,Chyttering,,Little Lucos,,M,
+"Will, Hookface Will",A Storm of Swords,142,10,Davos II,Davos Seaworth,,Will,,,Hookface Will,,M,
+"Hal, The Hog",A Storm of Swords,142,10,Davos II,Davos Seaworth,,Hal,,,The Hog,,M,
+Ser Warren,A Storm of Swords,153,11,Jaime II,Jaime Lannister,Ser,Warren,,,,,M,
+Ser Sumner Crakehall,A Storm of Swords,156,11,Jaime II,Jaime Lannister,Ser,Sumner,Crakehall,,,,M,
+Ser Harlan Grandison,A Storm of Swords,156,11,Jaime II,Jaime Lannister,Ser,Harlan,Grandison,,,,M,
+Grand Maester Gerardys,A Storm of Swords,162,12,Tyrion II,Tyrion Lannister,Grand Maester,Gerardys,,,,,M,
+Maester Turquin,A Storm of Swords,162,12,Tyrion II,Tyrion Lannister,Maester,Turquin,,,,,M,
+Maester Erreck,A Storm of Swords,162,12,Tyrion II,Tyrion Lannister,Maester,Erreck,,,,,M,
+Beldecar,A Storm of Swords,166,12,Tyrion II,Tyrion Lannister,,Beldecar,,,,,M,
+"Lem, Lem Lemoncloak",A Storm of Swords,176,13,Arya II,Arya Stark,,Lem,,,Lem Lemoncloak,,M,
+"Tom, Of Sevenstreams/O'Sevens/Sevenstrings",A Storm of Swords,177,13,Arya II,Arya Stark,,Tom,,,Of Sevenstreams/O'Sevens/Sevenstrings,,M,
+Sharna,A Storm of Swords,178,13,Arya II,Arya Stark,,Sharna,,,,,F,
+"Pate, Old Pate",A Storm of Swords,178,13,Arya II,Arya Stark,,Pate,,,Old Pate,,M,
+Husband,A Storm of Swords,182,13,Arya II,Arya Stark,,Husband,,,,,M,
+Lady Sybell Westerling,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,Lady,Sybell,Westerling,Spicer,,,F,
+Ser Rolph Spicer,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,Ser,Rolph,Spicer,,,,M,
+Ser Raynald Westerling,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,Ser,Raynald,Westerling,,,,M,D
+Elenya Westerling,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,,Elenya,Westerling,,,,F,
+Rollam Westerling,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,,Rollam,Westerling,,,,M,
+Queen Jeyne Stark,A Storm of Swords,193,14,Catelyn II,Catelyn Tully,Queen,Jeyne,Stark,Westerling,,,F,
+"Mag Mar Tun Doh Weg, Mag the Mighty",A Storm of Swords,203,15,Jon II,Jon Snow,,Mag,Mar Tun Doh Weg,,Mag the Mighty,,M,
+"Lump, Varamyr Sixskins",A Storm of Swords,208,15,Jon II,Jon Snow,,Lump,,,Varamyr Sixskins,,M,
+"Toregg, Son of Tormund",A Storm of Swords,212,15,Jon II,Jon Snow,,Toregg,,,Son of Tormund,,M,
+"Dormund, Son of Tormund",A Storm of Swords,212,15,Jon II,Jon Snow,,Dormund,,,Son of Tormund,,M,
+"Munda, Daughter of Tormund",A Storm of Swords,212,15,Jon II,Jon Snow,,Munda,,,Daughter of Tormund,,F,
+Alyn Ambrose,A Storm of Swords,222,16,Sansa II,Sansa Stark,,Alyn,Ambrose,,,,M,
+Lord Arthur Ambrose,A Storm of Swords,222,16,Sansa II,Sansa Stark,Lord,Arthur,Ambrose,,,,M,
+Jack-Be-Lucky,A Storm of Swords,230,17,Arya III,Arya Stark,,Jack-Be-Lucky,,,,,M,
+"Pello, Of Tyrosh, Greenbeard",A Storm of Swords,231,17,Arya III,Arya Stark,,Pello,,,"Of Tyrosh, Greenbeard",,M,
+"Bernarr, Black Bernarr",A Storm of Swords,237,18,Samwell I,Samwell Tarly,,Bernarr,,,Black Bernarr,,M,
+Talla Tarly,A Storm of Swords,245,18,Samwell I,Samwell Tarly,,Talla,Tarly,,,,F,
+Mawney,A Storm of Swords,251,18,Samwell I,Samwell Tarly,,Mawney,,,,,M,
+"High Septon , Tyrion's High Septon",A Storm of Swords,254,19,Tyrion III,Tyrion Lannister,High Septon,?,,,Tyrion's High Septon,,M,
+Lord Horton Redfort,A Storm of Swords,264,19,Tyrion III,Tyrion Lannister,Lord,Horton,Redfort,,,,M,
+Lord Sebaston Farman,A Storm of Swords,272,19,Tyrion III,Tyrion Lannister,Lord,Sebaston,Farman,,,,M,
+Elwood,A Storm of Swords,275,20,Catelyn III,Catelyn Tully,,Elwood,,,,,M,D
+Karlon Stark,A Storm of Swords,281,20,Catelyn III,Catelyn Tully,,Karlon,Stark,,,,M,
+Timeon Of Dorne,A Storm of Swords,293,21,Jaime III,Jaime Lannister,,Timeon,Of Dorne,,,,M,
+Ser Maynard,A Storm of Swords,298,22,Arya IV,Arya Stark,Ser,Maynard,,,,,M,
+Lord Lymond Lychester,A Storm of Swords,299,22,Arya IV,Arya Stark,Lord,Lymond,Lychester,,,,M,
+"Ben, Big Belly Ben",A Storm of Swords,300,22,Arya IV,Arya Stark,,Ben,,,Big Belly Ben,,M,
+"Erreg, The Kinslayer",A Storm of Swords,301,22,Arya IV,Arya Stark,,Erreg,,,The Kinslayer,,M,
+Lady Ravella Smallwood,A Storm of Swords,304,22,Arya IV,Arya Stark,Lady,Ravella,Smallwood,Swann,,,F,
+Carellen Smallwood,A Storm of Swords,305,22,Arya IV,Arya Stark,,Carellen,Smallwood,,,,F,
+Kraznys mo Nakloz,A Storm of Swords,311,23,Daenerys II,Daenerys Targaryen,,Kraznys,mo Nakloz,,,,M,D
+Porridge,A Storm of Swords,345,25,Davos III,Davos Seaworth,,?,,,Porridge,,M,
+Lamprey,A Storm of Swords,345,25,Davos III,Davos Seaworth,,?,,,Lamprey,,M,
+"Arson, Iceaxe",A Storm of Swords,360,26,Jon III,Jon Snow,,Arson,,,Iceaxe,,M,
+"Grigg, The Goat",A Storm of Swords,362,26,Jon III,Jon Snow,,Grigg,,,The Goat,,M,
+Grazdan mo Ullhor,A Storm of Swords,367,27,Daenerys III,Daenerys Targaryen,,Grazdan,mo Ullhor,,,,M,D
+"Grazdan, The Great",A Storm of Swords,367,27,Daenerys III,Daenerys Targaryen,,Grazdan,,,The Great,,M,
+"Grazdan, With a gold-fringed tokar",A Storm of Swords,367,27,Daenerys III,Daenerys Targaryen,,Grazdan,,,With a gold-fringed tokar,,M,
+"Grazdan, With a spiked beard",A Storm of Swords,367,27,Daenerys III,Daenerys Targaryen,,Grazdan,,,With a spiked beard,,M,
+Missandei,A Storm of Swords,372,27,Daenerys III,Daenerys Targaryen,,Missandei,,,,,F,
+Ser Denys Arryn,A Storm of Swords,395,29,Arya V,Arya Stark,Ser,Denys,Arryn,,,,M,
+Ser Wilbert,A Storm of Swords,396,29,Arya V,Arya Stark,Ser,Wilbert,,,,,M,
+Alyce,A Storm of Swords,400,29,Arya V,Arya Stark,,Alyce,,,,,F,
+Tansy,A Storm of Swords,400,29,Arya V,Arya Stark,,Tansy,,,,,F,
+Cass,A Storm of Swords,400,29,Arya V,Arya Stark,,Cass,,,,,F,
+"Lanna, Of the Peach",A Storm of Swords,400,29,Arya V,Arya Stark,,Lanna,,,Of the Peach,,F,
+Jyzene,A Storm of Swords,400,29,Arya V,Arya Stark,,Jyzene,,,,,F,
+Helly,A Storm of Swords,400,29,Arya V,Arya Stark,,Helly,,,,,F,
+Leslyn,A Storm of Swords,401,29,Arya V,Arya Stark,,Leslyn,,,,,F,
+Bella,A Storm of Swords,401,29,Arya V,Arya Stark,,Bella,,,,,F,
+Errok,A Storm of Swords,408,30,Jon IV,Jon Snow,,Errok,,,,,M,
+Zollo,A Storm of Swords,417,31,Jaime IV,Jaime Lannister,,Zollo,,,,,M,
+"Galyeon, Of Cuy",A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Galyeon,,,Of Cuy,,M,
+"Bethany, Fair-fingers",A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Bethany,,,Fair-fingers,,F,
+Aemon Costayne,A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Aemon,Costayne,,,,M,
+"Alaric, Of Eysen",A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Alaric,,,Of Eysen,,M,
+"Hamish, The Harper",A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Hamish,,,The Harper,,M,
+Collio Quaynis,A Storm of Swords,432,32,Tyrion IV,Tyrion Lannister,,Collio,Quaynis,,,,M,
+King Tommen II Lannister,A Storm of Swords,434,32,Tyrion IV,Tyrion Lannister,King,Tommen,Lannister,,,II,M,
+Fornio,A Storm of Swords,443,33,Samwell II,Samwell Tarly,,Fornio,,,,,M,
+Ser Byam Flint,A Storm of Swords,443,33,Samwell II,Samwell Tarly,Ser,Byam,Flint,,,,M,D
+"Garth, Of Oldtown",A Storm of Swords,443,33,Samwell II,Samwell Tarly,,Garth,,,Of Oldtown,,M,D
+"Garth, Of Greenaway",A Storm of Swords,444,33,Samwell II,Samwell Tarly,,Garth,,,Of Greenaway,,M,
+"Alan, Of Rosby",A Storm of Swords,444,33,Samwell II,Samwell Tarly,,Alan,,,Of Rosby,,M,
+Ronnel Harclay,A Storm of Swords,444,33,Samwell II,Samwell Tarly,,Ronnel,Harclay,,,,M,
+Tim Stone,A Storm of Swords,444,33,Samwell II,Samwell Tarly,,Tim,Stone,,,,M,
+"Ulmer, Ulmer of the Kingswood",A Storm of Swords,446,33,Samwell II,Samwell Tarly,,Ulmer,,,Ulmer of the Kingswood,,M,
+"Dick, Fletcher Dick",A Storm of Swords,447,33,Samwell II,Samwell Tarly,,Dick,,,Fletcher Dick,,M,
+Simon Toyne,A Storm of Swords,447,33,Samwell II,Samwell Tarly,,Simon,Toyne,,,,M,
+"Oswyn, Oswyn Longneck the Thrice-Hanged",A Storm of Swords,447,33,Samwell II,Samwell Tarly,,Oswyn,,,Oswyn Longneck the Thrice-Hanged,,M,
+"Wenda, The White Fawn",A Storm of Swords,447,33,Samwell II,Samwell Tarly,,Wenda,,,The White Fawn,,F,
+Rolley Of Sisterton,A Storm of Swords,449,33,Samwell II,Samwell Tarly,,Rolley,Of Sisterton,,,,M,
+"Bill, Muttering Bill",A Storm of Swords,449,33,Samwell II,Samwell Tarly,,Bill,,,Muttering Bill,,M,
+"Garth, Greyfeather",A Storm of Swords,449,33,Samwell II,Samwell Tarly,,Garth,,,Greyfeather,,M,
+"Oss, Orphan Oss",A Storm of Swords,456,33,Samwell II,Samwell Tarly,,Oss,,,Orphan Oss,,M,
+Dyah,A Storm of Swords,460,34,Arya VI,Arya Stark,,Dyah,,,,,F,
+Ferny,A Storm of Swords,460,34,Arya VI,Arya Stark,,Ferny,,,,,F,
+Lister,A Storm of Swords,466,34,Arya VI,Arya Stark,,Lister,,,,,M,
+Kennocks,A Storm of Swords,466,34,Arya VI,Arya Stark,,Kennocks,,,,,M,
+Goodman Beck,A Storm of Swords,466,34,Arya VI,Arya Stark,Goodman,Beck,,,,,M,
+Mudge,A Storm of Swords,466,34,Arya VI,Arya Stark,,Mudge,,,,,M,
+Merriman,A Storm of Swords,466,34,Arya VI,Arya Stark,,Merriman,,,,,M,
+Ser Andrey Charlton,A Storm of Swords,466,34,Arya VI,Arya Stark,Ser,Andrey,Charlton,,,,M,
+Lucas Roote,A Storm of Swords,466,34,Arya VI,Arya Stark,,Lucas,Roote,,,,M,
+Lord Deddings,A Storm of Swords,466,34,Arya VI,Arya Stark,Lord,?,Deddings,,,,M,
+Lady Deddings,A Storm of Swords,466,34,Arya VI,Arya Stark,Lady,?,Deddings,,,,F,
+"Joth, Quick-bow",A Storm of Swords,466,34,Arya VI,Arya Stark,,Joth,,,Quick-bow,,M,
+"Matt, Little Matt",A Storm of Swords,466,34,Arya VI,Arya Stark,,Matt,,,Little Matt,,M,
+"Ryn, Anvil Ryn",A Storm of Swords,466,34,Arya VI,Arya Stark,,Ryn,,,Anvil Ryn,,M,
+Ser Ormond,A Storm of Swords,466,34,Arya VI,Arya Stark,Ser,Ormond,,,,,M,
+Ser Dudley,A Storm of Swords,466,34,Arya VI,Arya Stark,Ser,Dudley,,,,,M,
+"Pate, Of Mory",A Storm of Swords,466,34,Arya VI,Arya Stark,,Pate,,,Of Mory,,M,
+"Pate, Of Lancewood",A Storm of Swords,466,34,Arya VI,Arya Stark,,Pate,,,Of Lancewood,,M,
+"Pate, Of Shermer's Grove",A Storm of Swords,466,34,Arya VI,Arya Stark,,Pate,,,Of Shermer's Grove,,M,
+"Wyl, Blind Wyl the Whittler",A Storm of Swords,466,34,Arya VI,Arya Stark,,Wyl,,,Blind Wyl the Whittler,,M,
+Goodwife Nolla,A Storm of Swords,466,34,Arya VI,Arya Stark,Goodwife,Nolla,,,,,F,
+Ned,A Storm of Swords,468,34,Arya VI,Arya Stark,,Ned,,,,,M,
+Dennet,A Storm of Swords,469,34,Arya VI,Arya Stark,,Dennet,,,,,M,
+"Kyle, Of the Brotherhood without Banners",A Storm of Swords,469,34,Arya VI,Arya Stark,,Kyle,,,Of the Brotherhood without Banners,,M,
+Melly,A Storm of Swords,472,34,Arya VI,Arya Stark,,Melly,,,,,F,
+Daemon Blackfyre,A Storm of Swords,492,36,Davos IV,Davos Seaworth,,Daemon,Blackfyre,,,,M,
+Ser Terrence Toyne,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Ser,Terrence,Toyne,,,,M,
+The Vulture King,A Storm of Swords,492,36,Davos IV,Davos Seaworth,,?,,,The Vulture King,,M,
+Grand Maester Hareth,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Grand Maester,Hareth,,,,,M,
+"Lord Hugh Grandison, Greybeard",A Storm of Swords,492,36,Davos IV,Davos Seaworth,Lord,Hugh,Grandison,,Greybeard,,M,
+Lord Cafferen,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Lord,?,Cafferen,,,,M,
+Lord Belgrave,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Lord,?,Belgrave,,,,M,
+Ser Gilbert Farring,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Ser,Gilbert,Farring,,,,M,
+Lord Lester Morrigen,A Storm of Swords,492,36,Davos IV,Davos Seaworth,Lord,Lester,Morrigen,,,,M,
+Jon Darry,A Storm of Swords,505,37,Jaime V,Jaime Lannister,,Jon,Darry,,,,M,
+Belis,A Storm of Swords,506,37,Jaime V,Jaime Lannister,,Belis,,,,,M,
+Garigus,A Storm of Swords,506,37,Jaime V,Jaime Lannister,,Garigus,,,,,M,
+Lord Qarlton Chelsted,A Storm of Swords,506,37,Jaime V,Jaime Lannister,Lord,Qarlton,Chelsted,,,,M,
+Alys Karstark,A Storm of Swords,510,37,Jaime V,Jaime Lannister,,Alys,Karstark,,,,F,
+"Ser Deziel Dalt, The Knight of Lemonwood",A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Deziel,Dalt,,The Knight of Lemonwood,,M,
+Lord Tremond Gargalen,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Lord,Tremond,Gargalen,,,,M,
+Lord Harmen Uller,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Lord,Harmen,Uller,,,,M,
+Ser Ulwyck Uller,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Ulwyck,Uller,,,,M,
+Ser Ryon Allyrion,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Ryon,Allyrion,,,,M,
+"Ser Daemon Sand, Bastard of Godsgrace",A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Daemon,Sand,,Bastard of Godsgrace,,M,
+Lord Dagos Manwoody,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Lord,Dagos,Manwoody,,,,M,
+Ser Myles Manwoody,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Myles,Manwoody,,,,M,
+Mors Manwoody,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,,Mors,Manwoody,,,,M,
+Dickon Manwoody,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,,Dickon,Manwoody,,,,M,
+Ser Arron Qorgyle,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Ser,Arron,Qorgyle,,,,M,
+Myria Jordayne,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,,Myria,Jordayne,,,,F,
+Lady Larra Blackmont,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,Lady,Larra,Blackmont,,,,F,
+Jynessa Blackmont,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,,Jynessa,Blackmont,,,,F,
+Ellaria Sand,A Storm of Swords,521,38,Tyrion V,Tyrion Lannister,,Ellaria,Sand,,,,F,
+Lord Anders Yronwood,A Storm of Swords,522,38,Tyrion V,Tyrion Lannister,Lord,Anders,Yronwood,,,,M,
+"Leo Tyrell, Longthorn",A Storm of Swords,525,38,Tyrion V,Tyrion Lannister,,Leo,Tyrell,,Longthorn,,M,
+Notch,A Storm of Swords,530,39,Arya VII,Arya Stark,,Notch,,,,,M,
+"Dick, Beardless Dick",A Storm of Swords,530,39,Arya VII,Arya Stark,,Dick,,,Beardless Dick,,M,
+"Watty, The Miller",A Storm of Swords,532,39,Arya VII,Arya Stark,,Watty,,,The Miller,,M,
+"Merrit, Merrit o' Moontown",A Storm of Swords,532,39,Arya VII,Arya Stark,,Merrit,,,Merrit o' Moontown,,M,
+Lord Harte,A Storm of Swords,538,39,Arya VII,Arya Stark,Lord,?,Harte,,,,M,
+Jayde,A Storm of Swords,592,43,Arya VIII,Arya Stark,,Jayde,,,,,F,
+Puddingfoot,A Storm of Swords,543,39,Arya VII,Arya Stark,,Puddingfoot,,,,,M,
+"Luke, Likely Luke",A Storm of Swords,544,39,Arya VII,Arya Stark,,Luke,,,Likely Luke,,M,
+"Queen Alysanne, Good Queen Alysanne",A Storm of Swords,546,40,Bran III,Bran Stark,Queen,Alysanne,,,Good Queen Alysanne,,F,
+Big Boil,A Storm of Swords,559,41,Jon V,Jon Snow,,Big Boil,,,,,M,
+"Dan, Hempen Dan",A Storm of Swords,559,41,Jon V,Jon Snow,,Dan,,,Hempen Dan,,M,
+"Dick Follard, Deaf Dick Follard",A Storm of Swords,561,41,Jon V,Jon Snow,,Dick,Follard,,Deaf Dick Follard,,M,D
+Septon Cellador,A Storm of Swords,561,41,Jon V,Jon Snow,Septon,Cellador,,,,,M,
+Ser Wynton Stout,A Storm of Swords,561,41,Jon V,Jon Snow,Ser,Wynton,Stout,,,,M,
+Quort,A Storm of Swords,562,41,Jon V,Jon Snow,,Quort,,,,,M,D
+Bodger,A Storm of Swords,562,41,Jon V,Jon Snow,,Bodger,,,,,M,D
+Del,A Storm of Swords,562,41,Jon V,Jon Snow,,Del,,,,,M,
+"Henk, The Helm",A Storm of Swords,562,41,Jon V,Jon Snow,,Henk,,,The Helm,,M,
+Toefinger,A Storm of Swords,562,41,Jon V,Jon Snow,,Toefinger,,,,,M,
+Stone Thumbs,A Storm of Swords,562,41,Jon V,Jon Snow,,Stone Thumbs,,,,,M,D
+Lenn,A Storm of Swords,562,41,Jon V,Jon Snow,,Lenn,,,,,M,
+Grey Worm,A Storm of Swords,572,42,Daenerys IV,Daenerys Targaryen,,Grey Worm,,,,,M,
+Prendahl na Ghezn,A Storm of Swords,574,42,Daenerys IV,Daenerys Targaryen,,Prendahl,na Ghezn,,,,M,D
+"Sallor, The Bald",A Storm of Swords,574,42,Daenerys IV,Daenerys Targaryen,,Sallor,,,The Bald,,M,D
+Daario Naharis,A Storm of Swords,574,42,Daenerys IV,Daenerys Targaryen,,Daario,Naharis,,,,M,
+"Mero, The Titan's Bastard",A Storm of Swords,576,42,Daenerys IV,Daenerys Targaryen,,Mero,,,The Titan's Bastard,,M,
+Grazdan mo Eraz,A Storm of Swords,578,42,Daenerys IV,Daenerys Targaryen,,Grazdan,mo Eraz,,,,M,
+Jenny,A Storm of Swords,594,43,Arya VIII,Arya Stark,,Jenny,,,,,F,
+"Gergen, Green Gergen",A Storm of Swords,596,43,Arya VIII,Arya Stark,,Gergen,,,Green Gergen,,M,
+Allyria Dayne,A Storm of Swords,596,43,Arya VIII,Arya Stark,,Allyria,Dayne,,,,F,
+Lord Lymond Goodbrook,A Storm of Swords,599,43,Arya VIII,Arya Stark,Lord,Lymond,Goodbrook,,,,M,
+Nage,A Storm of Swords,607,44,Jaime VI,Jaime Lannister,,Nage,,,,,M,
+Lord Tarbeck,A Storm of Swords,607,44,Jaime VI,Jaime Lannister,Lord,?,Tarbeck,,,,M,
+"Jenny, Of Oldstones",A Storm of Swords,627,45,Catelyn V,Catelyn Tully,,Jenny,,,Of Oldstones,,F,
+"King Tristifer IV Mudd, The Hammer of Justice",A Storm of Swords,627,45,Catelyn V,Catelyn Tully,King,Tristifer,Mudd,,The Hammer of Justice,IV,M,
+King Tristifer V Mudd,A Storm of Swords,627,45,Catelyn V,Catelyn Tully,King,Tristifer,Mudd,,,V,M,
+Lord Raymar Royce,A Storm of Swords,628,45,Catelyn V,Catelyn Tully,Lord,Raymar,Royce,,,,M,
+Ryles,A Storm of Swords,646,46,Samwell III,Samwell Tarly,,Ryles,,,,,M,D
+Lord Roote,A Storm of Swords,650,47,Arya IX,Arya Stark,Lord,?,Roote,,,,M,
+"King Andahar, Old King Andahar",A Storm of Swords,650,47,Arya IX,Arya Stark,King,Andahar,,,Old King Andahar,,M,
+"Lew, Left Hand Lew",A Storm of Swords,666,48,Jon VI,Jon Snow,,Lew,,,Left Hand Lew,,M,
+Maester Brenett,A Storm of Swords,682,49,Catelyn VI,Catelyn Tully,Maester,Brenett,,,,,M,
+Ronnel Stout,A Storm of Swords,685,49,Catelyn VI,Catelyn Tully,,Ronnel,Stout,,,,M,
+Ser Kyle Condon,A Storm of Swords,685,49,Catelyn VI,Catelyn Tully,Ser,Kyle,Condon,,,,M,
+Sedgekins,A Storm of Swords,690,50,Arya X,Arya Stark,,Sedgekins,,,,,M,
+Ser Gerald Gower,A Storm of Swords,729,54,Davos V,Davos Seaworth,Ser,Gerald,Gower,,,,M,
+Septon Murmison,A Storm of Swords,731,54,Davos V,Davos Seaworth,Septon,Murmison,,,,,M,
+Lord Ambrose Butterwell,A Storm of Swords,731,54,Davos V,Davos Seaworth,Lord,Ambrose,Butterwell,,,,M,
+Myles Smallwood,A Storm of Swords,731,54,Davos V,Davos Seaworth,,Myles,Smallwood,,,,M,
+Ser Otto Hightower,A Storm of Swords,731,54,Davos V,Davos Seaworth,Ser,Otto,Hightower,,,,M,
+"Baelor Targaryen, Breakspear",A Storm of Swords,731,54,Davos V,Davos Seaworth,,Baelor,Targaryen,,Breakspear,,M,D
+Septon Barth,A Storm of Swords,731,54,Davos V,Davos Seaworth,Septon,Barth,,,,,M,
+Lord Fell,A Storm of Swords,734,54,Davos V,Davos Seaworth,Lord,?,Fell,,,,M,
+Silveraxe,A Storm of Swords,734,54,Davos V,Davos Seaworth,,Silveraxe,,,,,M,
+"Roro Uhoris, Blind Bastard",A Storm of Swords,735,54,Davos V,Davos Seaworth,,Roro,Uhoris,,Blind Bastard,,M,
+Mully,A Storm of Swords,739,55,Jon VII,Jon Snow,,Mully,,,,,M,
+Satin,A Storm of Swords,740,55,Jon VII,Jon Snow,,Satin,,,,,M,
+Lord Commander Runcel Hightower,A Storm of Swords,740,55,Jon VII,Jon Snow,Lord Commander,Runcel,Hightower,,,,M,D
+Lord Commander Rodrik Flint,A Storm of Swords,740,55,Jon VII,Jon Snow,Lord Commander,Rodrik,Flint,,,,M,D
+Lord Commander Tristan Mudd,A Storm of Swords,740,55,Jon VII,Jon Snow,Lord Commander,Tristan,Mudd,,,,M,D
+"Lord Commander Marq Rankenfell, Mad Marq Rankenfell",A Storm of Swords,740,55,Jon VII,Jon Snow,Lord Commander,Marq,Rankenfell,,Mad Marq Rankenfell,,M,D
+Lord Commander Robin Hill,A Storm of Swords,740,55,Jon VII,Jon Snow,Lord Commander,Robin,Hill,,,,M,D
+"Su, Sky Blue Su",A Storm of Swords,741,55,Jon VII,Jon Snow,,Su,,,Sky Blue Su,,F,
+"Meliana, Lady Meliana",A Storm of Swords,741,55,Jon VII,Jon Snow,,Meliana,,,Lady Meliana,,F,
+Kegs,A Storm of Swords,741,55,Jon VII,Jon Snow,,Kegs,,,,,M,
+Spare Boot,A Storm of Swords,741,55,Jon VII,Jon Snow,,Spare Boot,,,,,M,
+Easy,A Storm of Swords,741,55,Jon VII,Jon Snow,,Easy,,,,,M,
+"Dilly, Dornish Dilly",A Storm of Swords,741,55,Jon VII,Jon Snow,,Dilly,,,Dornish Dilly,,F,D
+"Alyn, Red Alyn of the Rosewood",A Storm of Swords,741,55,Jon VII,Jon Snow,,Alyn,,,Red Alyn of the Rosewood,,M,D
+"Henly, Young Henly",A Storm of Swords,741,55,Jon VII,Jon Snow,,Henly,,,Young Henly,,M,D
+"Henly, Old Henly",A Storm of Swords,741,55,Jon VII,Jon Snow,,Henly,,,Old Henly,,M,D
+"Pate, Spotted Pate of Maidenpool",A Storm of Swords,741,55,Jon VII,Jon Snow,,Pate,,,Spotted Pate of Maidenpool,,M,
+"Owen, The Oaf",A Storm of Swords,743,55,Jon VII,Jon Snow,,Owen,,,The Oaf,,M,
+The Night's King,A Storm of Swords,756,56,Bran IV,Bran Stark,,?,,,The Night's King,,M,
+The Rat Cook,A Storm of Swords,756,56,Bran IV,Bran Stark,,?,,,The Rat Cook,,M,
+Danny Flint,A Storm of Swords,756,56,Bran IV,Bran Stark,,Danny,Flint,,,,M,
+King Sherrit,A Storm of Swords,756,56,Bran IV,Bran Stark,King,Sherrit,,,,,M,
+Mad Axe,A Storm of Swords,756,56,Bran IV,Bran Stark,,Mad Axe,,,,,M,
+Lord Rodrik Ryswell,A Storm of Swords,760,56,Bran IV,Bran Stark,Lord,Rodrik,Ryswell,,,,M,
+Oznak zo Pahl,A Storm of Swords,776,57,Daenerys V,Daenerys Targaryen,,Oznak,zo Pahl,,,,M,D
+"Ben Plumm, Brown Ben Plumm",A Storm of Swords,776,57,Daenerys V,Daenerys Targaryen,,Ben,Plumm,,Brown Ben Plumm,,M,
+Scarb,A Storm of Swords,776,57,Daenerys V,Daenerys Targaryen,,Scarb,,,,,M,
+Brella,A Storm of Swords,794,58,Tyrion VII,Tyrion Lannister,,Brella,,,,,F,
+Grand Maester Kaeth,A Storm of Swords,803,59,Sansa IV,Sansa Stark,Grand Maester,Kaeth,,,,,M,
+"Bessa, The Barmaid",A Storm of Swords,821,60,Tyrion VIII,Tyrion Lannister,,Bessa,,,The Barmaid,,F,
+Lord Ralph Buckler,A Storm of Swords,828,60,Tyrion VIII,Tyrion Lannister,Lord,Ralph,Buckler,,,,M,
+Oswell Kettleblack,A Storm of Swords,837,61,Sansa V,Sansa Stark,,Oswell,Kettleblack,,,,M,
+Ser Bertram Beesbury,A Storm of Swords,844,62,Jaime VII,Jaime Lannister,Ser,Bertram,Beesbury,,,,M,
+Samwell Spicer,A Storm of Swords,852,62,Jaime VII,Jaime Lannister,,Samwell,Spicer,,,,M,
+Dennis Plumm,A Storm of Swords,852,62,Jaime VII,Jaime Lannister,,Dennis,Plumm,,,,M,
+"Harwyn Plumm, Hardstone",A Storm of Swords,852,62,Jaime VII,Jaime Lannister,,Harwyn,Plumm,,Hardstone,,M,
+Peter Plumm,A Storm of Swords,852,62,Jaime VII,Jaime Lannister,,Peter,Plumm,,,,M,
+"Lewys, The Fishwife",A Storm of Swords,859,63,Davos VI,Davos Seaworth,,Lewys,,,The Fishwife,,M,
+"Ser Triston, Of Tally Hill",A Storm of Swords,859,63,Davos VI,Davos Seaworth,Ser,Triston,,,Of Tally Hill,,M,
+Omer Blackberry,A Storm of Swords,861,63,Davos VI,Davos Seaworth,,Omer,Blackberry,,,,M,
+"Ser Rolland Storm, The Bastard of Nightsong",A Storm of Swords,861,63,Davos VI,Davos Seaworth,Ser,Rolland,Storm,,The Bastard of Nightsong,,M,
+"Hareth, Horse",A Storm of Swords,869,64,Jon VIII,Jon Snow,,Hareth,,,Horse,,M,
+Zei,A Storm of Swords,869,64,Jon VIII,Jon Snow,,Zei,,,,,F,
+Arron,A Storm of Swords,877,64,Jon VIII,Jon Snow,,Arron,,,,,M,
+Emrick,A Storm of Swords,877,64,Jon VIII,Jon Snow,,Emrick,,,,,M,
+The Demon of Darry,A Storm of Swords,913,67,Jaime VIII,Jaime Lannister,,?,,,The Demon of Darry,,?,
+"Ser Duncan, The Tall",A Storm of Swords,913,67,Jaime VIII,Jaime Lannister,Ser,Duncan,,,The Tall,,M,
+"Alyn Connington, Pale Griffin",A Storm of Swords,913,67,Jaime VIII,Jaime Lannister,,Alyn,Connington,,Pale Griffin,,M,
+"Prince Duncan Targaryen, The Prince of Dragonflies",A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,Prince,Duncan,Targaryen,,The Prince of Dragonflies,,M,
+"Maelys I Blackfyre, Maelys the Monstrous",A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,,Maelys,Blackfyre,,Maelys the Monstrous,I,M,
+"Lormelle, Long Lance",A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,,Lormelle,,,Long Lance,,M,
+"Cedrik Storm, Bastard of Bronzegate",A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,,Cedrik,Storm,,Bastard of Bronzegate,,M,
+Ser Gwayne Gaunt,A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,Ser,Gwayne,Gaunt,,,,M,
+Lady Jeyne Swann,A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,Lady,Jeyne,Swann,,,,F,
+The Smiling Knight,A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,,?,,,The Smiling Knight,,M,
+Blackshield/The Bastard of Uplands,A Storm of Swords,914,67,Jaime VIII,Jaime Lannister,,?,,,Blackshield/The Bastard of Uplands,,M,
+Ser Robert Stone,A Storm of Swords,920,67,Jaime VIII,Jaime Lannister,Ser,Robert,Stone,,,,M,
+Ser Elwood Harte,A Storm of Swords,921,67,Jaime VIII,Jaime Lannister,Ser,Elwood,Harte,,,,M,
+Ser Jonothor Darry,A Storm of Swords,923,67,Jaime VIII,Jaime Lannister,Ser,Jonothor,Darry,,,,M,
+Kella,A Storm of Swords,929,68,Sansa VI,Sansa Stark,,Kella,,,,,F,
+Bryen,A Storm of Swords,930,68,Sansa VI,Sansa Stark,,Bryen,,,,,M,
+Grisel,A Storm of Swords,930,68,Sansa VI,Sansa Stark,,Grisel,,,,,F,
+Umfred,A Storm of Swords,930,68,Sansa VI,Sansa Stark,,Umfred,,,,,M,
+Lord Lyonel Corbray,A Storm of Swords,931,68,Sansa VI,Sansa Stark,Lord,Lyonel,Corbray,,,,M,
+"Watt, Of Long Lake",A Storm of Swords,947,69,Jon IX,Jon Snow,,Watt,,,Of Long Lake,,M,
+Tumberjon,A Storm of Swords,947,69,Jon IX,Jon Snow,,Tumberjon,,,,,M,
+"Tim, Tangletongue",A Storm of Swords,950,69,Jon IX,Jon Snow,,Tim,,,Tangletongue,,M,
+Ser Glendon Hewett,A Storm of Swords,956,69,Jon IX,Jon Snow,Ser,Glendon,Hewett,,,,M,
+"Baelor Hightower, Breakwind",A Storm of Swords,967,70,Tyrion X,Tyrion Lannister,,Baelor,Hightower,,Breakwind,,M,
+Ghael,A Storm of Swords,982,71,Daenerys VI,Daenerys Targaryen,,Ghael,,,,,M,
+"King Cleon, The Butcher King",A Storm of Swords,982,71,Daenerys VI,Daenerys Targaryen,King,Cleon,,,The Butcher King,,M,
+Septa Donyse,A Storm of Swords,1006,72,Jaime IX,Jaime Lannister,Septa,Donyse,,,,,F,
+"Torwynd, The Tame",A Storm of Swords,1016,73,Jon X,Jon Snow,,Torwynd,,,The Tame,,M,
+Quenn,A Storm of Swords,1021,73,Jon X,Jon Snow,,Quenn,,,,,M,
+Hop-Robin,A Storm of Swords,1048,75,Samwell IV,Samwell Tarly,,Hop-Robin,,,,,M,
+Lum,A Storm of Swords,1070,77,Tyrion XI,Tyrion Lannister,,Lum,,,,,M,
+"Lester, Red Lester",A Storm of Swords,1070,77,Tyrion XI,Tyrion Lannister,,Lester,,,Red Lester,,M,
+Maester Harmune,A Storm of Swords,1084,78,Samwell V,Samwell Tarly,Maester,Harmune,,,,,M,
+"Emmett, Iron Emmett",A Storm of Swords,1087,79,Jon XII,Jon Snow,,Emmett,,,Iron Emmett,,M,
+Ser Garse Goodbrook,A Storm of Swords,1126,81,Epilogue,Merrett Frey,Ser,Garse,Goodbrook,,,,M,D
+Jothos Slynt,A Storm of Swords,1133,82,Appendix,N/A,,Jothos,Slynt,,,,M,
+Danos Slynt,A Storm of Swords,1133,82,Appendix,N/A,,Danos,Slynt,,,,M,
+"Alesander Staedmon, Pennylover",A Storm of Swords,1133,82,Appendix,N/A,,Alesander,Staedmon,,Pennylover,,M,
+Togg Joth,A Storm of Swords,1137,82,Appendix,N/A,,Togg,Joth,,,,M,
+Pyg,A Storm of Swords,1137,82,Appendix,N/A,,Pyg,,,,,M,D
+Three Toes,A Storm of Swords,1137,82,Appendix,N/A,,Three Toes,,,,,M,
+Jonelle Cerwyn,A Storm of Swords,1137,82,Appendix,N/A,,Jonelle,Cerwyn,,,,F,
+Lord Monterys Velaryon,A Storm of Swords,1140,82,Appendix,N/A,Lord,Monterys,Velaryon,,,,M,
+Khal Jhaqo,A Storm of Swords,1142,82,Appendix,N/A,Khal,Jhaqo,,,,,M,
+Maggo,A Storm of Swords,1142,82,Appendix,N/A,,Maggo,,,,,M,
+Cadwyle,A Storm of Swords,1144,82,Appendix,N/A,,Cadwyle,,,,,M,
+Lord Triston Farwynd,A Storm of Swords,1145,82,Appendix,N/A,Lord,Triston,Farwynd,,,,M,
+Lord Maron Volmark,A Storm of Swords,1145,82,Appendix,N/A,Lord,Maron,Volmark,,,,M,
+Lord Myre,A Storm of Swords,1145,82,Appendix,N/A,Lord,?,Myre,,,,M,
+Lord Stonetree,A Storm of Swords,1145,82,Appendix,N/A,Lord,?,Stonetree,,,,M,
+Lord Kenning,A Storm of Swords,1145,82,Appendix,N/A,Lord,?,Kenning,,,,M,
+"Lord Alyn Orkwood, Orkwood of Orkmont",A Storm of Swords,1145,82,Appendix,N/A,Lord,Alyn,Orkwood,,Orkwood of Orkmont,,M,
+Lord Balon Tawney,A Storm of Swords,1145,82,Appendix,N/A,Lord,Balon,Tawney,,,,M,
+"Jeyne Frey, Wife of Ser Cleos",A Storm of Swords,1154,82,Appendix,N/A,,Jeyne,Frey,Darry,Wife of Ser Cleos,,F,
+Ser Lyonel Frey,A Storm of Swords,1154,82,Appendix,N/A,Ser,Lyonel,Frey,,,,M,
+Ser Damion Lannister,A Storm of Swords,1159,82,Appendix,N/A,Ser,Damion,Lannister,,,,M,
+Lady Shiera Lannister,A Storm of Swords,1159,82,Appendix,N/A,Lady,Shiera,Lannister,Crakehall,,,F,
+Ser Lucion Lannister,A Storm of Swords,1159,82,Appendix,N/A,Ser,Lucion,Lannister,,,,M,
+Lanna Jast,A Storm of Swords,1159,82,Appendix,N/A,,Lanna,Jast,Lannister,,,F,
+Margot Peake,A Storm of Swords,1159,82,Appendix,N/A,,Margot,Peake,Lannister,,,F,
+Lord Titus Peake,A Storm of Swords,1159,82,Appendix,N/A,Lord,Titus,Peake,,,,M,
+Ser Benedict Broom,A Storm of Swords,1159,82,Appendix,N/A,Ser,Benedict,Broom,,,,M,
+Lord Damon Marbrand,A Storm of Swords,1159,82,Appendix,N/A,Lord,Damon,Marbrand,,,,M,
+Ser Tybolt Crakehall,A Storm of Swords,1159,82,Appendix,N/A,Ser,Tybolt,Crakehall,,,,M,
+"Ser Lyle Crakehall, Strongboar",A Storm of Swords,1159,82,Appendix,N/A,Ser,Lyle,Crakehall,,Strongboar,,M,
+Lord Philip Plumm,A Storm of Swords,1160,82,Appendix,N/A,Lord,Philip,Plumm,,,,M,
+Ser Steffon Swyft,A Storm of Swords,1160,82,Appendix,N/A,Ser,Steffon,Swyft,,,,M,
+Joanna Swyft,A Storm of Swords,1160,82,Appendix,N/A,,Joanna,Swyft,,,,F,
+Shierle Sarsfield,A Storm of Swords,1160,82,Appendix,N/A,,Shierle,Sarsfield,Swyft,,,F,
+Lord Selmond Stackspear,A Storm of Swords,1160,82,Appendix,N/A,Lord,Selmond,Stackspear,,,,M,
+Ser Steffon Stackspear,A Storm of Swords,1160,82,Appendix,N/A,Ser,Steffon,Stackspear,,,,M,
+Lord Terrence Kenning,A Storm of Swords,1160,82,Appendix,N/A,Lord,Terrence,Kenning,,,,M,
+Obara Sand,A Storm of Swords,1162,82,Appendix,N/A,,Obara,Sand,,,,F,
+"Nymeria Sand, Nym",A Storm of Swords,1162,82,Appendix,N/A,,Nymeria,Sand,,Nym,,F,
+Tyene Sand,A Storm of Swords,1162,82,Appendix,N/A,,Tyene,Sand,,,,F,
+Sarella Sand,A Storm of Swords,1162,82,Appendix,N/A,,Sarella,Sand,,,,F,
+Elia Sand,A Storm of Swords,1162,82,Appendix,N/A,,Elia,Sand,,,,F,
+Obella Sand,A Storm of Swords,1162,82,Appendix,N/A,,Obella,Sand,,,,F,
+Dorea Sand,A Storm of Swords,1162,82,Appendix,N/A,,Dorea,Sand,,,,F,
+Loreza Sand,A Storm of Swords,1162,82,Appendix,N/A,,Loreza,Sand,,,,F,
+Perros Blackmont,A Storm of Swords,1163,82,Appendix,N/A,,Perros,Blackmont,,,,M,
+Lady Delonne Allyrion,A Storm of Swords,1163,82,Appendix,N/A,Lady,Delonne,Allyrion,,,,F,
+Lady Nymella Toland,A Storm of Swords,1163,82,Appendix,N/A,Lady,Nymella,Toland,,,,F,
+"Ser Ronald Vance, The Bad",A Storm of Swords,1164,82,Appendix,N/A,Ser,Ronald,Vance,,The Bad,,M,
+Ser Hugo Vance,A Storm of Swords,1164,82,Appendix,N/A,Ser,Hugo,Vance,,,,M,
+Ser Ellery Vance,A Storm of Swords,1164,82,Appendix,N/A,Ser,Ellery,Vance,,,,M,
+Kirth Vance,A Storm of Swords,1164,82,Appendix,N/A,,Kirth,Vance,,,,M,
+Ser Robert Paege,A Storm of Swords,1164,82,Appendix,N/A,Ser,Robert,Paege,,,,M,
+Tristan Ryger,A Storm of Swords,1164,82,Appendix,N/A,,Tristan,Ryger,,,,M,
+Lord Norbert Vance,A Storm of Swords,1164,82,Appendix,N/A,Lord,Norbert,Vance,,,,M,
+Lord Theomar Smallwood,A Storm of Swords,1164,82,Appendix,N/A,Lord,Theomar,Smallwood,,,,M,
+"Ser Luthor Tyrell, Son of Moryn",A Storm of Swords,1167,82,Appendix,N/A,Ser,Luthor,Tyrell,,Son of Moryn,,M,
+Lady Elyn Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Lady,Elyn,Tyrell,Norridge,,,F,
+Ser Theodore Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Ser,Theodore,Tyrell,,,,M,
+Lady Lia Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Lady,Lia,Tyrell,Serry,,,F,
+"Luthor Tyrell, Son of Theodore",A Storm of Swords,1167,82,Appendix,N/A,,Luthor,Tyrell,,Son of Theodore,,M,
+Maester Medwick,A Storm of Swords,1167,82,Appendix,N/A,Maester,Medwick,,Tyrell,,,M,
+Olene Blackbar,A Storm of Swords,1167,82,Appendix,N/A,,Olene,Blackbar,Tyrell,,,F,
+Ser Leo Blackbar,A Storm of Swords,1167,82,Appendix,N/A,Ser,Leo,Blackbar,,,,M,
+"Leo Tyrell, Leo the Lazy, Son of Moryn",A Storm of Swords,1167,82,Appendix,N/A,,Leo,Tyrell,,"Leo the Lazy, Son of Moryn",,M,
+Ser Quentin Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Ser,Quentin,Tyrell,,,,M,
+Ser Olymer Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Ser,Olymer,Tyrell,,,,M,
+Lady Lysa Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Lady,Lysa,Tyrell,Meadows,,,F,
+Raymund Tyrell,A Storm of Swords,1167,82,Appendix,N/A,,Raymund,Tyrell,,,,M,
+Rickard Tyrell,A Storm of Swords,1167,82,Appendix,N/A,,Rickard,Tyrell,,,,M,
+Maester Normund,A Storm of Swords,1167,82,Appendix,N/A,Maester,Normund,,Tyrell,,,M,
+Ser Victor Tyrell,A Storm of Swords,1167,82,Appendix,N/A,Ser,Victor,Tyrell,,,,M,
+Victaria Bulwer,A Storm of Swords,1167,82,Appendix,N/A,,Victaria,Bulwer,,,,F,
+Lord Jon Bulwer,A Storm of Swords,1167,82,Appendix,N/A,Lord,Jon,Bulwer,,,,M,
+"Ser Leo Tyrell, Son of Victor",A Storm of Swords,1167,82,Appendix,N/A,Ser,Leo,Tyrell,,Son of Victor,,M,
+Lady Alys Beesbury,A Storm of Swords,1167,82,Appendix,N/A,Lady,Alys,Beesbury,,,,F,
+Leona Tyrell,A Storm of Swords,1168,82,Appendix,N/A,,Leona,Tyrell,,,,F,
+Lyonel Tyrell,A Storm of Swords,1168,82,Appendix,N/A,,Lyonel,Tyrell,,,,M,
+Lucas Tyrell,A Storm of Swords,1168,82,Appendix,N/A,,Lucas,Tyrell,,,,M,
+Lorent Tyrell,A Storm of Swords,1168,82,Appendix,N/A,,Lorent,Tyrell,,,,M,
+Orton Merryweather,A Storm of Swords,1168,82,Appendix,N/A,,Orton,Merryweather,,,,M,
+Eggen,A Storm of Swords,1171,82,Appendix,N/A,,Eggen,,,,,M,
+"Hal, Hairy Hal",A Storm of Swords,1172,82,Appendix,N/A,,Hal,,,Hairy Hal,,M,D
+"Jack Bulwer, Black Jack Bulwer",A Storm of Swords,1172,82,Appendix,N/A,,Jack,Bulwer,,Black Jack Bulwer,,M,D
+Wallace Massey,A Storm of Swords,1172,82,Appendix,N/A,,Wallace,Massey,,,,M,
+Dennett,A Storm of Swords,1174,82,Appendix,N/A,,Dennett,,,,,M,
+Maester Roone,A Storm of Swords,1174,82,Appendix,N/A,Maester,Roone,,,,,M,
+"Dryn, Son of Tormund",A Storm of Swords,1174,82,Appendix,N/A,,Dryn,,,Son of Tormund,,M,
+Mollander,A Feast for Crows,1,0,Prologue,Pate,,Mollander,,,,,M,
+"Alleras, The Sphinx",A Feast for Crows,1,0,Prologue,Pate,,Alleras,,,The Sphinx,,M,
+Roone,A Feast for Crows,1,0,Prologue,Pate,,Roone,,,,,M,
+Rosey,A Feast for Crows,1,0,Prologue,Pate,,Rosey,,,,,F,
+"Pate, Novice of Oldtown",A Feast for Crows,1,0,Prologue,Pate,,Pate,,,Novice of Oldtown,,M,
+Emma,A Feast for Crows,1,0,Prologue,Pate,,Emma,,,,,F,
+"Armen, The Acolyte",A Feast for Crows,1,0,Prologue,Pate,,Armen,,,The Acolyte,,M,
+Archmaester Ebrose,A Feast for Crows,2,0,Prologue,Pate,Archmaester,Ebrose,,,,,M,
+Archmaester Walgrave,A Feast for Crows,3,0,Prologue,Pate,Archmaester,Walgrave,,,,,M,
+Archmaester Benedict,A Feast for Crows,4,0,Prologue,Pate,Archmaester,Benedict,,,,,M,
+Archmaester Vaellyn,A Feast for Crows,6,0,Prologue,Pate,Archmaester,Vaellyn,,,,,M,
+Archmaester Perestan,A Feast for Crows,7,0,Prologue,Pate,Archmaester,Perestan,,,,,M,
+Mollos,A Feast for Crows,8,0,Prologue,Pate,,Mollos,,,,,M,
+Archmaester Ryam,A Feast for Crows,9,0,Prologue,Pate,Archmaester,Ryam,,,,,M,
+Emmond,A Feast for Crows,18,1,The Prophet,Aeron Greyjoy,,Emmond,,,,,M,
+Steffarion Sparr,A Feast for Crows,18,1,The Prophet,Aeron Greyjoy,,Steffarion,Sparr,,,,M,
+Greydon Goodbrother,A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Greydon,Goodbrother,,,,M,
+Gormond Goodbrother,A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Gormond,Goodbrother,,,,M,
+Gran Goodbrother,A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Gran,Goodbrother,,,,M,
+Norjen,A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Norjen,,,,,M,
+Rus,A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Rus,,,,,M,
+"Tarle, The Thrice-Drowned",A Feast for Crows,19,1,The Prophet,Aeron Greyjoy,,Tarle,,,The Thrice-Drowned,,M,
+Lord Quellon Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,Lord,Quellon,Greyjoy,,,,M,
+Harlon Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,,Harlon,Greyjoy,,,,M,
+Lady Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,Lady,?,Greyjoy,Stonetree,,,F,
+Donel Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,,Donel,Greyjoy,,,,M,
+Urrigon Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,,Urrigon,Greyjoy,,,,M,
+Lady Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,Lady,?,Greyjoy,Sunderly,,,F,
+Robin Greyjoy,A Feast for Crows,22,1,The Prophet,Aeron Greyjoy,,Robin,Greyjoy,,,,M,
+Gysella Goodbrother,A Feast for Crows,24,1,The Prophet,Aeron Greyjoy,,Gysella,Goodbrother,,,,F,
+Gwin Goodbrother,A Feast for Crows,24,1,The Prophet,Aeron Greyjoy,,Gwin,Goodbrother,,,,F,
+Maester Murenmure,A Feast for Crows,24,1,The Prophet,Aeron Greyjoy,Maester,Murenmure,,,,,M,
+Lady Greyjoy,A Feast for Crows,26,1,The Prophet,Aeron Greyjoy,Lady,?,Greyjoy,Piper,,,F,
+King Urras Ironfoot,A Feast for Crows,31,1,The Prophet,Aeron Greyjoy,King,Urras,Ironfoot,,,,M,
+King Sylas Flatnose,A Feast for Crows,31,1,The Prophet,Aeron Greyjoy,King,Sylas,Flatnose,,,,M,
+King Harrag Hoare,A Feast for Crows,31,1,The Prophet,Aeron Greyjoy,King,Harrag,Hoare,,,,M,
+Olyvar Martell,A Feast for Crows,39,2,The Captain of Guards,Areo Hotah,,Olyvar,Martell,,,,M,
+Jeyne Fowler,A Feast for Crows,43,2,The Captain of Guards,Areo Hotah,,Jeyne,Fowler,,,,F,
+Jennelyn Fowler,A Feast for Crows,43,2,The Captain of Guards,Areo Hotah,,Jennelyn,Fowler,,,,F,
+Ricasso,A Feast for Crows,46,2,The Captain of Guards,Areo Hotah,,Ricasso,,,,,M,
+Ser Manfrey Martell,A Feast for Crows,46,2,The Captain of Guards,Areo Hotah,Ser,Manfrey,Martell,,,,M,
+Maester Myles,A Feast for Crows,46,2,The Captain of Guards,Areo Hotah,Maester,Myles,,,,,M,
+Senelle,A Feast for Crows,51,3,Cersei I,Cersei Lannister,,Senelle,,,,,F,D
+Jocelyn Swyft,A Feast for Crows,52,3,Cersei I,Cersei Lannister,,Jocelyn,Swyft,,,,F,
+Puckens,A Feast for Crows,56,3,Cersei I,Cersei Lannister,,Puckens,,,,,M,
+Shortear,A Feast for Crows,56,3,Cersei I,Cersei Lannister,,Shortear,,,,,M,
+Rugen,A Feast for Crows,61,3,Cersei I,Cersei Lannister,,Rugen,,,,,M,
+"Ser Illifer, The Penniless",A Feast for Crows,65,4,Brienne I,Brienne of Tarth,Ser,Illifer,,,The Penniless,,M,
+Ser Creighton Longbough,A Feast for Crows,66,4,Brienne I,Brienne of Tarth,Ser,Creighton,Longbough,,,,M,
+Ser Herbert Bolling,A Feast for Crows,67,4,Brienne I,Brienne of Tarth,Ser,Herbert,Bolling,,,,M,
+"Lord Lucas Lothston, The Pander",A Feast for Crows,68,4,Brienne I,Brienne of Tarth,Lord,Lucas,Lothston,,The Pander,,M,
+Manfryd Lothston,A Feast for Crows,68,4,Brienne I,Brienne of Tarth,,Manfryd,Lothston,,,,M,
+"Ser Shadrich, Of the Shady Glen/The Mad Mouse",A Feast for Crows,73,4,Brienne I,Brienne of Tarth,Ser,Shadrich,,,Of the Shady Glen/The Mad Mouse,,M,
+Hibald,A Feast for Crows,75,4,Brienne I,Brienne of Tarth,,Hibald,,,,,M,
+Naggle,A Feast for Crows,76,4,Brienne I,Brienne of Tarth,,Naggle,,,,,M,
+"Ser Galladon, Of Morne",A Feast for Crows,78,4,Brienne I,Brienne of Tarth,Ser,Galladon,,,Of Morne,,M,
+Septon Jorquen,A Feast for Crows,81,5,Samwell I,Samwell Tarly,Septon,Jorquen,,,,,M,
+Lord Commander Orbert Caswell,A Feast for Crows,81,5,Samwell I,Samwell Tarly,Lord Commander,Orbert,Caswell,,,,M,
+Colloquo Votar,A Feast for Crows,86,5,Samwell I,Samwell Tarly,,Colloquo,Votar,,,,M,
+Maester Thomax,A Feast for Crows,86,5,Samwell I,Samwell Tarly,Maester,Thomax,,,,,M,
+Lord Commander Osric Stark,A Feast for Crows,89,5,Samwell I,Samwell Tarly,Lord Commander,Osric,Stark,,,,M,
+Denyo Terys,A Feast for Crows,98,6,Arya I,Arya Stark,,Denyo,Terys,,,,M,
+Captain Ternesio Terys,A Feast for Crows,103,6,Arya I,Arya Stark,Captain,Ternesio,Terys,,,,M,
+Yorko Terys,A Feast for Crows,103,6,Arya I,Arya Stark,,Yorko,Terys,,,,M,
+The Waif,A Feast for Crows,109,6,Arya I,Arya Stark,,?,,,The Waif,,F,A
+Lord Rykker,A Feast for Crows,115,7,Cersei II,Cersei Lannister,Lord,?,Rykker,,,,M,
+Ser Lambert Turnberry,A Feast for Crows,116,7,Cersei II,Cersei Lannister,Ser,Lambert,Turnberry,,,,M,
+Ser Balman Byrch,A Feast for Crows,116,7,Cersei II,Cersei Lannister,Ser,Balman,Byrch,,,,M,D
+King Garth XII Gardener,A Feast for Crows,123,7,Cersei II,Cersei Lannister,King,Garth,Gardener,,,XII,M,
+Lord Quenton Hightower,A Feast for Crows,134,8,Jaime I,Jaime Lannister,Lord,Quenton,Hightower,,,,M,
+Rennifer Longwaters,A Feast for Crows,135,8,Jaime I,Jaime Lannister,,Rennifer,Longwaters,,,,M,
+"Lord Alyn Velaryon, Oakenfist",A Feast for Crows,135,8,Jaime I,Jaime Lannister,Lord,Alyn,Velaryon,,Oakenfist,,M,
+"Lady Danelle Lothston, Mad Danelle",A Feast for Crows,148,9,Brienne II,Brienne of Tarth,Lady,Danelle,Lothston,,Mad Danelle,,F,
+Lord Denys Darklyn,A Feast for Crows,149,9,Brienne II,Brienne of Tarth,Lord,Denys,Darklyn,,,,M,
+Ser Rufus Leek,A Feast for Crows,150,9,Brienne II,Brienne of Tarth,Ser,Rufus,Leek,,,,M,
+"Lady Serala, Of Myr",A Feast for Crows,150,9,Brienne II,Brienne of Tarth,Lady,Serala,,,Of Myr,,F,
+Ser Symon Hollard,A Feast for Crows,151,9,Brienne II,Brienne of Tarth,Ser,Symon,Hollard,,,,M,
+Ser Jon Hollard,A Feast for Crows,151,9,Brienne II,Brienne of Tarth,Ser,Jon,Hollard,,,,M,
+Robin Hollard,A Feast for Crows,151,9,Brienne II,Brienne of Tarth,,Robin,Hollard,,,,M,
+Ser Steffon Hollard,A Feast for Crows,151,9,Brienne II,Brienne of Tarth,Ser,Steffon,Hollard,,,,M,
+Septa Roelle,A Feast for Crows,154,9,Brienne II,Brienne of Tarth,Septa,Roelle,,,,,F,
+"Dick Crabb, Nimble Dick",A Feast for Crows,155,9,Brienne II,Brienne of Tarth,,Dick,Crabb,,Nimble Dick,,M,D
+Humfrey Wagstaff,A Feast for Crows,160,9,Brienne II,Brienne of Tarth,,Humfrey,Wagstaff,,,,M,
+Gretchel,A Feast for Crows,168,10,Sansa I,Sansa Stark,,Gretchel,,,,,F,
+"Maddy, Fat Maddy",A Feast for Crows,168,10,Sansa I,Sansa Stark,,Maddy,,,Fat Maddy,,F,
+"Symond Templeton, Knight of Ninestars",A Feast for Crows,174,10,Sansa I,Sansa Stark,,Symond,Templeton,,Knight of Ninestars,,M,
+Lord Benedar Belmore,A Feast for Crows,174,10,Sansa I,Sansa Stark,Lord,Benedar,Belmore,,,,M,
+"Samwell Stone, Strong Sam Stone",A Feast for Crows,174,10,Sansa I,Sansa Stark,,Samwell,Stone,,Strong Sam Stone,,M,
+Ronnel Arryn,A Feast for Crows,175,10,Sansa I,Sansa Stark,,Ronnel,Arryn,,,,M,
+"Boremund Harlaw, The Blue",A Feast for Crows,178,11,The Kraken's Daughter,Asha Greyjoy,,Boremund,Harlaw,,The Blue,,M,
+"Hotho Harlaw, Hotho Humpback",A Feast for Crows,178,11,The Kraken's Daughter,Asha Greyjoy,,Hotho,Harlaw,,Hotho Humpback,,M,
+"Ser Harras Harlaw, The Knight",A Feast for Crows,178,11,The Kraken's Daughter,Asha Greyjoy,Ser,Harras,Harlaw,,The Knight,,M,
+"Sigfryd Harlaw, Silverhair",A Feast for Crows,178,11,The Kraken's Daughter,Asha Greyjoy,,Sigfryd,Harlaw,,Silverhair,,M,
+Three-Tooth,A Feast for Crows,178,11,The Kraken's Daughter,Asha Greyjoy,,Three-Tooth,,,,,F,
+Lord Tristifer Botley,A Feast for Crows,179,11,The Kraken's Daughter,Asha Greyjoy,Lord,Tristifer,Botley,,,,M,
+Harren Botley,A Feast for Crows,179,11,The Kraken's Daughter,Asha Greyjoy,,Harren,Botley,,,,M,
+Lady Gwynesse Greyjoy,A Feast for Crows,179,11,The Kraken's Daughter,Asha Greyjoy,Lady,Gwynesse,Greyjoy,Harlaw,,,F,
+Lord Theomore Harlaw,A Feast for Crows,181,11,The Kraken's Daughter,Asha Greyjoy,Lord,Theomore,Harlaw,,,,M,
+Aenar Targaryen,A Feast for Crows,182,11,The Kraken's Daughter,Asha Greyjoy,,Aenar,Targaryen,,,,M,
+"Beron Blacktyde, Blind Beron",A Feast for Crows,184,11,The Kraken's Daughter,Asha Greyjoy,,Beron,Blacktyde,,Blind Beron,,M,
+The Old Grey Gull,A Feast for Crows,184,11,The Kraken's Daughter,Asha Greyjoy,,?,,,The Old Grey Gull,,M,
+Haereg,A Feast for Crows,184,11,The Kraken's Daughter,Asha Greyjoy,,Haereg,,,,,M,
+Nagga,A Feast for Crows,184,11,The Kraken's Daughter,Asha Greyjoy,,Nagga,,,,,M,
+Archmaester Rigney,A Feast for Crows,184,11,The Kraken's Daughter,Asha Greyjoy,Archmaester,Rigney,,,,,M,
+Maester Denestan,A Feast for Crows,185,11,The Kraken's Daughter,Asha Greyjoy,Maester,Denestan,,,,,M,
+Lord Germund Botley,A Feast for Crows,189,11,The Kraken's Daughter,Asha Greyjoy,Lord,Germund,Botley,,,,M,
+Maester Joseran,A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,Maester,Joseran,,,,,M,
+"Jon Myre, Pinchface",A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Jon,Myre,,Pinchface,,M,
+"Lucas Codd, Left-Hand Lucas",A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Lucas,Codd,,Left-Hand Lucas,,M,
+"Harren, Half-Hoare",A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Harren,,,Half-Hoare,,M,
+The Red Oarsman,A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,?,,,The Red Oarsman,,M,
+"Kemmett Pyke, The Bastard",A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Kemmett,Pyke,,The Bastard,,M,
+Rodrik Freeborn,A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Rodrik,Freeborn,,,,M,
+Torwold Browntooth,A Feast for Crows,190,11,The Kraken's Daughter,Asha Greyjoy,,Torwold,Browntooth,,,,M,
+Melara Hetherspoon,A Feast for Crows,193,12,Cersei III,Cersei Lannister,,Melara,Hetherspoon,,,,F,
+Ossifer Plumm,A Feast for Crows,195,12,Cersei III,Cersei Lannister,,Ossifer,Plumm,,,,M,
+"Wat, The Blue Bard",A Feast for Crows,200,12,Cersei III,Cersei Lannister,,Wat,,,The Blue Bard,,M,
+"Maggy, The Frog",A Feast for Crows,200,12,Cersei III,Cersei Lannister,,Maggy,,,The Frog,,F,
+Lord Owen Merryweather,A Feast for Crows,206,12,Cersei III,Cersei Lannister,Lord,Owen,Merryweather,,,,M,
+"Lord Edgerran Oakheart, The Open-Handed",A Feast for Crows,208,13,The Soiled Knight,Arys Oakheart,Lord,Edgerran,Oakheart,,The Open-Handed,,M,
+Alester Oakheart,A Feast for Crows,208,13,The Soiled Knight,Arys Oakheart,,Alester,Oakheart,,,,M,
+"Ser Olyvar Oakheart, The Green Oak",A Feast for Crows,208,13,The Soiled Knight,Arys Oakheart,Ser,Olyvar,Oakheart,,The Green Oak,,M,
+Septa Eglantine,A Feast for Crows,210,13,The Soiled Knight,Arys Oakheart,Septa,Eglantine,,,,,F,
+"Ser Gascoyne, Of the Greenblood",A Feast for Crows,210,13,The Soiled Knight,Arys Oakheart,Ser,Gascoyne,,,Of the Greenblood,,M,
+Prince Maron Martell,A Feast for Crows,211,13,The Soiled Knight,Arys Oakheart,Prince,Maron,Martell,,,,M,
+"Ser Lucamore Strong, Lucamore the Lusty",A Feast for Crows,216,13,The Soiled Knight,Arys Oakheart,Ser,Lucamore,Strong,,Lucamore the Lusty,,M,
+"Ser Criston Cole, Kingmaker",A Feast for Crows,218,13,The Soiled Knight,Arys Oakheart,Ser,Criston,Cole,,Kingmaker,,M,
+Lady Alyse Ladybright,A Feast for Crows,221,13,The Soiled Knight,Arys Oakheart,Lady,Alyse,Ladybright,,,,F,
+Ser Cedric Payne,A Feast for Crows,224,14,Brienne III,Brienne of Tarth,Ser,Cedric,Payne,,,,M,
+"Ser Lorimer, The Belly",A Feast for Crows,225,14,Brienne III,Brienne of Tarth,Ser,Lorimer,,,The Belly,,M,
+Ser Hyle Hunt,A Feast for Crows,229,14,Brienne III,Brienne of Tarth,Ser,Hyle,Hunt,,,,M,
+Ser Alyn Hunt,A Feast for Crows,230,14,Brienne III,Brienne of Tarth,Ser,Alyn,Hunt,,,,M,
+"Ser Ben Bushy, Big Ben",A Feast for Crows,235,14,Brienne III,Brienne of Tarth,Ser,Ben,Bushy,,Big Ben,,M,
+Ser Richard Farrow,A Feast for Crows,235,14,Brienne III,Brienne of Tarth,Ser,Richard,Farrow,,,,M,
+"Ser Will, The Stork",A Feast for Crows,235,14,Brienne III,Brienne of Tarth,Ser,Will,,,The Stork,,M,
+Ser Edmund Ambrose,A Feast for Crows,235,14,Brienne III,Brienne of Tarth,Ser,Edmund,Ambrose,,,,M,
+Ser Hugh Beesbury,A Feast for Crows,237,14,Brienne III,Brienne of Tarth,Ser,Hugh,Beesbury,,,,M,
+Ser Owen Inchfield,A Feast for Crows,237,14,Brienne III,Brienne of Tarth,Ser,Owen,Inchfield,,,,M,
+Ser Clarence Crabb,A Feast for Crows,240,14,Brienne III,Brienne of Tarth,Ser,Clarence,Crabb,,,,M,
+Meggett,A Feast for Crows,245,15,Samwell II,Samwell Tarly,,Meggett,,,,,F,
+"Lord Commander Brynden Rivers, Bloodraven",A Feast for Crows,246,15,Samwell II,Samwell Tarly,Lord Commander,Brynden,Rivers,,Bloodraven,,M,
+Lord Garrison Prester,A Feast for Crows,254,16,Jaime II,Jaime Lannister,Lord,Garrison,Prester,,,,M,
+Lord Robin Moreland,A Feast for Crows,254,16,Jaime II,Jaime Lannister,Lord,Robin,Moreland,,,,M,
+"Jon Bettley, Beardless Jon Bettley",A Feast for Crows,258,16,Jaime II,Jaime Lannister,,Jon,Bettley,,Beardless Jon Bettley,,M,
+Humfrey Swyft,A Feast for Crows,258,16,Jaime II,Jaime Lannister,,Humfrey,Swyft,,,,M,
+The Greatheart,A Feast for Crows,265,16,Jaime II,Jaime Lannister,,?,,,The Greatheart,,M,
+"Ser Gyles, Gyles Greycloak",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Gyles,,,Gyles Greycloak,,M,
+"Ser Orivel, The Open-Handed",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Orivel,,,The Open-Handed,,M,
+Ser Addison Hill,A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Addison,Hill,,,,M,
+"Ser Michael Mertyns, The White Owl",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Michael,Mertyns,,The White Owl,,M,
+"Ser Jeffory Norcross, Neveryield",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Jeffory,Norcross,,Neveryield,,M,
+"Ser Tom Costayne, Long Tom Costayne",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Tom,Costayne,,Long Tom Costayne,,M,
+"Ser Donnel, Of Duskendale",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Donnel,,,Of Duskendale,,M,
+"Ser Robert Flowers, Red Robert Flowers",A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Robert,Flowers,,Red Robert Flowers,,M,
+Ser Rolland Darklyn,A Feast for Crows,266,16,Jaime II,Jaime Lannister,Ser,Rolland,Darklyn,,,,M,
+Dorcas,A Feast for Crows,267,17,Cersei IV,Cersei Lannister,,Dorcas,,,,,F,
+Septon Raynard,A Feast for Crows,272,17,Cersei IV,Cersei Lannister,Septon,Raynard,,,,,M,
+Septon Torbert,A Feast for Crows,272,17,Cersei IV,Cersei Lannister,Septon,Torbert,,,,,M,
+Septon Ollidor,A Feast for Crows,272,17,Cersei IV,Cersei Lannister,Septon,Ollidor,,,,,M,
+"Nute, The Barber",A Feast for Crows,286,18,The Iron Captain,Victarion Greyjoy,,Nute,,,The Barber,,M,
+"Ralf Stonehouse, Red Ralf Stonehouse",A Feast for Crows,286,18,The Iron Captain,Victarion Greyjoy,,Ralf,Stonehouse,,Red Ralf Stonehouse,,M,
+Ralf Kenning,A Feast for Crows,286,18,The Iron Captain,Victarion Greyjoy,,Ralf,Kenning,,,,M,D
+"Ralf, The Limper",A Feast for Crows,286,18,The Iron Captain,Victarion Greyjoy,,Ralf,,,The Limper,,M,
+"Fralegg, The Strong",A Feast for Crows,290,18,The Iron Captain,Victarion Greyjoy,,Fralegg,,,The Strong,,M,
+Alvyn Sharp,A Feast for Crows,290,18,The Iron Captain,Victarion Greyjoy,,Alvyn,Sharp,,,,M,
+Will Humble,A Feast for Crows,291,18,The Iron Captain,Victarion Greyjoy,,Will,Humble,,,,M,
+"Lenwood Tawney, Little Lenwood Tawney",A Feast for Crows,291,18,The Iron Captain,Victarion Greyjoy,,Lenwood,Tawney,,Little Lenwood Tawney,,M,
+Romny Weaver,A Feast for Crows,291,18,The Iron Captain,Victarion Greyjoy,,Romny,Weaver,,,,M,
+Eldred Codd,A Feast for Crows,291,18,The Iron Captain,Victarion Greyjoy,,Eldred,Codd,,,,M,
+Stonehand,A Feast for Crows,293,18,The Iron Captain,Victarion Greyjoy,,Stonehand,,,,,M,
+Quellon Humble,A Feast for Crows,293,18,The Iron Captain,Victarion Greyjoy,,Quellon,Humble,,,,M,
+"Ralf, The Shepherd",A Feast for Crows,293,18,The Iron Captain,Victarion Greyjoy,,Ralf,,,The Shepherd,,M,
+"Ralf, Of Lordsport",A Feast for Crows,293,18,The Iron Captain,Victarion Greyjoy,,Ralf,,,Of Lordsport,,M,
+"Qarl, The Thrall",A Feast for Crows,293,18,The Iron Captain,Victarion Greyjoy,,Qarl,,,The Thrall,,M,
+Sigfry Stonetree,A Feast for Crows,300,19,The Drowned Man,Aeron Greyjoy,,Sigfry,Stonetree,,,,M,
+Lord Gylbert Farwynd,A Feast for Crows,303,19,The Drowned Man,Aeron Greyjoy,Lord,Gylbert,Farwynd,,,,M,
+"Erik Ironmaker, Erik Anvil-Breaker/Erik the Just",A Feast for Crows,304,19,The Drowned Man,Aeron Greyjoy,,Erik,Ironmaker,,Erik Anvil-Breaker/Erik the Just,,M,
+Thormor Ironmaker,A Feast for Crows,304,19,The Drowned Man,Aeron Greyjoy,,Thormor,Ironmaker,,,,M,
+Denys Drumm,A Feast for Crows,305,19,The Drowned Man,Aeron Greyjoy,,Denys,Drumm,,,,M,
+Donnel Drumm,A Feast for Crows,305,19,The Drowned Man,Aeron Greyjoy,,Donnel,Drumm,,,,M,
+"Dale, The Dread",A Feast for Crows,206,12,Cersei III,Cersei Lannister,,Dale,,,The Dread,,M,
+"Roryn, The Reaver",A Feast for Crows,306,19,The Drowned Man,Aeron Greyjoy,,Roryn,,,The Reaver,,M,
+"Gormond Drumm, The Oldfather",A Feast for Crows,306,19,The Drowned Man,Aeron Greyjoy,,Gormond,Drumm,,The Oldfather,,M,
+Hilmar Drumm,A Feast for Crows,306,19,The Drowned Man,Aeron Greyjoy,,Hilmar,Drumm,,,,M,
+Harmund Sharp,A Feast for Crows,306,19,The Drowned Man,Aeron Greyjoy,,Harmund,Sharp,,,,M,
+Harrag Sharp,A Feast for Crows,306,19,The Drowned Man,Aeron Greyjoy,,Harrag,Sharp,,,,M,
+Lord Lucifer Hardy,A Feast for Crows,316,20,Brienne IV,Brienne of Tarth,Lord,Lucifer,Hardy,,,,M,
+Old Crackbones,A Feast for Crows,316,20,Brienne IV,Brienne of Tarth,,?,,,Old Crackbones,,M,
+Rupert Crabb,A Feast for Crows,317,20,Brienne IV,Brienne of Tarth,,Rupert,Crabb,,,,M,
+Clement Crabb,A Feast for Crows,317,20,Brienne IV,Brienne of Tarth,,Clement,Crabb,,,,M,
+Raymond Nayland,A Feast for Crows,318,20,Brienne IV,Brienne of Tarth,,Raymond,Nayland,,,,M,
+Harry Sawyer,A Feast for Crows,318,20,Brienne IV,Brienne of Tarth,,Harry,Sawyer,,,,M,
+Robin Potter,A Feast for Crows,318,20,Brienne IV,Brienne of Tarth,,Robin,Potter,,,,M,
+Lord Eustace Brune,A Feast for Crows,320,20,Brienne IV,Brienne of Tarth,Lord,Eustace,Brune,,,,M,
+Ser Andrey Dalt,A Feast for Crows,335,21,The Queenmaker,Arianne Martell,Ser,Andrey,Dalt,,,,M,
+"Lady Sylva Santagar, Spotted Sylva",A Feast for Crows,335,21,The Queenmaker,Arianne Martell,Lady,Sylva,Santagar,,Spotted Sylva,,F,
+Garin,A Feast for Crows,335,21,The Queenmaker,Arianne Martell,,Garin,,,,,M,
+"Ser Gerold Dayne, Darkstar",A Feast for Crows,335,21,The Queenmaker,Arianne Martell,Ser,Gerold,Dayne,,Darkstar,,M,
+Lord Ormond Yronwood,A Feast for Crows,338,21,The Queenmaker,Arianne Martell,Lord,Ormond,Yronwood,,,,M,
+Cletus Yronwood,A Feast for Crows,338,21,The Queenmaker,Arianne Martell,,Cletus,Yronwood,,,,M,D
+Dake,A Feast for Crows,343,21,The Queenmaker,Arianne Martell,,Dake,,,,,M,
+Rolder,A Feast for Crows,343,21,The Queenmaker,Arianne Martell,,Rolder,,,,,M,
+Rosamund Lannister,A Feast for Crows,345,21,The Queenmaker,Arianne Martell,,Rosamund,Lannister,,,,F,
+The Kindly Man,A Feast for Crows,350,22,Arya II,Arya Stark,,?,,,The Kindly Man,,M,A
+Umma,A Feast for Crows,351,22,Arya II,Arya Stark,,Umma,,,,,F,
+Luco Prestayn,A Feast for Crows,357,22,Arya II,Arya Stark,,Luco,Prestayn,,,,M,
+Uthero,A Feast for Crows,360,22,Arya II,Arya Stark,,Uthero,,,,,M,
+The Fat Fellow,A Feast for Crows,363,22,Arya II,Arya Stark,,?,,,The Fat Fellow,,M,A
+The Stern Face,A Feast for Crows,363,22,Arya II,Arya Stark,,?,,,The Stern Face,,M,A
+The Handsome Man,A Feast for Crows,363,22,Arya II,Arya Stark,,?,,,The Handsome Man,,M,A
+The Squinter,A Feast for Crows,364,22,Arya II,Arya Stark,,?,,,The Squinter,,M,A
+The Lordling,A Feast for Crows,364,22,Arya II,Arya Stark,,?,,,The Lordling,,M,A
+The Starved Man,A Feast for Crows,364,22,Arya II,Arya Stark,,?,,,The Starved Man,,M,A
+Brusco,A Feast for Crows,366,22,Arya II,Arya Stark,,Brusco,,,,,M,
+Benedar,A Feast for Crows,369,23,Alayne II,Sansa Stark,,Benedar,,,,,M,
+"Ser Gilwood Hunter, Young Lord Hunter",A Feast for Crows,369,23,Alayne II,Sansa Stark,Ser,Gilwood,Hunter,,Young Lord Hunter,,M,
+Mela,A Feast for Crows,372,23,Alayne II,Sansa Stark,,Mela,,,,,F,
+Lord Gerold Grafton,A Feast for Crows,375,23,Alayne II,Sansa Stark,Lord,Gerold,Grafton,,,,M,
+Lord Jon Lynderly,A Feast for Crows,375,23,Alayne II,Sansa Stark,Lord,Jon,Lynderly,,,,M,
+Lord Edmund Waxley,A Feast for Crows,376,23,Alayne II,Sansa Stark,Lord,Edmund,Waxley,,,,M,
+Maester Helliweg,A Feast for Crows,381,23,Alayne II,Sansa Stark,Maester,Helliweg,,,,,M,
+Septon Lucos,A Feast for Crows,381,23,Alayne II,Sansa Stark,Septon,Lucos,,,,,M,
+"Ser Harrold Hardyng, Harry the Heir",A Feast for Crows,381,23,Alayne II,Sansa Stark,Ser,Harrold,Hardyng,,Harry the Heir,,M,
+Harlan Hunter,A Feast for Crows,385,23,Alayne II,Sansa Stark,,Harlan,Hunter,,,,M,
+"Pate, The Whipping Boy",A Feast for Crows,386,24,Cersei V,Cersei Lannister,,Pate,,,The Whipping Boy,,M,
+Noho Dimittis,A Feast for Crows,388,24,Cersei V,Cersei Lannister,,Noho,Dimittis,,,,M,
+Ser Portifer Woodwright,A Feast for Crows,392,24,Cersei V,Cersei Lannister,Ser,Portifer,Woodwright,,,,M,
+Jeyne Farman,A Feast for Crows,405,24,Cersei V,Cersei Lannister,,Jeyne,Farman,,,,F,
+Septon Meribald,A Feast for Crows,412,25,Brienne V,Brienne of Tarth,Septon,Meribald,,,,,M,
+"Willam, Brother of Meribald",A Feast for Crows,421,25,Brienne V,Brienne of Tarth,,Willam,,,Brother of Meribald,,M,
+"Robin, Brother of Meribald",A Feast for Crows,421,25,Brienne V,Brienne of Tarth,,Robin,,,Brother of Meribald,,M,
+"Owen, Brother of Meribald",A Feast for Crows,422,25,Brienne V,Brienne of Tarth,,Owen,,,Brother of Meribald,,M,
+Jon Pox,A Feast for Crows,422,25,Brienne V,Brienne of Tarth,,Jon,Pox,,,,M,
+The Moonshadow,A Feast for Crows,423,26,Samwell III,Samwell Tarly,,?,,,The Moonshadow,,F,
+Moroggo,A Feast for Crows,431,26,Samwell III,Samwell Tarly,,Moroggo,,,,,M,
+Terro,A Feast for Crows,431,26,Samwell III,Samwell Tarly,,Terro,,,,,M,
+Orbelo,A Feast for Crows,433,26,Samwell III,Samwell Tarly,,Orbelo,,,,,M,
+Yna,A Feast for Crows,434,26,Samwell III,Samwell Tarly,,Yna,,,,,F,
+Xhondo,A Feast for Crows,437,26,Samwell III,Samwell Tarly,,Xhondo,,,,,M,
+Maester Gulian,A Feast for Crows,443,27,Jaime III,Jaime Lannister,Maester,Gulian,,,,,M,
+"Lewys Piper, Little Lew",A Feast for Crows,443,27,Jaime III,Jaime Lannister,,Lewys,Piper,,Little Lew,,M,
+Ser Roger Hogg,A Feast for Crows,449,27,Jaime III,Jaime Lannister,Ser,Roger,Hogg,,,,M,
+Ser Bayard Norcross,A Feast for Crows,462,28,Cersei VI,Cersei Lannister,Ser,Bayard,Norcross,,,,M,
+Ser Courtenay Greenhill,A Feast for Crows,462,28,Cersei VI,Cersei Lannister,Ser,Courtenay,Greenhill,,,,M,
+Ser Lucantine Woodwright,A Feast for Crows,462,28,Cersei VI,Cersei Lannister,Ser,Lucantine,Woodwright,,,,M,
+Russell Merryweather,A Feast for Crows,464,28,Cersei VI,Cersei Lannister,,Russell,Merryweather,,,,M,
+"Wulfe, One-Ear",A Feast for Crows,481,29,The Reaver,Victarion Greyjoy,,Wulfe,,,One-Ear,,M,
+Ragnor Pyke,A Feast for Crows,481,29,The Reaver,Victarion Greyjoy,,Ragnor,Pyke,,,,M,
+Ser Talbert Serry,A Feast for Crows,481,29,The Reaver,Victarion Greyjoy,Ser,Talbert,Serry,,,,M,D
+Lord Humfrey Hewett,A Feast for Crows,488,29,The Reaver,Victarion Greyjoy,Lord,Humfrey,Hewett,,,,M,
+Falia Flowers,A Feast for Crows,493,29,The Reaver,Victarion Greyjoy,,Falia,Flowers,,,,F,
+Cragorn,A Feast for Crows,498,29,The Reaver,Victarion Greyjoy,,Cragorn,,,,,M,
+Garrett Paege,A Feast for Crows,505,30,Jaime IV,Jaime Lannister,,Garrett,Paege,,,,M,
+Ser Quincy Cox,A Feast for Crows,511,30,Jaime IV,Jaime Lannister,Ser,Quincy,Cox,,,,M,
+Princess Daena Targaryen,A Feast for Crows,514,30,Jaime IV,Jaime Lannister,Princess,Daena,Targaryen,,,,F,
+Brother Narbert,A Feast for Crows,521,31,Brienne VI,Brienne of Tarth,Brother,Narbert,,,,,M,
+Brother Gillam,A Feast for Crows,522,31,Brienne VI,Brienne of Tarth,Brother,Gillam,,,,,M,
+Brother Rawney,A Feast for Crows,522,31,Brienne VI,Brienne of Tarth,Brother,Rawney,,,,,M,
+Brother Clement,A Feast for Crows,522,31,Brienne VI,Brienne of Tarth,Brother,Clement,,,,,M,
+Septon Bennet,A Feast for Crows,525,31,Brienne VI,Brienne of Tarth,Septon,Bennet,,,,,M,
+Galladon Tarth,A Feast for Crows,532,31,Brienne VI,Brienne of Tarth,,Galladon,Tarth,,,,M,
+Alysanne Tarth,A Feast for Crows,532,31,Brienne VI,Brienne of Tarth,,Alysanne,Tarth,,,,F,
+Arianne Tarth,A Feast for Crows,532,31,Brienne VI,Brienne of Tarth,,Arianne,Tarth,,,,F,
+Lord Dagon Greyjoy,A Feast for Crows,535,32,Cersei VII,Cersei Lannister,Lord,Dagon,Greyjoy,,,,M,
+Lord Moribald Chester,A Feast for Crows,535,32,Cersei VII,Cersei Lannister,Lord,Moribald,Chester,,,,M,
+Lord Osbert Serry,A Feast for Crows,535,32,Cersei VII,Cersei Lannister,Lord,Osbert,Serry,,,,M,
+Lord Guthor Grimm,A Feast for Crows,535,32,Cersei VII,Cersei Lannister,Lord,Guthor,Grimm,,,,M,
+Ser Manfryd Yew,A Feast for Crows,554,33,Jaime V,Jaime Lannister,Ser,Manfryd,Yew,,,,M,
+Ser Raynard Ruttiger,A Feast for Crows,554,33,Jaime V,Jaime Lannister,Ser,Raynard,Ruttiger,,,,M,
+Lady Ellyn Tarbeck,A Feast for Crows,565,33,Jaime V,Jaime Lannister,Lady,Ellyn,Tarbeck,,,,F,
+Talea,A Feast for Crows,569,34,Cat of the Canals III,Arya Stark,,Talea,,,,,F,
+Brea,A Feast for Crows,569,34,Cat of the Canals III,Arya Stark,,Brea,,,,,F,
+"Beqqo, Blind Beqqo",A Feast for Crows,572,34,Cat of the Canals III,Arya Stark,,Beqqo,,,Blind Beqqo,,M,
+Lotho Lornel,A Feast for Crows,572,34,Cat of the Canals III,Arya Stark,,Lotho,Lornel,,,,M,
+Captain Moredo Prestayn,A Feast for Crows,572,34,Cat of the Canals III,Arya Stark,Captain,Moredo,Prestayn,,,,M,
+"Roggo, Red Roggo",A Feast for Crows,574,34,Cat of the Canals III,Arya Stark,,Roggo,,,Red Roggo,,M,
+"Lanna, Of the Happy Port",A Feast for Crows,574,34,Cat of the Canals III,Arya Stark,,Lanna,,,Of the Happy Port,,F,
+Gyloro Dothare,A Feast for Crows,574,34,Cat of the Canals III,Arya Stark,,Gyloro,Dothare,,,,M,
+Gyleno Dothare,A Feast for Crows,574,34,Cat of the Canals III,Arya Stark,,Gyleno,Dothare,,,,M,
+Quill,A Feast for Crows,575,34,Cat of the Canals III,Arya Stark,,Quill,,,,,M,
+Tagganaro,A Feast for Crows,575,34,Cat of the Canals III,Arya Stark,,Tagganaro,,,,,M,
+"Cossomo, The Conjurer",A Feast for Crows,575,34,Cat of the Canals III,Arya Stark,,Cossomo,,,The Conjurer,,M,A
+"Wat, Sailor",A Feast for Crows,576,34,Cat of the Canals III,Arya Stark,,Wat,,,Sailor,,M,
+S'vrone,A Feast for Crows,576,34,Cat of the Canals III,Arya Stark,,S'vrone,,,,,F,
+The Drunken Daughter,A Feast for Crows,576,34,Cat of the Canals III,Arya Stark,,?,,,The Drunken Daughter,,F,
+"Jeyne, Canker Jeyne",A Feast for Crows,576,34,Cat of the Canals III,Arya Stark,,Jeyne,,,Canker Jeyne,,F,
+"Meralyn, Merry",A Feast for Crows,576,34,Cat of the Canals III,Arya Stark,,Meralyn,,,Merry,,F,
+"Bethany, Blushing Bethany",A Feast for Crows,577,34,Cat of the Canals III,Arya Stark,,Bethany,,,Blushing Bethany,,F,
+Assadora,A Feast for Crows,577,34,Cat of the Canals III,Arya Stark,,Assadora,,,,,F,
+The Poetess,A Feast for Crows,577,34,Cat of the Canals III,Arya Stark,,?,,,The Poetess,,F,
+The Merling Queen,A Feast for Crows,577,34,Cat of the Canals III,Arya Stark,,?,,,The Merling Queen,,F,
+The Veiled Lady,A Feast for Crows,577,34,Cat of the Canals III,Arya Stark,,?,,,The Veiled Lady,,F,
+"Bellegere Otherys, The Black Pearl",A Feast for Crows,578,34,Cat of the Canals III,Arya Stark,,Bellegere,Otherys,,The Black Pearl,,F,
+Bellonara Otherys,A Feast for Crows,578,34,Cat of the Canals III,Arya Stark,,Bellonara,Otherys,,,,F,
+"Bellegere Otherys, The Black Pearl, Aegon IV's mistress",A Feast for Crows,578,34,Cat of the Canals III,Arya Stark,,Bellegere,Otherys,,"The Black Pearl, Aegon IV's mistress",,F,
+"Narbo, Little Narbo",A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Narbo,,,Little Narbo,,M,
+"Joss, The Gloom",A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Joss,,,The Gloom,,M,
+Quence,A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Quence,,,,,M,
+Allaquo,A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Allaquo,,,,,M,
+Sloey,A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Sloey,,,,,F,
+Myrmello,A Feast for Crows,579,34,Cat of the Canals III,Arya Stark,,Myrmello,,,,,M,
+The Sailor's Wife,A Feast for Crows,581,34,Cat of the Canals III,Arya Stark,,?,,,The Sailor's Wife,,F,
+Ezzelyno,A Feast for Crows,581,34,Cat of the Canals III,Arya Stark,,Ezzelyno,,,,,M,
+"Eustace, Of Braavos",A Feast for Crows,581,34,Cat of the Canals III,Arya Stark,,Eustace,,,Of Braavos,,M,
+Kojja Mo,A Feast for Crows,586,35,Samwell IV,Samwell Tarly,,Kojja Mo,,,,,F,
+Grand Maester Ellendor,A Feast for Crows,612,36,Cersei VIII,Cersei Lannister,Grand Maester,Ellendor,,,,,M,
+Grand Maester Merion,A Feast for Crows,612,36,Cersei VIII,Cersei Lannister,Grand Maester,Merion,,,,,M,
+"Jon Heddle, Long Jon Heddle",A Feast for Crows,619,37,Brienne VII,Brienne of Tarth,,Jon,Heddle,,Long Jon Heddle,,M,
+Willow Heddle,A Feast for Crows,622,37,Brienne VII,Brienne of Tarth,,Willow,Heddle,,,,F,
+Jeyne Heddle,A Feast for Crows,622,37,Brienne VII,Brienne of Tarth,,Jeyne,Heddle,,,,F,
+"Wat, Orphan",A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Wat,,,Orphan,,M,
+"Will, Orphan",A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Will,,,Orphan,,M,
+"Tansy, Orphan",A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Tansy,,,Orphan,,F,
+"Pate, Orphan",A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Pate,,,Orphan,,M,
+Jon Penny,A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Jon,Penny,,,,M,
+"Ben, Ben Big Mouth, Orphan",A Feast for Crows,624,37,Brienne VII,Brienne of Tarth,,Ben,,,"Ben Big Mouth, Orphan",,M,
+Hugh Clifton,A Feast for Crows,655,39,Cersei IX,Cersei Lannister,,Hugh,Clifton,,,,M,
+Bors,A Feast for Crows,669,40,The Princess in the Tower,Arianne Martell,,Bors,,,,,M,
+Timoth,A Feast for Crows,669,40,The Princess in the Tower,Arianne Martell,,Timoth,,,,,M,
+Morra,A Feast for Crows,669,40,The Princess in the Tower,Arianne Martell,,Morra,,,,,F,
+Mellei,A Feast for Crows,669,40,The Princess in the Tower,Arianne Martell,,Mellei,,,,,F,
+Belandra,A Feast for Crows,669,40,The Princess in the Tower,Arianne Martell,,Belandra,,,,,F,
+"Lord Franklyn Fowler, The Old Hawk",A Feast for Crows,672,40,The Princess in the Tower,Arianne Martell,Lord,Franklyn,Fowler,,The Old Hawk,,M,
+Ben Beesbury,A Feast for Crows,675,40,The Princess in the Tower,Arianne Martell,,Ben,Beesbury,,,,M,
+Lady Jordayne,A Feast for Crows,680,40,The Princess in the Tower,Arianne Martell,Lady,?,Jordayne,,,,F,
+Frynne,A Feast for Crows,684,40,The Princess in the Tower,Arianne Martell,,Frynne,,,,,M,
+Maester Kedry,A Feast for Crows,684,40,The Princess in the Tower,Arianne Martell,Maester,Kedry,,,,,M,D
+"Ser Artys Arryn, The Winged Knight",A Feast for Crows,687,41,Alayne III,Sansa Stark,Ser,Artys,Arryn,,The Winged Knight,,M,D
+Terrance Lynderly,A Feast for Crows,690,41,Alayne III,Sansa Stark,,Terrance,Lynderly,,,,M,
+Gyles Grafton,A Feast for Crows,690,41,Alayne III,Sansa Stark,,Gyles,Grafton,,,,M,
+Ossy,A Feast for Crows,699,41,Alayne III,Sansa Stark,,Ossy,,,,,M,
+Carrot,A Feast for Crows,699,41,Alayne III,Sansa Stark,,Carrot,,,,,M,
+"Ser Byron, The Beautiful",A Feast for Crows,707,41,Alayne III,Sansa Stark,Ser,Byron,,,The Beautiful,,M,
+"Ser Morgarth, The Merry",A Feast for Crows,707,41,Alayne III,Sansa Stark,Ser,Morgarth,,,The Merry,,M,
+Lord Jasper Arryn,A Feast for Crows,709,41,Alayne III,Sansa Stark,Lord,Jasper,Arryn,,,,M,
+Alys Waynwood,A Feast for Crows,709,41,Alayne III,Sansa Stark,,Alys,Waynwood,Arryn,,,F,
+Ser Elys Waynwood,A Feast for Crows,709,41,Alayne III,Sansa Stark,Ser,Elys,Waynwood,,,,M,
+Septa Moelle,A Feast for Crows,728,43,Cersei X,Cersei Lannister,Septa,Moelle,,,,,F,
+Septa Aglantine,A Feast for Crows,729,43,Cersei X,Cersei Lannister,Septa,Aglantine,,,,,F,
+Septa Melicent,A Feast for Crows,729,43,Cersei X,Cersei Lannister,Septa,Melicent,,,,,F,
+"Ser Theodan Wells, The True",A Feast for Crows,734,43,Cersei X,Cersei Lannister,Ser,Theodan,Wells,,The True,,M,
+Septa Unella,A Feast for Crows,736,43,Cersei X,Cersei Lannister,Septa,Unella,,,,,F,
+Septa Scolera,A Feast for Crows,741,43,Cersei X,Cersei Lannister,Septa,Scolera,,,,,F,
+Humfrey Waters,A Feast for Crows,743,43,Cersei X,Cersei Lannister,,Humfrey,Waters,,,,M,
+Jate,A Feast for Crows,755,44,Jaime VII,Jaime Lannister,,Jate,,,,,M,
+Ser Gunthor Hightower,A Feast for Crows,764,45,Samwell V,Samwell Tarly,Ser,Gunthor,Hightower,,,,M,
+"Ser Garth Hightower, Greysteel",A Feast for Crows,764,45,Samwell V,Samwell Tarly,Ser,Garth,Hightower,,Greysteel,,M,
+Ser Humfrey Hightower,A Feast for Crows,764,45,Samwell V,Samwell Tarly,Ser,Humfrey,Hightower,,,,M,
+Archmaester Theobald,A Feast for Crows,769,45,Samwell V,Samwell Tarly,Archmaester,Theobald,,,,,M,
+"Gorghan, Of Old Ghis",A Feast for Crows,774,45,Samwell V,Samwell Tarly,,Gorghan,,,Of Old Ghis,,M,
+"Hoke, The Horseleg",A Feast for Crows,783,46,Appendix,N/A,,Hoke,,,The Horseleg,,M,
+Ser Willam Wythers,A Feast for Crows,784,46,Appendix,N/A,Ser,Willam,Wythers,,,,M,
+Ser Richard Horpe,A Feast for Crows,787,46,Appendix,N/A,Ser,Richard,Horpe,,,,M,
+Ser Justin Massey,A Feast for Crows,787,46,Appendix,N/A,Ser,Justin,Massey,,,,M,
+Ser Clayton Suggs,A Feast for Crows,787,46,Appendix,N/A,Ser,Clayton,Suggs,,,,M,
+"Ser Godry Farring, Giantslayer",A Feast for Crows,787,46,Appendix,N/A,Ser,Godry,Farring,,Giantslayer,,M,
+Lord Harwood Fell,A Feast for Crows,787,46,Appendix,N/A,Lord,Harwood,Fell,,,,M,D
+Ser Corliss Penny,A Feast for Crows,787,46,Appendix,N/A,Ser,Corliss,Penny,,,,M,
+Quenton Greyjoy,A Feast for Crows,790,46,Appendix,N/A,,Quenton,Greyjoy,,,,M,
+Gyles Farwynd,A Feast for Crows,791,46,Appendix,N/A,,Gyles,Farwynd,,,,M,
+Ygon Farwynd,A Feast for Crows,791,46,Appendix,N/A,,Ygon,Farwynd,,,,M,
+Yohn Farwynd,A Feast for Crows,791,46,Appendix,N/A,,Yohn,Farwynd,,,,M,
+Urek Ironmaker,A Feast for Crows,791,46,Appendix,N/A,,Urek,Ironmaker,,,,M,
+Dagon Ironmaker,A Feast for Crows,791,46,Appendix,N/A,,Dagon,Ironmaker,,,,M,
+Symond Botley,A Feast for Crows,792,46,Appendix,N/A,,Symond,Botley,,,,M,
+Harlon Botley,A Feast for Crows,792,46,Appendix,N/A,,Harlon,Botley,,,,M,
+Vickon Botley,A Feast for Crows,792,46,Appendix,N/A,,Vickon,Botley,,,,M,
+Bennarion Botley,A Feast for Crows,792,46,Appendix,N/A,,Bennarion,Botley,,,,M,
+Balon Botley,A Feast for Crows,792,46,Appendix,N/A,,Balon,Botley,,,,M,
+Quellon Botley,A Feast for Crows,792,46,Appendix,N/A,,Quellon,Botley,,,,M,
+Sargon Botley,A Feast for Crows,792,46,Appendix,N/A,,Sargon,Botley,,,,M,
+Lucimore Botley,A Feast for Crows,792,46,Appendix,N/A,,Lucimore,Botley,,,,M,
+"Ben Blacktyde, Blind Ben Blacktyde",A Feast for Crows,794,46,Appendix,N/A,,Ben,Blacktyde,,Blind Ben Blacktyde,,M,
+Ser Lucas Corbray,A Feast for Crows,798,46,Appendix,N/A,Ser,Lucas,Corbray,,,,M,
+Lord Triston Sunderland,A Feast for Crows,798,46,Appendix,N/A,Lord,Triston,Sunderland,,,,M,
+Lord Godric Borrell,A Feast for Crows,798,46,Appendix,N/A,Lord,Godric,Borrell,,,,M,
+Lord Rolland Longthorpe,A Feast for Crows,798,46,Appendix,N/A,Lord,Rolland,Longthorpe,,,,M,
+Lord Alesandor Torrent,A Feast for Crows,798,46,Appendix,N/A,Lord,Alesandor,Torrent,,,,M,
+Lord Royce Coldwater,A Feast for Crows,798,46,Appendix,N/A,Lord,Royce,Coldwater,,,,M,
+Ser Damon Shett,A Feast for Crows,798,46,Appendix,N/A,Ser,Damon,Shett,,,,M,
+Lord Uthor Tollett,A Feast for Crows,798,46,Appendix,N/A,Lord,Uthor,Tollett,,,,M,
+Wallace Waynwood,A Feast for Crows,798,46,Appendix,N/A,,Wallace,Waynwood,,,,M,
+Ser Eustace Hunter,A Feast for Crows,798,46,Appendix,N/A,Ser,Eustace,Hunter,,,,M,
+Ser Jasper Redfort,A Feast for Crows,799,46,Appendix,N/A,Ser,Jasper,Redfort,,,,M,
+Ser Creighton Redfort,A Feast for Crows,799,46,Appendix,N/A,Ser,Creighton,Redfort,,,,M,
+Ser Jon Redfort,A Feast for Crows,799,46,Appendix,N/A,Ser,Jon,Redfort,,,,M,
+Ysilla Redfort,A Feast for Crows,799,46,Appendix,N/A,,Ysilla,Redfort,Royce,,,F,
+Hostella Frey,A Feast for Crows,804,46,Appendix,N/A,,Hostella,Frey,,,,F,
+Leana Frey,A Feast for Crows,805,46,Appendix,N/A,,Leana,Frey,,,,F,
+Haggon,A Dance with Dragons,4,0,Prologue,Varamyr Sixskins,,Haggon,,,,,M,
+Thistle,A Dance with Dragons,4,0,Prologue,Varamyr Sixskins,,Thistle,,,,,F,D
+Mother Mole,A Dance with Dragons,6,0,Prologue,Varamyr Sixskins,,?,,,Mother Mole,,F,
+Bump,A Dance with Dragons,7,0,Prologue,Varamyr Sixskins,,Bump,,,,,M,
+Borroq,A Dance with Dragons,10,0,Prologue,Varamyr Sixskins,,Borroq,,,,,M,
+Briar,A Dance with Dragons,10,0,Prologue,Varamyr Sixskins,,Briar,,,,,M,
+Grisella,A Dance with Dragons,10,0,Prologue,Varamyr Sixskins,,Grisella,,,,,F,
+Meha,A Dance with Dragons,13,0,Prologue,Varamyr Sixskins,,Meha,,,,,F,
+Lord Runceford Redwyne,A Dance with Dragons,22,1,Tyrion I,Tyrion Lannister,Lord,Runceford,Redwyne,,,,M,
+Magister Ordello,A Dance with Dragons,27,1,Tyrion I,Tyrion Lannister,Magister,Ordello,,,,,M,
+Stalwart Shield,A Dance with Dragons,32,2,Daenerys I,Daenerys Targaryen,,Stalwart,Shield,,,,M,D
+Reznak mo Reznak,A Dance with Dragons,34,2,Daenerys I,Daenerys Targaryen,,Reznak,mo Reznak,,,,M,
+"Skahaz mo Kandaq, Shavepate",A Dance with Dragons,34,2,Daenerys I,Daenerys Targaryen,,Skahaz,mo Kandaq,,Shavepate,,M,
+"Galazza Galarre, The Green Grace",A Dance with Dragons,35,2,Daenerys I,Daenerys Targaryen,,Galazza,Galarre,,The Green Grace,,F,
+Hizdahr zo Loraq,A Dance with Dragons,39,2,Daenerys I,Daenerys Targaryen,,Hizdahr,zo Loraq,,,,M,
+Grazdan zo Galare,A Dance with Dragons,41,2,Daenerys I,Daenerys Targaryen,,Grazdan,zo Galare,,,,M,
+Lyanna Mormont,A Dance with Dragons,51,3,Jon I,Jon Snow,,Lyanna,Mormont,,,,F,
+Arnolf Karstark,A Dance with Dragons,52,3,Jon I,Jon Snow,,Arnolf,Karstark,,,,M,
+Pytho Malanon,A Dance with Dragons,74,5,Tyrion II,Tyrion Lannister,,Pytho,Malanon,,,,M,
+"Ser Aegor Rivers, Bittersteel",A Dance with Dragons,77,5,Tyrion II,Tyrion Lannister,Ser,Aegor,Rivers,,Bittersteel,,M,
+"King Hugor, Of the Hill",A Dance with Dragons,79,5,Tyrion II,Tyrion Lannister,King,Hugor,,,Of the Hill,,M,D
+"Serra, Wife of Illyrio",A Dance with Dragons,79,5,Tyrion II,Tyrion Lannister,,Serra,,,Wife of Illyrio,,F,
+Ser Gerris Drinkwater,A Dance with Dragons,83,6,The Merchant's Man,Quentyn Martell,Ser,Gerris,Drinkwater,,,,M,
+Willam Wells,A Dance with Dragons,87,6,The Merchant's Man,Quentyn Martell,,Willam,Wells,,,,M,D
+Ynys Yronwood,A Dance with Dragons,90,6,The Merchant's Man,Quentyn Martell,,Ynys,Yronwood,,,,F,
+Gwyneth Yronwood,A Dance with Dragons,90,6,The Merchant's Man,Quentyn Martell,,Gwyneth,Yronwood,,,,F,
+"Ser Archibald Yronwood, Arch/The Big Man",A Dance with Dragons,93,6,The Merchant's Man,Quentyn Martell,Ser,Archibald,Yronwood,,Arch/The Big Man,,M,
+"Lord Commander Jack Musgood, Jolly Jack",A Dance with Dragons,107,7,Jon II,Jon Snow,Lord Commander,Jack,Musgood,,Jolly Jack,,M,
+"Lord Harmond Umber, The Drunken Giant",A Dance with Dragons,107,7,Jon II,Jon Snow,Lord,Harmond,Umber,,The Drunken Giant,,M,
+Manly Stokeworth,A Dance with Dragons,107,7,Jon II,Jon Snow,,Manly,Stokeworth,,,,M,
+"Jack Crabb, Red Jack Crabb",A Dance with Dragons,109,7,Jon II,Jon Snow,,Jack,Crabb,,Red Jack Crabb,,M,
+Rusty Flowers,A Dance with Dragons,109,7,Jon II,Jon Snow,,Rusty,Flowers,,,,M,
+"Haldon, Halfmaester",A Dance with Dragons,112,8,Tyrion III,Tyrion Lannister,,Haldon,,,Halfmaester,,M,
+"Ser Rolly Duckfield, Duck",A Dance with Dragons,112,8,Tyrion III,Tyrion Lannister,Ser,Rolly,Duckfield,,Duck,,M,
+Khal Motho,A Dance with Dragons,113,8,Tyrion III,Tyrion Lannister,Khal,Motho,,,,,M,
+Khal Mekko,A Dance with Dragons,113,8,Tyrion III,Tyrion Lannister,Khal,Mekko,,,,,M,
+Ser Byron Swann,A Dance with Dragons,114,8,Tyrion III,Tyrion Lannister,Ser,Byron,Swann,,,,M,
+Grand Maester Munken,A Dance with Dragons,114,8,Tyrion III,Tyrion Lannister,Grand Maester,Munken,,,,,M,
+Prince Aemond Targaryen,A Dance with Dragons,114,8,Tyrion III,Tyrion Lannister,Prince,Aemond,Targaryen,,,,M,
+Septa Lemore,A Dance with Dragons,114,8,Tyrion III,Tyrion Lannister,Septa,Lemore,,,,,F,
+"Urho, The Unwashed",A Dance with Dragons,115,8,Tyrion III,Tyrion Lannister,,Urho,,,The Unwashed,,M,
+"Lady Korra, The Good",A Dance with Dragons,115,8,Tyrion III,Tyrion Lannister,Lady,Korra,,,The Good,,F,
+The Shrouded Lord,A Dance with Dragons,115,8,Tyrion III,Tyrion Lannister,,?,,,The Shrouded Lord,,M,
+Ser Harry Strickland,A Dance with Dragons,116,8,Tyrion III,Tyrion Lannister,Ser,Harry,Strickland,,,,M,
+Lomas Longstrider,A Dance with Dragons,117,8,Tyrion III,Tyrion Lannister,,Lomas,Longstrider,,,,M,
+Ysilla,A Dance with Dragons,121,8,Tyrion III,Tyrion Lannister,,Ysilla,,,,,F,
+Gella,A Dance with Dragons,128,9,Davos I,Davos Seaworth,,Gella,,,,,F,
+Marq Grafton,A Dance with Dragons,132,9,Davos I,Davos Seaworth,,Marq,Grafton,,,,M,
+"Ben, Bearded Ben",A Dance with Dragons,137,10,Jon III,Jon Snow,,Ben,,,Bearded Ben,,M,
+Sigorn,A Dance with Dragons,138,10,Jon III,Jon Snow,,Sigorn,,,,,M,
+Halleck,A Dance with Dragons,139,10,Jon III,Jon Snow,,Halleck,,,,,M,
+Black Fist,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Black Fist,,,,,M,
+Cetherys,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Cetherys,,,,,M,
+Mossador,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Mossador,,,,,M,D
+Duran,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Duran,,,,,M,
+Eladon Goldenhair,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Eladon Goldenhair,,,,,M,
+Loyal Spear,A Dance with Dragons,148,11,Daenerys II,Daenerys Targaryen,,Loyal Spear,,,,,M,
+Marselen,A Dance with Dragons,149,11,Daenerys II,Daenerys Targaryen,,Marselen,,,,,M,
+Rylona Rhee,A Dance with Dragons,149,11,Daenerys II,Daenerys Targaryen,,Rylona,Rhee,,,,F,
+Khrazz,A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Khrazz,,,,,M,D
+"Barsena, Barsena Blackhair",A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Barsena,,,Barsena Blackhair,,F,
+"Camarron, Of the Count",A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Camarron,,,Of the Count,,M,
+"Goghor, The Giant",A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Goghor,,,The Giant,,M,
+The Spotted Cat,A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,?,,,The Spotted Cat,,M,
+"Ithoke, Fearless Ithoke",A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Ithoke,,,Fearless Ithoke,,M,
+"Belaquo, Belaquo Bonebreaker",A Dance with Dragons,154,11,Daenerys II,Daenerys Targaryen,,Belaquo,,,Belaquo Bonebreaker,,M,
+Hazzea,A Dance with Dragons,157,11,Daenerys II,Daenerys Targaryen,,Hazzea,,,,,F,D
+"Ben, Ben Bones",A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Ben,,,Ben Bones,,M,
+"Damon, Damon Dance-For-Me",A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Damon,,,Damon Dance-For-Me,,M,
+Grunt,A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Grunt,,,,,M,
+"Alyn, Sour Alyn",A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Alyn,,,Sour Alyn,,M,
+Skinner,A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Skinner,,,,,M,
+"Dick, Yellow Dick",A Dance with Dragons,165,12,Reek I,Theon Greyjoy,,Dick,,,Yellow Dick,,M,D
+Yandry,A Dance with Dragons,179,14,Tyrion IV,Tyrion Lannister,,Yandry,,,,,M,
+Galendro,A Dance with Dragons,185,14,Tyrion IV,Tyrion Lannister,,Galendro,,,,,M,
+Triarch Malaquo Maegyr,A Dance with Dragons,188,14,Tyrion IV,Tyrion Lannister,Triarch,Malaquo,Maegyr,,,,M,
+Triarch Nyessos Vhassar,A Dance with Dragons,188,14,Tyrion IV,Tyrion Lannister,Triarch,Nyessos,Vhassar,,,,M,
+Triarch Doniphos Paenymion,A Dance with Dragons,188,14,Tyrion IV,Tyrion Lannister,Triarch,Doniphos,Paenymion,,,,M,
+Casso Mogat,A Dance with Dragons,194,15,Davos II,Davos Seaworth,,Casso,Mogat,,,,M,
+Mezzara,A Dance with Dragons,213,16,Daenerys III,Daenerys Targaryen,,Mezzara,,,,,F,
+Rommo,A Dance with Dragons,214,16,Daenerys III,Daenerys Targaryen,,Rommo,,,,,M,
+Mollono Yos Dob,A Dance with Dragons,214,16,Daenerys III,Daenerys Targaryen,,Mollono,Yos Dob,,,,M,
+Symon Stripeback,A Dance with Dragons,214,16,Daenerys III,Daenerys Targaryen,,Symon,Stripeback,,,,M,
+Wick Whittlestick,A Dance with Dragons,218,17,Jon IV,Jon Snow,,Wick,Whittlestick,,,,M,
+Lord Hoarfrost Umber,A Dance with Dragons,228,17,Jon IV,Jon Snow,Lord,Hoarfrost,Umber,,,,M,
+Lord Sweet,A Dance with Dragons,224,17,Jon IV,Jon Snow,Lord,?,Sweet,,,,M,
+Ser Marlon Manderly,A Dance with Dragons,243,19,Davos III,Davos Seaworth,Ser,Marlon,Manderly,,,,M,
+Maester Theomore,A Dance with Dragons,246,19,Davos III,Davos Seaworth,Maester,Theomore,,Lannister,,,M,
+Lady Leona Manderly,A Dance with Dragons,247,19,Davos III,Davos Seaworth,Lady,Leona,Manderly,Woolfield,,,F,
+Wylla Manderly,A Dance with Dragons,257,20,Reek II,Theon Greyjoy,,Wylla,Manderly,,,,F,
+Dagon Codd,A Dance with Dragons,257,20,Reek II,Theon Greyjoy,,Dagon,Codd,,,,M,D
+Adrack Humble,A Dance with Dragons,261,20,Reek II,Theon Greyjoy,,Adrack,Humble,,,,M,D
+Roger Ryswell,A Dance with Dragons,262,20,Reek II,Theon Greyjoy,,Roger,Ryswell,,,,M,
+Rickard Ryswell,A Dance with Dragons,262,20,Reek II,Theon Greyjoy,,Rickard,Ryswell,,,,M,
+Ty,A Dance with Dragons,268,21,Jon V,Jon Snow,,Ty,,,,,M,
+Rory,A Dance with Dragons,272,21,Jon V,Jon Snow,,Rory,,,,,M,
+Butts,A Dance with Dragons,273,21,Jon V,Jon Snow,,Butts,,,,,M,
+Qavo Nogarys,A Dance with Dragons,283,22,Tyrion VI,Tyrion Lannister,,Qavo,Nogarys,,,,M,
+Triarch Horonno,A Dance with Dragons,285,22,Tyrion VI,Tyrion Lannister,Triarch,Horonno,,,,,M,
+Benerro,A Dance with Dragons,286,22,Tyrion VI,Tyrion Lannister,,Benerro,,,,,M,
+Qezza,A Dance with Dragons,293,23,Daenerys IV,Daenerys Targaryen,,Qezza,,,,,F,
+Grazhar,A Dance with Dragons,293,23,Daenerys IV,Daenerys Targaryen,,Grazhar,,,,,M,
+"King , Cleon the Second",A Dance with Dragons,294,23,Daenerys IV,Daenerys Targaryen,King,?,,,Cleon the Second,,M,
+"King , King Cutthroat",A Dance with Dragons,294,23,Daenerys IV,Daenerys Targaryen,King,?,,,King Cutthroat,,M,
+"Queen , Queen Whore",A Dance with Dragons,294,23,Daenerys IV,Daenerys Targaryen,Queen,?,,,Queen Whore,,F,
+"Mazdhan zo Loraq, The Magnificent",A Dance with Dragons,295,23,Daenerys IV,Daenerys Targaryen,,Mazdhan,zo Loraq,,The Magnificent,,M,
+"Hazrak zo Loraq, The Handsome",A Dance with Dragons,295,23,Daenerys IV,Daenerys Targaryen,,Hazrak,zo Loraq,,The Handsome,,M,
+"Zharaq zo Loraq, The Liberator",A Dance with Dragons,295,23,Daenerys IV,Daenerys Targaryen,,Zharaq,zo Loraq,,The Liberator,,M,
+"Myles Toyne, Blackheart",A Dance with Dragons,307,24,The Lost Lord,Jon Connington,,Myles,Toyne,,Blackheart,,M,D
+Franklyn Flowers,A Dance with Dragons,310,24,The Lost Lord,Jon Connington,,Franklyn,Flowers,,,,M,A
+Marq Mandrake,A Dance with Dragons,312,24,The Lost Lord,Jon Connington,,Marq,Mandrake,,,,M,A
+"Balaq, Black Balaq",A Dance with Dragons,312,24,The Lost Lord,Jon Connington,,Balaq,,,Black Balaq,,M,A
+Gorys Edoryen,A Dance with Dragons,312,24,The Lost Lord,Jon Connington,,Gorys,Edoryen,,,,M,A
+Lysono Maar,A Dance with Dragons,312,24,The Lost Lord,Jon Connington,,Lysono,Maar,,,,M,A
+Watkyn,A Dance with Dragons,313,24,The Lost Lord,Jon Connington,,Watkyn,,,,,M,A
+Laswell Peake,A Dance with Dragons,314,24,The Lost Lord,Jon Connington,,Laswell,Peake,,,,M,A
+Ser Tristan Rivers,A Dance with Dragons,315,24,The Lost Lord,Jon Connington,Ser,Tristan,Rivers,,,,M,A
+Dick Straw,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Dick,Straw,,,,M,
+"Bill Bone, Old Bill Bone",A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Bill,Bone,,Old Bill Bone,,M,
+Myrio Myrakis,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Myrio,Myrakis,,,,M,
+The Tattered Prince,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,?,,,The Tattered Prince,,M,
+Caggo,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Caggo,,,,,M,
+Baqq,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Baqq,,,,,M,
+Greenguts,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Greenguts,,,,,M,
+Gerrold Redback,A Dance with Dragons,320,25,The Windblown,Quentyn Martell,,Gerrold,Redback,,,,M,
+"Gerrold, Black Gerrold",A Dance with Dragons,321,25,The Windblown,Quentyn Martell,,Gerrold,,,Black Gerrold,,M,
+Books,A Dance with Dragons,321,25,The Windblown,Quentyn Martell,,Books,,,,,M,
+Bloodbeard,A Dance with Dragons,323,25,The Windblown,Quentyn Martell,,Bloodbeard,,,,,M,
+Yurkhaz zo Yunzak,A Dance with Dragons,323,25,The Windblown,Quentyn Martell,,Yurkhaz,zo Yunzak,,,,M,D
+"Yezzan zo Qaggaz, Yellow Whale",A Dance with Dragons,323,25,The Windblown,Quentyn Martell,,Yezzan,zo Qaggaz,,Yellow Whale,,M,D
+Girl General,A Dance with Dragons,323,25,The Windblown,Quentyn Martell,,?,,,Girl General,,F,
+"Paezhar zo Myraq, Little Pigeon",A Dance with Dragons,323,25,The Windblown,Quentyn Martell,,Paezhar,zo Myraq,,Little Pigeon,,M,
+"Ghazdor zo Ahlaq, Lord Wobblecheeks",A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,Ghazdor,zo Ahlaq,,Lord Wobblecheeks,,M,
+"Morghaz zo Zherzyn, The Drunken Conqueror",A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,Morghaz,zo Zherzyn,,The Drunken Conqueror,,M,
+The Beastmaster,A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,?,,,The Beastmaster,,M,
+"Gorzhak zo Eraz, Pudding Face",A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,Gorzhak,zo Eraz,,Pudding Face,,M,
+"Faezhar zo Faez, The Rabbit",A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,Faezhar,zo Faez,,The Rabbit,,M,
+The Charioteer,A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,?,,,The Charioteer,,M,
+The Perfurmed Hero,A Dance with Dragons,324,25,The Windblown,Quentyn Martell,,?,,,The Perfurmed Hero,,M,
+Denzo D'han,A Dance with Dragons,325,25,The Windblown,Quentyn Martell,,Denzo,D'han,,,,M,
+"Meris, Pretty Meris",A Dance with Dragons,328,25,The Windblown,Quentyn Martell,,Meris,,,Pretty Meris,,F,
+Hugh Hungerford,A Dance with Dragons,328,25,The Windblown,Quentyn Martell,,Hugh,Hungerford,,,,M,
+Lewys Lanster,A Dance with Dragons,329,25,The Windblown,Quentyn Martell,,Lewys,Lanster,,,,M,
+Ser Orson Stone,A Dance with Dragons,330,25,The Windblown,Quentyn Martell,Ser,Orson,Stone,,,,M,
+"Will, Will of the Woods",A Dance with Dragons,330,25,The Windblown,Quentyn Martell,,Will,,,Will of the Woods,,M,
+Ser Lucifer Long,A Dance with Dragons,330,25,The Windblown,Quentyn Martell,Ser,Lucifer,Long,,,,M,
+Webber,A Dance with Dragons,330,25,The Windblown,Quentyn Martell,,Webber,,,,,M,
+"Quenton Greyjoy, Cousin of Asha",A Dance with Dragons,333,26,The Wayward Bride,Asha Greyjoy,,Quenton,Greyjoy,,Cousin of Asha,,M,D
+"Dagon Greyjoy, The Drunkard",A Dance with Dragons,333,26,The Wayward Bride,Asha Greyjoy,,Dagon,Greyjoy,,The Drunkard,,M,
+Cromm,A Dance with Dragons,333,26,The Wayward Bride,Asha Greyjoy,,Cromm,,,,,M,D
+"Qarl Kenning, Queer Qarl Kenning",A Dance with Dragons,335,26,The Wayward Bride,Asha Greyjoy,,Qarl,Kenning,,Queer Qarl Kenning,,M,
+Qarl Quickaxe,A Dance with Dragons,335,26,The Wayward Bride,Asha Greyjoy,,Qarl,Quickaxe,,,,M,
+"Hagen, The Horn",A Dance with Dragons,339,26,The Wayward Bride,Asha Greyjoy,,Hagen,,,The Horn,,M,D
+"Torgon Greyiron, The Latecomer",A Dance with Dragons,341,26,The Wayward Bride,Asha Greyjoy,,Torgon,Greyiron,,The Latecomer,,M,
+Urragon Goodbrother,A Dance with Dragons,342,26,The Wayward Bride,Asha Greyjoy,,Urragon,Goodbrother,,,,M,
+Lorren Longaxe,A Dance with Dragons,342,26,The Wayward Bride,Asha Greyjoy,,Lorren,Longaxe,,,,M,
+"Harl, Six-Toed Harl",A Dance with Dragons,342,26,The Wayward Bride,Asha Greyjoy,,Harl,,,Six-Toed Harl,,M,
+Grimtongue,A Dance with Dragons,342,26,The Wayward Bride,Asha Greyjoy,,Grimtongue,,,,,M,
+"Rolfe, The Dwarf",A Dance with Dragons,344,26,The Wayward Bride,Asha Greyjoy,,Rolfe,,,The Dwarf,,M,D
+Roggon Rustbeard,A Dance with Dragons,346,26,The Wayward Bride,Asha Greyjoy,,Roggon,Rustbeard,,,,M,
+"Dale, Droopeye Dale",A Dance with Dragons,347,26,The Wayward Bride,Asha Greyjoy,,Dale,,,Droopeye Dale,,M,
+Methyso,A Dance with Dragons,361,27,Tyrion VII,Tyrion Lannister,,Methyso,,,,,M,
+Alios Qhaedar,A Dance with Dragons,361,27,Tyrion VII,Tyrion Lannister,,Alios,Qhaedar,,,,M,
+Widow of the Waterfront/Vogarro's Whore,A Dance with Dragons,364,27,Tyrion VII,Tyrion Lannister,,?,,,Widow of the Waterfront/Vogarro's Whore,,F,
+Vogarro,A Dance with Dragons,364,27,Tyrion VII,Tyrion Lannister,,Vogarro,,,,,M,
+Parquello Vaelaros,A Dance with Dragons,367,27,Tyrion VII,Tyrion Lannister,,Parquello,Vaelaros,,,,M,
+Belicho Staegone,A Dance with Dragons,367,27,Tyrion VII,Tyrion Lannister,,Belicho,Staegone,,,,M,
+Triarch Trianna,A Dance with Dragons,367,27,Tyrion VII,Tyrion Lannister,Triarch,Trianna,,,,,F,
+Oppo,A Dance with Dragons,369,27,Tyrion VII,Tyrion Lannister,,Oppo,,,,,M,D
+Penny,A Dance with Dragons,370,27,Tyrion VII,Tyrion Lannister,,Penny,,,,,F,
+Jace,A Dance with Dragons,374,28,Jon VI,Jon Snow,,Jace,,,,,M,
+"Garth, Of Wolf's Den",A Dance with Dragons,382,29,Davos IV,Davos Seaworth,,Garth,,,Of Wolf's Den,,M,
+Therry,A Dance with Dragons,383,29,Davos IV,Davos Seaworth,,Therry,,,,,M,
+Ser Bartimus,A Dance with Dragons,383,29,Davos IV,Davos Seaworth,Ser,Bartimus,,,,,M,
+"King Osgood Arryn, The Old Falcon",A Dance with Dragons,384,29,Davos IV,Davos Seaworth,King,Osgood,Arryn,,The Old Falcon,,M,
+The Talon,A Dance with Dragons,384,29,Davos IV,Davos Seaworth,,?,,,The Talon,,M,
+"Brandon Stark, Ice Eyes",A Dance with Dragons,385,29,Davos IV,Davos Seaworth,,Brandon,Stark,,Ice Eyes,,M,
+Wynafryd Manderly,A Dance with Dragons,384,29,Davos IV,Davos Seaworth,,Wynafryd,Manderly,,,,F,
+Miklaz,A Dance with Dragons,398,30,Daenerys V,Daenerys Targaryen,,Miklaz,,,,,?,
+Kezmya,A Dance with Dragons,398,30,Daenerys V,Daenerys Targaryen,,Kezmya,,,,,F,
+Ezzara,A Dance with Dragons,398,30,Daenerys V,Daenerys Targaryen,,Ezzara,,,,,F,
+Morgan,A Dance with Dragons,414,31,Melisandre I,Melisandre,,Morgan,,,,,M,
+Merrel,A Dance with Dragons,414,31,Melisandre I,Melisandre,,Merrel,,,,,M,
+"Alf, Of Runnymudd",A Dance with Dragons,416,31,Melisandre I,Melisandre,,Alf,,,Of Runnymudd,,M,
+Lord Harwood Stout,A Dance with Dragons,422,32,Reek III,Theon Greyjoy,Lord,Harwood,Stout,,,,M,
+Will Short,A Dance with Dragons,422,32,Reek III,Theon Greyjoy,,Will,Short,,,,M,
+Lady Barbrey Dustin,A Dance with Dragons,424,32,Reek III,Theon Greyjoy,Lady,Barbrey,Dustin,,,,F,
+Roose Ryswell,A Dance with Dragons,424,32,Reek III,Theon Greyjoy,,Roose,Ryswell,,,,M,
+Luton,A Dance with Dragons,429,32,Reek III,Theon Greyjoy,,Luton,,,,,M,D
+Maester Uthor,A Dance with Dragons,430,32,Reek III,Theon Greyjoy,Maester,Uthor,,,,,M,
+Moqorro,A Dance with Dragons,434,33,Tyrion VIII,Tyrion Lannister,,Moqorro,,,,,M,
+Triarch Belicho,A Dance with Dragons,439,33,Tyrion VIII,Tyrion Lannister,Triarch,Belicho,,,,,M,
+"Lord Fowler, Dornish Lord Fowler",A Dance with Dragons,441,33,Tyrion VIII,Tyrion Lannister,Lord,?,Fowler,,Dornish Lord Fowler,,M,
+Hop-Bean,A Dance with Dragons,443,33,Tyrion VIII,Tyrion Lannister,,Hop-Bean,,,,,M,
+Ash,A Dance with Dragons,448,34,Bran III,Bran Stark,,Ash,,,,,?,
+Leaf,A Dance with Dragons,448,34,Bran III,Bran Stark,,Leaf,,,,,F,
+Scales,A Dance with Dragons,448,34,Bran III,Bran Stark,,Scales,,,,,?,
+Black Knife,A Dance with Dragons,448,34,Bran III,Bran Stark,,Black Knife,,,,,?,
+Snowylocks,A Dance with Dragons,448,34,Bran III,Bran Stark,,Snowylocks,,,,,F,
+Coals,A Dance with Dragons,448,34,Bran III,Bran Stark,,Coals,,,,,?,
+Tom Barleycorn,A Dance with Dragons,463,35,Jon VII,Jon Snow,,Tom,Barleycorn,,,,M,
+"Duncan Liddle, Big Liddle",A Dance with Dragons,463,35,Jon VII,Jon Snow,,Duncan,Liddle,,Big Liddle,,M,
+"Luke, Of Longtown",A Dance with Dragons,463,35,Jon VII,Jon Snow,,Luke,,,Of Longtown,,M,
+Leathers,A Dance with Dragons,463,35,Jon VII,Jon Snow,,Leathers,,,,,M,
+Jax,A Dance with Dragons,463,35,Jon VII,Jon Snow,,Jax,,,,,M,
+Alysane Mormont,A Dance with Dragons,470,35,Jon VII,Jon Snow,,Alysane,Mormont,,,,F,
+Lord Slate,A Dance with Dragons,485,37,The Prince of Winterfell,Theon Greyjoy,Lord,?,Slate,,,,M,
+Maester Medrick,A Dance with Dragons,495,37,The Prince of Winterfell,Theon Greyjoy,Maester,Medrick,,,,,M,
+Maester Rhodry,A Dance with Dragons,495,37,The Prince of Winterfell,Theon Greyjoy,Maester,Rhodry,,,,,M,
+Maester Henly,A Dance with Dragons,495,37,The Prince of Winterfell,Theon Greyjoy,Maester,Henly,,,,,M,
+Maester Walys,A Dance with Dragons,495,37,The Prince of Winterfell,Theon Greyjoy,Maester,Walys,,Flowers,,,M,
+"Daenerys Targaryen, Daughter of Aegon IV",A Dance with Dragons,500,38,The Watcher,Areo Hotah,,Daenerys,Targaryen,,Daughter of Aegon IV,,F,
+"Wun Weg Wun Dar Wun, Wun Wun",A Dance with Dragons,517,39,Jon VIII,Jon Snow,,Wun,Weg Wun Dar Wun,,Wun Wun,,M,
+Myrtle,A Dance with Dragons,539,41,The Turncloak,Theon Greyjoy,,Myrtle,,,,,F,D
+Holly,A Dance with Dragons,539,41,The Turncloak,Theon Greyjoy,,Holly,,,,,F,D
+Rowan,A Dance with Dragons,539,41,The Turncloak,Theon Greyjoy,,Rowan,,,,,F,D
+"Beron, Serjeant for House Dustin",A Dance with Dragons,544,41,The Turncloak,Theon Greyjoy,,Beron,,,Serjeant for House Dustin,,M,
+"Morgan Liddle, Middle Liddle",A Dance with Dragons,551,42,The King's Prize,Asha Greyjoy,,Morgan,Liddle,,Middle Liddle,,M,
+"Lord Brandon Norrey, The Norrey",A Dance with Dragons,551,42,The King's Prize,Asha Greyjoy,Lord,Brandon,Norrey,,The Norrey,,M,
+"Hugo Wull, Big Bucket Wull",A Dance with Dragons,551,42,The King's Prize,Asha Greyjoy,,Hugo,Wull,,Big Bucket Wull,,M,
+Artos Flint,A Dance with Dragons,551,42,The King's Prize,Asha Greyjoy,,Artos,Flint,,,,M,
+Lord Robin Peasebury,A Dance with Dragons,551,42,The King's Prize,Asha Greyjoy,Lord,Robin,Peasebury,,,,M,
+Lyra Mormont,A Dance with Dragons,554,42,The King's Prize,Asha Greyjoy,,Lyra,Mormont,,,,F,
+"Jorelle Mormont, Jory",A Dance with Dragons,554,42,The King's Prize,Asha Greyjoy,,Jorelle,Mormont,,Jory,,F,
+Benjicot Branch,A Dance with Dragons,557,42,The King's Prize,Asha Greyjoy,,Benjicot,Branch,,,,M,
+Ser Harys Cobb,A Dance with Dragons,559,42,The King's Prize,Asha Greyjoy,Ser,Harys,Cobb,,,,M,
+"William Foxglove, Will Foxglove",A Dance with Dragons,559,42,The King's Prize,Asha Greyjoy,,William,Foxglove,,Will Foxglove,,M,
+"Donnel Flint, Black Donnel Flint",A Dance with Dragons,560,42,The King's Prize,Asha Greyjoy,,Donnel,Flint,,Black Donnel Flint,,M,
+"Jack, Ginger Jack",A Dance with Dragons,569,43,Daenerys VII,Daenerys Targaryen,,Jack,,,Ginger Jack,,M,
+Ser Narbert Grandison,A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Narbert,Grandison,,,,M,
+Ser Benethon Scales,A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Benethon,Scales,,,,M,
+Ser Brus Buckler,A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Brus,Buckler,,,,M,
+"Ser Patrek, Of King's Mountain",A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Patrek,,,Of King's Mountain,,M,D
+"Ser Dorden, The Dour",A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Dorden,,,The Dour,,M,
+"Ser Malegorn, Of Redpool",A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Malegorn,,,Of Redpool,,M,
+Ser Lambert Whitewater,A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Lambert,Whitewater,,,,M,
+Ser Perkin Follard,A Dance with Dragons,579,44,Jon IX,Jon Snow,Ser,Perkin,Follard,,,,M,
+Tycho Nestoris,A Dance with Dragons,580,44,Jon IX,Jon Snow,,Tycho,Nestoris,,,,M,
+Dannel,A Dance with Dragons,588,44,Jon IX,Jon Snow,,Dannel,,,,,M,
+Cregan Karstark,A Dance with Dragons,590,44,Jon IX,Jon Snow,,Cregan,Karstark,,,,M,
+Tormo Fregar,A Dance with Dragons,594,45,The Blind Girl,Arya Stark,,Tormo,Fregar,,,,M,
+Pynto,A Dance with Dragons,601,45,The Blind Girl,Arya Stark,,Pynto,,,,,M,
+"Gelmar, The Grim",A Dance with Dragons,608,46,A Ghost in Winterfell,Theon Greyjoy,,Gelmar,,,The Grim,,M,
+Nurse,A Dance with Dragons,622,47,Tyrion X,Tyrion Lannister,,Nurse,,,,,M,D
+Zahrina,A Dance with Dragons,624,47,Tyrion X,Tyrion Lannister,,Zahrina,,,,,F,
+Sweets,A Dance with Dragons,627,47,Tyrion X,Tyrion Lannister,,Sweets,,,,,?,U
+Hildy,A Dance with Dragons,634,48,Jaime I,Jaime Lannister,,Hildy,,,,,M,
+Barba Bracken,A Dance with Dragons,636,48,Jaime I,Jaime Lannister,,Barba,Bracken,,,,F,
+Lady Melissa Blackwood,A Dance with Dragons,636,48,Jaime I,Jaime Lannister,Lady,Melissa,Blackwood,,,,F,
+Bethany Blackwood,A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Bethany,Blackwood,,,,F,
+Ben Blackwood,A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Ben,Blackwood,,,,M,
+Robert Blackwood,A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Robert,Blackwood,,,,M,
+Brynden Blackwood,A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Brynden,Blackwood,,,,M,
+"Hoster Blackwood, Hos",A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Hoster,Blackwood,,Hos,,M,
+"Harry Rivers, Bastard of Bracken",A Dance with Dragons,640,48,Jaime I,Jaime Lannister,,Harry,Rivers,,Bastard of Bracken,,M,
+"Harry Merrell, Hot Harry Merrell",A Dance with Dragons,644,48,Jaime I,Jaime Lannister,,Harry,Merrell,,Hot Harry Merrell,,M,
+Harsley,A Dance with Dragons,645,48,Jaime I,Jaime Lannister,,Harsley,,,,,M,
+Lacey,A Dance with Dragons,645,48,Jaime I,Jaime Lannister,,Lacey,,,,,F,
+"Lord Torghen Flint, Old Flint/The Flint",A Dance with Dragons,655,49,Jon X,Jon Snow,Lord,Torghen,Flint,,Old Flint/The Flint,,M,
+Gylo Rhegan,A Dance with Dragons,662,50,Daenerys VIII,Daenerys Targaryen,,Gylo,Rhegan,,,,M,
+Hero,A Dance with Dragons,663,50,Daenerys VIII,Daenerys Targaryen,,Hero,,,,,M,
+Marghaz zo Loraq,A Dance with Dragons,663,50,Daenerys VIII,Daenerys Targaryen,,Marghaz,zo Loraq,,,,M,
+Squirrel,A Dance with Dragons,673,51,Theon I,Theon Greyjoy,,Squirrel,,,,,F,D
+"Willow, Willow Witch-eye",A Dance with Dragons,679,51,Theon I,Theon Greyjoy,,Willow,,,Willow Witch-eye,,F,
+Frenya,A Dance with Dragons,674,51,Theon I,Theon Greyjoy,,Frenya,,,,,F,D
+"Tom Codd, Bloodless Tom",A Dance with Dragons,742,56,The Iron Suitor,Victarion Greyjoy,,Tom,Codd,,Bloodless Tom,,M,
+"Daegon Shepherd, The Black Shepherd",A Dance with Dragons,742,56,The Iron Suitor,Victarion Greyjoy,,Daegon,Shepherd,,The Black Shepherd,,M,
+"Rodrik Sparr, The Vole",A Dance with Dragons,742,56,The Iron Suitor,Victarion Greyjoy,,Rodrik,Sparr,,The Vole,,M,
+Maester Kerwin,A Dance with Dragons,734,55,The Queensguard,Barristan Selmy,Maester,Kerwin,,,,,M,D
+Burton Humble,A Dance with Dragons,747,56,The Iron Suitor,Victarion Greyjoy,,Burton,Humble,,,,M,
+Longwater Pyke,A Dance with Dragons,749,56,The Iron Suitor,Victarion Greyjoy,,Longwater,Pyke,,,,M,
+Scar,A Dance with Dragons,756,57,Tyrion XI,Tyrion Lannister,,Scar,,,,,M,
+Morgo,A Dance with Dragons,758,57,Tyrion XI,Tyrion Lannister,,Morgo,,,,,M,
+Viserys Plumm,A Dance with Dragons,767,57,Tyrion XI,Tyrion Lannister,,Viserys,Plumm,,,,M,
+"Tybero Istarion, Inkpots",A Dance with Dragons,768,57,Tyrion XI,Tyrion Lannister,,Tybero,Istarion,,Inkpots,,M,
+"Kasporio, The Cunning/The Cunt",A Dance with Dragons,768,57,Tyrion XI,Tyrion Lannister,,Kasporio,,,The Cunning/The Cunt,,M,
+"Maris, Black Maris",A Dance with Dragons,770,58,Jon XII,Jon Snow,,Maris,,,Black Maris,,F,
+"Fulk, The Flea",A Dance with Dragons,771,58,Jon XII,Jon Snow,,Fulk,,,The Flea,,M,
+"Garrett, Garrett Greenspear",A Dance with Dragons,771,58,Jon XII,Jon Snow,,Garrett,,,Garrett Greenspear,,M,
+Dryn,A Dance with Dragons,772,58,Jon XII,Jon Snow,,Dryn,,,,,M,
+Soren Shieldbreaker,A Dance with Dragons,773,58,Jon XII,Jon Snow,,Soren,Shieldbreaker,,,,M,
+Gerrick Kingsblood,A Dance with Dragons,773,58,Jon XII,Jon Snow,,Gerrick,Kingsblood,,,,M,
+"Harle, The Huntsman",A Dance with Dragons,773,58,Jon XII,Jon Snow,,Harle,,,The Huntsman,,M,
+"Harle, The Handsome",A Dance with Dragons,773,58,Jon XII,Jon Snow,,Harle,,,The Handsome,,M,
+Howd Wanderer,A Dance with Dragons,773,58,Jon XII,Jon Snow,,Howd,Wanderer,,,,M,
+Brogg,A Dance with Dragons,773,58,Jon XII,Jon Snow,,Brogg,,,,,M,
+Devyn Sealskinner,A Dance with Dragons,773,58,Jon XII,Jon Snow,,Devyn,Sealskinner,,,,M,
+"Kyleg, Of the Wooden Ear",A Dance with Dragons,773,58,Jon XII,Jon Snow,,Kyleg,,,Of the Wooden Ear,,M,
+"Morna, White Mask",A Dance with Dragons,773,58,Jon XII,Jon Snow,,Morna,,,White Mask,,F,
+The Great Walrus,A Dance with Dragons,773,58,Jon XII,Jon Snow,,?,,,The Great Walrus,,?,
+"Harghaz, The Hero",A Dance with Dragons,784,59,The Discarded Knight,Barristan Selmy,,Harghaz,,,The Hero,,M,
+Beans,A Dance with Dragons,793,60,The Spurned Suitor,Quentyn Martell,,Beans,,,,,M,
+Malo Jayn,A Dance with Dragons,802,61,The Griffin Reborn,Jon Connington,,Malo,Jayn,,,,M,
+Ser Brendel Byrne,A Dance with Dragons,802,61,The Griffin Reborn,Jon Connington,Ser,Brendel,Byrne,,,,M,
+Lord Armond Connington,A Dance with Dragons,803,61,The Griffin Reborn,Jon Connington,Lord,Armond,Connington,,,,M,
+Lord Morrigen,A Dance with Dragons,803,61,The Griffin Reborn,Jon Connington,Lord,?,Morrigen,,,,M,
+Ser Ronald Connington,A Dance with Dragons,804,61,The Griffin Reborn,Jon Connington,Ser,Ronald,Connington,,,,M,
+Raymund Connington,A Dance with Dragons,805,61,The Griffin Reborn,Jon Connington,,Raymund,Connington,,,,M,
+Alynne Connington,A Dance with Dragons,805,61,The Griffin Reborn,Jon Connington,,Alynne,Connington,,,,F,
+Ronald Storm,A Dance with Dragons,805,61,The Griffin Reborn,Jon Connington,,Ronald,Storm,,,,M,
+Ser Tristan,A Dance with Dragons,807,61,The Griffin Reborn,Jon Connington,Ser,Tristan,,,,,M,
+Dick Cole,A Dance with Dragons,810,61,The Griffin Reborn,Jon Connington,,Dick,Cole,,,,M,
+Lymond Pease,A Dance with Dragons,810,61,The Griffin Reborn,Jon Connington,,Lymond,Pease,,,,M,
+Canty,A Dance with Dragons,817,62,The Sacrifice,Asha Greyjoy,,Canty,,,,,M,
+Ser Humfrey Clifton,A Dance with Dragons,821,62,The Sacrifice,Asha Greyjoy,Ser,Humfrey,Clifton,,,,M,
+Ser Ormund Wylde,A Dance with Dragons,821,62,The Sacrifice,Asha Greyjoy,Ser,Ormund,Wylde,,,,M,
+"Ned Woods, Noseless Ned",A Dance with Dragons,822,62,The Sacrifice,Asha Greyjoy,,Ned,Woods,,Noseless Ned,,M,
+Arthor Karstark,A Dance with Dragons,823,62,The Sacrifice,Asha Greyjoy,,Arthor,Karstark,,,,M,
+Fingers,A Dance with Dragons,825,62,The Sacrifice,Asha Greyjoy,,Fingers,,,,,M,
+Rook,A Dance with Dragons,825,62,The Sacrifice,Asha Greyjoy,,Rook,,,,,M,
+Tom Tidewood,A Dance with Dragons,828,63,Victarion I,Victarion Greyjoy,,Tom,Tidewood,,,,M,
+"Steffar, Steffar Stammerer",A Dance with Dragons,829,63,Victarion I,Victarion Greyjoy,,Steffar,,,Steffar Stammerer,,M,
+Manfryd Merlyn,A Dance with Dragons,830,63,Victarion I,Victarion Greyjoy,,Manfryd,Merlyn,,,,M,
+Izembaro,A Dance with Dragons,846,64,The Ugly Little Girl,Arya Stark,,Izembaro,,,,,M,
+Ser Robert Strong,A Dance with Dragons,859,65,Cersei II,Cersei Lannister,Ser,Robert,Strong,,,,M,
+Bokkoko,A Dance with Dragons,861,66,Tyrion XII,Tyrion Lannister,,Bokkoko,,,,,M,
+Snatch,A Dance with Dragons,864,66,Tyrion XII,Tyrion Lannister,,Snatch,,,,,M,
+Kem,A Dance with Dragons,866,66,Tyrion XII,Tyrion Lannister,,Kem,,,,,M,
+Hammer,A Dance with Dragons,866,66,Tyrion XII,Tyrion Lannister,,Hammer,,,,,M,
+Kennet,A Dance with Dragons,866,66,Tyrion XII,Tyrion Lannister,,Kennet,,,,,M,
+Nail,A Dance with Dragons,867,66,Tyrion XII,Tyrion Lannister,,Nail,,,,,M,
+Steelskin,A Dance with Dragons,873,67,The Kingbreaker,Barristan Selmy,,Steelskin,,,,,M,
+Shiera Seastar,A Dance with Dragons,875,67,The Kingbreaker,Barristan Selmy,,Shiera,Seastar,,,,F,
+Grazdar,A Dance with Dragons,875,67,The Kingbreaker,Barristan Selmy,,Grazdar,,,,,M,
+Azzak,A Dance with Dragons,875,67,The Kingbreaker,Barristan Selmy,,Azzak,,,,,?,
+Bhakaz,A Dance with Dragons,875,67,The Kingbreaker,Barristan Selmy,,Bhakaz,,,,,M,
+Dhazzar,A Dance with Dragons,876,67,The Kingbreaker,Barristan Selmy,,Dhazzar,,,,,?,
+Tumco Lho,A Dance with Dragons,877,67,The Kingbreaker,Barristan Selmy,,Tumco,Lho,,,,M,
+"Larraq, The Lash",A Dance with Dragons,877,67,The Kingbreaker,Barristan Selmy,,Larraq,,,The Lash,,M,
+The Red Lamb,A Dance with Dragons,877,67,The Kingbreaker,Barristan Selmy,,?,,,The Red Lamb,,M,
+"Lord Whent, Old Lord Whent",A Dance with Dragons,878,67,The Kingbreaker,Barristan Selmy,Lord,?,Whent,,Old Lord Whent,,M,
+Draqaz,A Dance with Dragons,882,67,The Kingbreaker,Barristan Selmy,,Draqaz,,,,,?,
+Jezhene,A Dance with Dragons,886,67,The Kingbreaker,Barristan Selmy,,Jezhene,,,,,F,
+"Gavin, The Trader",A Dance with Dragons,904,69,Jon XIII,Jon Snow,,Gavin,,,The Trader,,M,
+"Doss, Blind Doss",A Dance with Dragons,904,69,Jon XIII,Jon Snow,,Doss,,,Blind Doss,,M,
+Ygon Oldfather,A Dance with Dragons,904,69,Jon XIII,Jon Snow,,Ygon,Oldfather,,,,M,
+Tal Toraq,A Dance with Dragons,917,70,The Queen's Hand,Barristan Selmy,,Tal,Toraq,,,,M,
+Jokin,A Dance with Dragons,917,70,The Queen's Hand,Barristan Selmy,,Jokin,,,,,M,
+The Widower,A Dance with Dragons,918,70,The Queen's Hand,Barristan Selmy,,?,,,The Widower,,M,
+Lord Renfred Rykker,A Dance with Dragons,966,73,Appendix,N/A,Lord,Renfred,Rykker,,,,M,
+Tyrion Tanner,A Dance with Dragons,966,73,Appendix,N/A,,Tyrion,Tanner,,,,M,
+Earl Harlaw,A Dance with Dragons,971,73,Appendix,N/A,,Earl,Harlaw,,,,M,
+Ser Richard Morrigen,A Dance with Dragons,979,73,Appendix,N/A,Ser,Richard,Morrigen,,,,M,
+Lord Arstan Selmy,A Dance with Dragons,979,73,Appendix,N/A,Lord,Arstan,Selmy,,,,M,
+Lord Casper Wylde,A Dance with Dragons,979,73,Appendix,N/A,Lord,Casper,Wylde,,,,M,
+Lord Sebastion Errol,A Dance with Dragons,980,73,Appendix,N/A,Lord,Sebastion,Errol,,,,M,
+Lord Clifford Swann,A Dance with Dragons,980,73,Appendix,N/A,Lord,Clifford,Swann,,,,M,
+Lady Mary Mertyns,A Dance with Dragons,980,73,Appendix,N/A,Lady,Mary,Mertyns,,,,F,
+Lady Alysanne Lefford,A Dance with Dragons,985,73,Appendix,N/A,Lady,Alysanne,Lefford,,,,F,
+Ser Lorent Lorch,A Dance with Dragons,985,73,Appendix,N/A,Ser,Lorent,Lorch,,,,M,
+Ser Tybolt Hetherspoon,A Dance with Dragons,985,73,Appendix,N/A,Ser,Tybolt,Hetherspoon,,,,M,
+Lord Quentyn Qorgyle,A Dance with Dragons,987,73,Appendix,N/A,Lord,Quentyn,Qorgyle,,,,M,
+Ser Symon Santagar,A Dance with Dragons,988,73,Appendix,N/A,Ser,Symon,Santagar,,,,M,
+Lord Trebor Jordayne,A Dance with Dragons,988,73,Appendix,N/A,Lord,Trebor,Jordayne,,,,M,
+Lord Daeron Vaith,A Dance with Dragons,988,73,Appendix,N/A,Lord,Daeron,Vaith,,,,M,
+Jorelle Mormont,A Dance with Dragons,991,73,Appendix,N/A,,Jorelle,Mormont,,,,F,
+Jyana Reed,A Dance with Dragons,991,73,Appendix,N/A,,Jyana,Reed,,,,F,
+Lady Bethany Bolton,A Dance with Dragons,991,73,Appendix,N/A,Lady,Bethany,Bolton,Ryswell,,,F,
+"Brandon Norrey, The Younger",A Dance with Dragons,992,73,Appendix,N/A,,Brandon,Norrey,,The Younger,,M,
+"Lord Torren Liddle, The Liddle",A Dance with Dragons,992,73,Appendix,N/A,Lord,Torren,Liddle,,The Liddle,,M,
+"Rickard Liddle, Little Liddle",A Dance with Dragons,992,73,Appendix,N/A,,Rickard,Liddle,,Little Liddle,,M,
+Alyn Blackwood,A Dance with Dragons,993,73,Appendix,N/A,,Alyn,Blackwood,,,,M,
+Edmund Blackwood,A Dance with Dragons,993,73,Appendix,N/A,,Edmund,Blackwood,,,,M,
+Barbara Bracken,A Dance with Dragons,993,73,Appendix,N/A,,Barbara,Bracken,,,,F,
+Jayne Bracken,A Dance with Dragons,993,73,Appendix,N/A,,Jayne,Bracken,,,,F,
+Catelyn Bracken,A Dance with Dragons,993,73,Appendix,N/A,,Catelyn,Bracken,,,,F,
+Bess Bracken,A Dance with Dragons,993,73,Appendix,N/A,,Bess,Bracken,,,,F,
+Alysanne Bracken,A Dance with Dragons,993,73,Appendix,N/A,,Alysanne,Bracken,,,,F,
+Eleanor Tarly,A Dance with Dragons,994,73,Appendix,N/A,,Eleanor,Tarly,Mooton,,,F,
+Old Tattersalt,A Dance with Dragons,999,73,Appendix,N/A,,?,,,Old Tattersalt,,M,
+Ser Maynard Holt,A Dance with Dragons,999,73,Appendix,N/A,Ser,Maynard,Holt,,,,M,
+Russ Barleycorn,A Dance with Dragons,999,73,Appendix,N/A,,Russ,Barleycorn,,,,M,
+Ferrego Antaryon,A Dance with Dragons,1005,73,Appendix,N/A,,Ferrego,Antaryon,,,,M,
+Qarro Volentin,A Dance with Dragons,1005,73,Appendix,N/A,,Qarro,Volentin,,,,M,
+The Daughter of the Dusk,A Dance with Dragons,1005,73,Appendix,N/A,,?,,,The Daughter of the Dusk,,F,
+The Nightingale,A Dance with Dragons,1005,73,Appendix,N/A,,?,,,The Nightingale,,F,
+Chezdhar zo Rhaezn,A Dance with Dragons,1008,73,Appendix,N/A,,Chezdhar,zo Rhaezn,,,,M,A
+Maezon zo Rhaezn,A Dance with Dragons,1008,73,Appendix,N/A,,Maezon,zo Rhaezn,,,,M,A
+Grazdhan zo Rhaezn,A Dance with Dragons,1008,73,Appendix,N/A,,Grazdhan,zo Rhaezn,,,,M,A
+Torman Peake,A Dance with Dragons,1014,73,Appendix,N/A,,Torman,Peake,,,,M,A
+Pykewood Peake,A Dance with Dragons,1014,73,Appendix,N/A,,Pykewood,Peake,,,,M,A
+Caspor Hill,A Dance with Dragons,1014,73,Appendix,N/A,,Caspor,Hill,,,,M,A
+Humfrey Stone,A Dance with Dragons,1014,73,Appendix,N/A,,Humfrey,Stone,,,,M,A
+Will Cole,A Dance with Dragons,1014,73,Appendix,N/A,,Will,Cole,,,,M,A
+Lorimas Mudd,A Dance with Dragons,1014,73,Appendix,N/A,,Lorimas,Mudd,,,,M,A
+Jon Lothston,A Dance with Dragons,1014,73,Appendix,N/A,,Jon,Lothston,,,,M,A
+Duncan Strong,A Dance with Dragons,1014,73,Appendix,N/A,,Duncan,Strong,,,,M,A
+Denys Strong,A Dance with Dragons,1014,73,Appendix,N/A,,Denys,Strong,,,,M,A
+Chains,A Dance with Dragons,1014,73,Appendix,N/A,,Chains,,,,,M,A
+"John Mudd, Young John Mudd",A Dance with Dragons,1014,73,Appendix,N/A,,John,Mudd,,Young John Mudd,,M,A
+Uhlan,A Dance with Dragons,1015,73,Appendix,N/A,,Uhlan,,,,,M,A
+"Ser Arlan, Of Pennytree",The Hedge Knight,575,1,N/A,N/A,Ser,Arlan,,,Of Pennytree,,M,D
+Lord Pearse Caron,The Hedge Knight,580,,,,Lord,Pearse,Caron,,,,M,D
+Ser Lyonel Baratheon,The Hedge Knight,580,,,,Ser,Lyonel,Baratheon,,,,M,D
+"Ser Otho Bracken, The Brute of Bracken",The Hedge Knight,580,,,,Ser,Otho,Bracken,,The Brute of Bracken,,M,D
+Lord Quentyn Blackwood,The Hedge Knight,580,,,,Lord,Quentyn,Blackwood,,,,M,D
+"Pate, Steely Pate",The Hedge Knight,583,,,,,Pate,,,Steely Pate,,M,D
+Plummer,The Hedge Knight,588,,,,,Plummer,,,,,M,D
+Lord Ashford,The Hedge Knight,590,,,,Lord,?,Ashford,,,,M,D
+Ser Manfred Dondarrion,The Hedge Knight,590,,,,Ser,Manfred,Dondarrion,,,,M,D
+"Prince Valarr Targaryen, The Young Prince",The Hedge Knight,592,,,,Prince,Valarr,Targaryen,,The Young Prince,,M,D
+"Prince Matarys Targaryen, The Even Younger Prince",The Hedge Knight,592,,,,Prince,Matarys,Targaryen,,The Even Younger Prince,,M,D
+Lord Gawen Swann,The Hedge Knight,592,,,,Lord,Gawen,Swann,,,,M,D
+Henly,The Hedge Knight,592,,,,,Henly,,,,,M,D
+"Ser Roland Crakehall, Of the Kingsguard",The Hedge Knight,593,,,,Ser,Roland,Crakehall,,Of the Kingsguard,,M,D
+Lady Ashford,The Hedge Knight,593,,,,Lady,?,Ashford,,,,F,D
+"Lord Florent, Blind Lord Florent",The Hedge Knight,595,,,,Lord,?,Florent,,Blind Lord Florent,,M,D
+Ser Steffon Fossoway,The Hedge Knight,596,,,,Ser,Steffon,Fossoway,,,,M,D
+Ser Grance Morrigen,The Hedge Knight,596,,,,Ser,Grance,Morrigen,,,,M,D
+Raymun Fossoway,The Hedge Knight,596,,,,,Raymun,Fossoway,,,,M,D
+"Lord Dondarrion, The First Lord Dondarrion",The Hedge Knight,600,,,,Lord,?,Dondarrion,,The First Lord Dondarrion,,M,D
+Prince Rhaegel Targaryen,The Hedge Knight,601,,,,Prince,Rhaegel,Targaryen,,,,M,D
+"Lord Stokeworth, At Ashford",The Hedge Knight,602,,,,Lord,?,Stokeworth,,At Ashford,,M,D
+The Bastard of Harrenhal,The Hedge Knight,602,,,,,?,,,The Bastard of Harrenhal,,M,D
+"Lord Damon Lannister, The Grey Lion",The Hedge Knight,602,,,,Lord,Damon,Lannister,,The Grey Lion,,M,D
+Lord Baratheon,The Hedge Knight,603,,,,Lord,?,Baratheon,,,,M,D
+"Tanselle, Tanselle Too-Tall",The Hedge Knight,606,,,,,Tanselle,,,Tanselle Too-Tall,,F,D
+Androw Ashford,The Hedge Knight,607,,,,,Androw,Ashford,,,,M,D
+Robert Ashford,The Hedge Knight,607,,,,,Robert,Ashford,,,,M,D
+Ser Humfrey Hardyng,The Hedge Knight,607,,,,Ser,Humfrey,Hardyng,,,,M,D
+"Lord Arryn, At Ashford",The Hedge Knight,608,,,,Lord,?,Arryn,,At Ashford,,M,D
+"Lord Royce, At Ashford",The Hedge Knight,608,,,,Lord,?,Royce,,At Ashford,,M,D
+Ser Tybolt Lannister,The Hedge Knight,608,,,,Ser,Tybolt,Lannister,,,,M,D
+Lord Tully,The Hedge Knight,608,,,,Lord,?,Tully,,,,M,D
+Ser Abelar Hightower,The Hedge Knight,608,,,,Ser,Abelar,Hightower,,,,M,D
+Ser Joseth Mallister,The Hedge Knight,611,,,,Ser,Joseth,Mallister,,,,M,D
+Ser Humfrey Beesbury,The Hedge Knight,612,,,,Ser,Humfrey,Beesbury,,,,M,D
+Ser Robyn Rhysling,The Hedge Knight,613,,,,Ser,Robyn,Rhysling,,,,M,D
+Wate,The Hedge Knight,620,,,,,Wate,,,,,M,D
+Yorkel,The Hedge Knight,622,,,,,Yorkel,,,,,M,D
+Maester Yormwell,The Hedge Knight,630,,,,Maester,Yormwell,,,,,M,D
