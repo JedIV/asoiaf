@@ -18,6 +18,7 @@ library(RColorBrewer)
 # Reads in csv
 chars <- read.csv("~/personal_repos/asoiaf/asoiaf_data.csv",stringsAsFactors=FALSE)
 
+#########################
 # Get chapter List
 #########################
 
@@ -29,8 +30,8 @@ chars$book_chaps <- factor(chars$book_chaps,
 
 chars$Book <- factor(chars$Book,
                             levels = c("A Game of Thrones",
-                                       "A Storm of Swords",
                                        "A Clash of Kings",
+                                       "A Storm of Swords",
                                        "A Feast for Crows",
                                        "A Dance with Dragons"))
 
@@ -57,7 +58,7 @@ chars_per_chap$book_chaps <- factor(chars_per_chap$book_chaps,
                                     levels = chars_per_chap[order(chars_per_chap$Character),]$book_chaps)
 
 char_plot <- ggplot(chars_per_chap,
-                             aes(book_chaps,Character)) +
+                       aes(book_chaps,Character)) +
                        geom_bar(aes(fill = Book),stat = "identity") +
                        coord_flip() +
                        theme_bw() + 
@@ -123,4 +124,3 @@ ggsave(
   height = 8,
   dpi = 1200
 )
-
