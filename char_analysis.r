@@ -164,7 +164,7 @@ kmeans_plot <- ggplot(pov_chars,aes(book_chaps,chars_per_chap,label = POV,colour
                        geom_text(size = 3) +
                        theme_bw() +
                        xlab("Total Chapters as POV") +
-                       ylab("Characters Introduced Per Chapter") +
+                       ylab("Avg. # of Characters Introduced Per Chapter") +
                        ggtitle("K-means Clustering of POV Characters in ASOIAF")
 
 ###########################
@@ -196,7 +196,7 @@ svg(
   "kmeans_plot.svg",
   width  = 8,
   height = 8)
-  kmeans_plot
+  print(kmeans_plot)
 dev.off()
 
 
