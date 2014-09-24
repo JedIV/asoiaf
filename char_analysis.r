@@ -14,6 +14,7 @@
 library(ggplot2)
 library(scales)
 library(RColorBrewer)
+library(gridExtra)
 
 # Reads in csv
 chars <- read.csv("~/personal_repos/asoiaf/asoiaf_data.csv",stringsAsFactors=FALSE)
@@ -21,6 +22,43 @@ chars <- read.csv("~/personal_repos/asoiaf/asoiaf_data.csv",stringsAsFactors=FAL
 #########################
 # Get chapter List
 #########################
+add_top_ticks <- function(plot, frame, size){
+  breaks = seq(0,size,size/3) 
+  num_bars = length(unique(frame))
+  if(size == 15){
+    a = .6
+    b = .8
+    c = 1.14} else {
+    a = .01
+    b = .012
+    c = .018}
+  # add tick marks
+  p <- plot
+  for (i in 1:length(breaks))   {
+    p = p + annotation_custom(grob = linesGrob(gp=gpar(col= "black")),  
+                         ymin = breaks[i], 
+                         ymax = breaks[i], 
+                         xmin = num_bars + a, 
+                         xmax = num_bars + b)
+    }
+
+  # Add tick mark labels
+  for (i in 1:length(breaks))   {
+    p = p + annotation_custom(grob = textGrob(label = breaks[i], gp=gpar(col= "black", cex = .8)),  
+                         ymin = breaks[i], 
+                         ymax = breaks[i], 
+                         xmin = num_bars + c, 
+                         xmax = num_bars + c)
+    }
+
+  # Code to override clipping
+  gt <- ggplot_gtable(ggplot_build(p))
+  gt$layout$clip[gt$layout$name=="panel"] <- "off"
+  grid.draw(gt)
+  return(gt)
+}
+
+
 
 chars$book_chaps <- paste(chars$Book, chars$Chapter.Name, sep = ": ")
 chap_list        <- unique(chars$book_chaps)
@@ -45,7 +83,10 @@ chapter_plot <- ggplot(chars[chars$Chapter.Name != "Appendix" &
                        xlab("Chapter") +
                        ylab("# of New Characters") + 
                        theme(axis.text.y=element_text(size=5)) +
+                       labs(title = "New Characters (Chapter Order)") +
+                       theme(plot.title = element_text(vjust = 2.3)) +
                        scale_fill_brewer(palette = "Set1")
+chapter_plot <- add_top_ticks(chapter_plot,chars$book_chaps,30)
 
 ######################
 # Chapter list organized descending order
@@ -65,7 +106,10 @@ char_plot <- ggplot(chars_per_chap,
                        xlab("Chapter") +
                        ylab("# of New Characters") + 
                        theme(axis.text.y=element_text(size=5)) +
+                       labs(title = "New Characters (Rank Order)") +
+                       theme(plot.title = element_text(vjust = 2.3)) +
                        scale_fill_brewer(palette = "Set1")
+char_plot <- add_top_ticks(char_plot,chars$book_chaps,30)
 
 #l <- mean(chars_per_chap$Character)
 
@@ -96,31 +140,32 @@ char_v_pov <- ggplot(pov_chars,
                     geom_bar(stat = "identity") +
                     coord_flip() +
                     theme_bw() + 
-                    xlab("Chapter") +
+                    xlab("Chapter's POV Character") +
                     ylab("# of New Characters") + 
                     theme(axis.text.y=element_text(size=5)) +
-                    scale_fill_brewer(palette = "Set1")
+                    scale_fill_brewer(palette = "Set1") +
+                    labs(title = "New Characters Per POV") +
+                    theme(plot.title = element_text(vjust = 2.3))
+
+char_v_pov <- add_top_ticks(char_v_pov,pov_chars$POV,15)
+
+svg(
+  "characters_per_chapter.svg",
+  width  = 8,
+  height = 20)
+  grid.draw(chapter_plot)
+dev.off()
 
 ggsave(
-  "characters_per_chapter.png",
-  chapter_plot,
+  "characters_per_chapter_desc.svg",
   width  = 8,
-  height = 20,
-  dpi = 1200
-)
+  height = 20)
+  grid.draw(char_plot)
+dev.off()
 
 ggsave(
-  "characters_per_chapter_desc.png",
-  char_plot,
+  "characters_per_pov.svg",
   width  = 8,
-  height = 20,
-  dpi = 1200
-)
-
-ggsave(
-  "characters_per_pov.png",
-  char_v_pov,
-  width  = 8,
-  height = 8,
-  dpi = 1200
-)
+  height = 8)
+  grid.draw(char_v_pov)
+dev.off()
