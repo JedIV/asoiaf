@@ -29,9 +29,9 @@ add_top_ticks <- function(plot, frame, size){
     a = .6
     b = .8
     c = 1.14} else {
-    a = .01
-    b = .012
-    c = .018}
+    a = -6
+    b = -5.2
+    c = -4.1}
   # add tick marks
   p <- plot
   for (i in 1:length(breaks))   {
@@ -84,7 +84,9 @@ chapter_plot <- ggplot(chars[chars$Chapter.Name != "Appendix" &
                        ylab("# of New Characters") + 
                        theme(axis.text.y=element_text(size=5)) +
                        labs(title = "New Characters (Chapter Order)") +
-                       theme(plot.title = element_text(vjust = 2.3)) +
+                       theme(plot.title = element_text(vjust = 2.9),
+                             legend.position = c(.8,.8),
+                             legend.title = element_blank()) +
                        scale_fill_brewer(palette = "Set1")
 chapter_plot <- add_top_ticks(chapter_plot,chars$book_chaps,30)
 
@@ -107,7 +109,9 @@ char_plot <- ggplot(chars_per_chap,
                        ylab("# of New Characters") + 
                        theme(axis.text.y=element_text(size=5)) +
                        labs(title = "New Characters (Rank Order)") +
-                       theme(plot.title = element_text(vjust = 2.3)) +
+                       theme(plot.title = element_text(vjust = 2.9),
+                             legend.position = c(.8,.8),
+                             legend.title = element_blank()) +
                        scale_fill_brewer(palette = "Set1")
 char_plot <- add_top_ticks(char_plot,chars$book_chaps,30)
 
@@ -142,12 +146,30 @@ char_v_pov <- ggplot(pov_chars,
                     theme_bw() + 
                     xlab("Chapter's POV Character") +
                     ylab("# of New Characters") + 
-                    theme(axis.text.y=element_text(size=5)) +
+                    theme(axis.text.y=element_text(size=6)) +
                     scale_fill_brewer(palette = "Set1") +
-                    labs(title = "New Characters Per POV") +
+                    labs(title = "Average New Characters Per POV Chapter") +
                     theme(plot.title = element_text(vjust = 2.3))
 
 char_v_pov <- add_top_ticks(char_v_pov,pov_chars$POV,15)
+
+###########################
+# K Means Analysis
+###########################
+
+chap_chars <- data.frame(scale(pov_chars$book_chaps),
+                         scale(pov_chars$chars_per_chap))
+pov_chars$k_choice <- kmeans(chap_chars, 3, iter.max = 15)$cluster
+kmeans_plot <- ggplot(pov_chars,aes(book_chaps,chars_per_chap,label = POV,colour = factor(k_choice))) +
+                       geom_text(size = 3) +
+                       theme_bw() +
+                       xlab("Total Chapters as POV") +
+                       ylab("Characters Introduced Per Chapter") +
+                       ggtitle("K-means Clustering of POV Characters in ASOIAF")
+
+###########################
+# Output
+###########################
 
 svg(
   "characters_per_chapter.svg",
@@ -156,16 +178,25 @@ svg(
   grid.draw(chapter_plot)
 dev.off()
 
-ggsave(
+svg(
   "characters_per_chapter_desc.svg",
   width  = 8,
   height = 20)
   grid.draw(char_plot)
 dev.off()
 
-ggsave(
+svg(
   "characters_per_pov.svg",
   width  = 8,
   height = 8)
   grid.draw(char_v_pov)
 dev.off()
+
+svg(
+  "kmeans_plot.svg",
+  width  = 8,
+  height = 8)
+  kmeans_plot
+dev.off()
+
+
